@@ -4,7 +4,7 @@ Journal: European Heart Journal – Digital Health (2022)\
 Authors: Hongxing Luo et al.\
 Study focus: Evaluating whether smartphones can record good-quality heart sounds when used by non-medical individuals.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://pmc.ncbi.nlm.nih.gov\&sz=32)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9708017/
 
 PMC
 
