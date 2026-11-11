@@ -1,0 +1,62 @@
+IGDB COUNTRY GENRE EVOLUTION — AUTOMATED DESCRIPTIVE SUMMARY
+========================================================================
+Eligible games: 75,971
+Countries represented: 118
+Genres represented: 23
+Release-year coverage: 1952–2025
+Five-year periods: 14 (anchored at 1952; final period may be partial)
+RCA specialization definition: RCA > 1 and weighted count >= 3.0
+
+TOP RCA SPECIALIZATIONS IN LATEST COMPLETE PERIOD (2017–2021)
+- Hungary — Pinball: RCA=117.17, weighted credits=29.0
+- Czechia — Music: RCA=14.11, weighted credits=103.0
+- China — MOBA: RCA=13.83, weighted credits=6.0
+- Egypt — Point-and-click: RCA=13.75, weighted credits=4.0
+- Peru — Point-and-click: RCA=11.58, weighted credits=4.0
+- Armenia — Point-and-click: RCA=11.41, weighted credits=22.0
+- Belgium — Quiz/Trivia: RCA=10.59, weighted credits=3.0
+- El Salvador — Racing: RCA=8.17, weighted credits=3.0
+- South Korea — MOBA: RCA=7.61, weighted credits=3.0
+- Italy — Racing: RCA=7.49, weighted credits=108.0
+- Malta — Shooter: RCA=7.42, weighted credits=3.0
+- Netherlands — MOBA: RCA=7.26, weighted credits=3.0
+
+DATA-DERIVED GENRE FAMILIES
+- Family 1 (19 genres): Adventure; Arcade; Card & Board Game; Fighting; Hack and slash/Beat 'em up; Indie; Platform; Point-and-click; Puzzle; Racing; Real Time Strategy (RTS); Role-playing (RPG); Shooter; Simulator; Sport; Strategy; Tactical; Turn-based strategy (TBS); Visual Novel
+- Family 2 (1 genres): Music
+- Family 3 (1 genres): Quiz/Trivia
+- Family 4 (1 genres): Pinball
+- Family 5 (1 genres): MOBA
+
+COUNTRY PATH CLASSIFICATION COUNTS
+- Insufficient period coverage: 102
+- Diversifying: 15
+- Broad / stable or mixed: 1
+
+RELATEDNESS AND NEXT-PERIOD ENTRY
+- Q1 lowest: adoption rate=0.074 (n=1,047)
+- Q2: adoption rate=0.137 (n=1,047)
+- Q3: adoption rate=0.209 (n=1,046)
+- Q4 highest: adoption rate=0.286 (n=1,047)
+Estimated using a binomial GLM with standard errors clustered by country. Observational association only.
+- Relatedness odds ratio per 1.0 score unit: 119.409; cluster-robust p=3.622e-25
+
+MOST COMMON OBSERVED GENRE-ENTRY TRANSITIONS
+- Adventure → Strategy: 17 countries; median lag=1.0 period(s)
+- Indie → Strategy: 16 countries; median lag=1.0 period(s)
+- Shooter → Puzzle: 16 countries; median lag=1.0 period(s)
+- Indie → Simulator: 15 countries; median lag=1.0 period(s)
+- Adventure → Arcade: 13 countries; median lag=1.0 period(s)
+- Shooter → Simulator: 13 countries; median lag=1.0 period(s)
+- Strategy → Indie: 13 countries; median lag=1.0 period(s)
+- Strategy → Simulator: 13 countries; median lag=1.0 period(s)
+- Puzzle → Simulator: 12 countries; median lag=1.0 period(s)
+- Adventure → Racing: 11 countries; median lag=1.0 period(s)
+
+IMPORTANT INTERPRETATION NOTES
+- RCA > 1 indicates relative specialization within this dataset and period; it does not measure consumer demand or game quality.
+- Country weights are fractional when a game has multiple country associations.
+- Genre families are exploratory clusters of co-occurring genre labels, not official IGDB parent categories.
+- Relatedness, follower-like timing, and sequence transitions are associations, not evidence of causal influence.
+- Countries with no game associations in a period are treated as missing in trajectory analysis.
+- Review the country-field semantics and coverage before writing claims about national game production.

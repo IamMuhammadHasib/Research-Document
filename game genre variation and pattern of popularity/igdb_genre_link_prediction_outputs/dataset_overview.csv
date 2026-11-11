@@ -1,0 +1,11 @@
+measure,value
+Games with country and genre,75971
+Game-country-genre rows,158939
+Unique countries represented,118
+Unique genres represented,23
+Game-genre pair events,130657
+Game-genre triple events,73984
+Possible genre pairs,253
+Possible genre triples,1771
+Pairs observed by cutoff,240
+Triples observed by cutoff,1081

@@ -1,0 +1,24 @@
+genre,first_adoption_year,countries_ever_adopted,countries_within_10_years,years_first_to_5th_country,total_weighted_games,total_distinct_games,peak_year,peak_annual_weighted_games,active_years,died_by_rule,death_year,rule_based_pattern,kmeans_cluster
+Indie,1996,69,7,8.0,18517.0,18517,2025,2470.0,43,False,,slow spread,0
+Adventure,1980,67,7,4.0,24461.0,24461,2024,2054.0,50,False,,slow spread,0
+Simulator,1972,58,1,17.0,12969.0,12969,2024,1205.0,54,False,,slow spread,0
+Strategy,1976,57,4,12.0,11306.0,11306,2024,944.0,53,False,,slow spread,0
+Puzzle,1976,54,4,11.0,10421.0,10421,2024,733.0,52,False,,slow spread,0
+Role-playing (RPG),1979,53,2,19.0,12702.0,12702,2025,1078.0,47,False,,slow spread,0
+Arcade,1972,48,4,15.0,10272.0,10272,2024,551.0,56,False,,slow spread,0
+Shooter,1972,42,3,15.0,10911.0,10911,2024,583.0,56,False,,slow spread,0
+Platform,1981,35,6,7.0,7935.0,7935,2024,446.0,47,False,,slow spread,0
+Point-and-click,1985,35,4,11.0,3067.0,3067,2025,176.0,44,False,,slow spread,0
+Sport,1972,27,2,17.0,6085.0,6085,2018,243.0,55,False,,slow spread,0
+Racing,1975,27,2,13.0,4051.0,4051,2024,202.0,54,False,,slow spread,0
+Turn-based strategy (TBS),1980,24,2,27.0,2456.0,2456,2025,186.0,50,False,,slow spread,0
+Card & Board Game,1979,24,2,14.0,2269.0,2269,2025,181.0,53,False,,slow spread,0
+Tactical,1983,24,3,22.0,2050.0,2050,2024,156.0,48,False,,slow spread,0
+Visual Novel,1983,23,1,31.0,5014.0,5014,2023,399.0,43,False,,slow spread,0
+Real Time Strategy (RTS),1984,21,3,15.0,1697.0,1697,2024,87.0,44,False,,slow spread,0
+Fighting,1984,19,5,9.0,3499.0,3499,2024,209.0,46,False,,slow spread,0
+Hack and slash/Beat 'em up,1984,19,4,19.0,3052.0,3052,2021,166.0,43,False,,slow spread,0
+Music,1987,16,2,21.0,2140.0,2140,2024,154.0,39,False,,slow spread,0
+Quiz/Trivia,1987,11,3,22.0,873.0,873,1995,47.0,48,False,,slow spread,0
+Pinball,1979,6,1,19.0,423.0,423,2025,53.0,47,False,,intermediate / emerging,0
+MOBA,2012,3,3,,107.0,107,2025,18.0,18,False,,local / limited spread,1

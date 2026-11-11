@@ -1,0 +1,6 @@
+data_family_id,number_of_genres,genres
+Family 1,19,Adventure; Arcade; Card & Board Game; Fighting; Hack and slash/Beat 'em up; Indie; Platform; Point-and-click; Puzzle; Racing; Real Time Strategy (RTS); Role-playing (RPG); Shooter; Simulator; Sport; Strategy; Tactical; Turn-based strategy (TBS); Visual Novel
+Family 2,1,Music
+Family 3,1,Quiz/Trivia
+Family 4,1,Pinball
+Family 5,1,MOBA

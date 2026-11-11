@@ -1,0 +1,10 @@
+measure,value
+Games in year window,75971
+Eligible games with country and genre,75971
+Countries represented,118
+Genres represented,23
+Weighted game-country-genre rows,158939
+Distinct game-country pairs,77157
+Distinct game-genre pairs,156277
+Minimum release year used,1952
+Maximum release year used,2025

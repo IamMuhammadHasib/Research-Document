@@ -1,0 +1,4 @@
+model,candidate_count,positive_count,k_used,hits_at_k,precision_at_k,recall_at_k,random_mean_hits,random_95pct,empirical_p_value,cutoff_year
+common_neighbors,39,32,10,9,0.9,0.28125,8.19,10.0,0.4205794205794206,2005
+common_neighbors,30,23,10,7,0.7,0.30434782608695654,7.721,9.0,0.8621378621378621,2010
+common_neighbors,13,6,10,5,0.5,0.8333333333333334,4.631,6.0,0.5684315684315684,2015

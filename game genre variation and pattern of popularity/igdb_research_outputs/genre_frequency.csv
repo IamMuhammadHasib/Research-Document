@@ -1,0 +1,24 @@
+genre,distinct_games,weighted_games,countries
+Adventure,24461,24461.0,103
+Indie,18517,18517.0,109
+Simulator,12969,12969.0,86
+Role-playing (RPG),12702,12702.0,88
+Strategy,11306,11306.0,84
+Shooter,10911,10911.0,86
+Puzzle,10421,10421.0,91
+Arcade,10272,10272.0,86
+Platform,7935,7935.0,88
+Sport,6085,6085.0,62
+Visual Novel,5014,5014.0,60
+Racing,4051,4051.0,68
+Fighting,3499,3499.0,72
+Point-and-click,3067,3067.0,67
+Hack and slash/Beat 'em up,3052,3052.0,63
+Turn-based strategy (TBS),2456,2456.0,61
+Card & Board Game,2269,2269.0,63
+Music,2140,2140.0,52
+Tactical,2050,2050.0,64
+Real Time Strategy (RTS),1697,1697.0,59
+Quiz/Trivia,873,873.0,45
+Pinball,423,423.0,23
+MOBA,107,107.0,26

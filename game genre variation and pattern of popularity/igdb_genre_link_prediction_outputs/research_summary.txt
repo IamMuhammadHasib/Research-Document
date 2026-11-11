@@ -1,0 +1,45 @@
+IGDB GENRE LINK-PREDICTION — AUTOMATIC RESEARCH SUMMARY
+==============================================================
+Analysis window: 1952–2025
+Historical training window: 1952–2015
+Historical test window: 2016–2025
+Valid games with at least one country and one genre: 75,971
+Unique genres in analysis: 23
+Possible genre pairs: 253
+Possible genre triples: 1,771
+
+GLOBAL PAIR TEST
+Missing pair candidates at cutoff: 13
+Missing pair candidates observed in test window: 6
+Common Neighbors hits@10: 5
+Common Neighbors precision@10: 0.500
+Random expected hits: 4.598
+Random 95th percentile hits: 6.000
+Empirical random-baseline p-value: 0.5594
+
+TRIPLE TEST
+Missing triple candidates at cutoff: 690
+Missing triple candidates observed in test window: 226
+Triple score hits@10: 4
+Triple score precision: 0.400
+
+COUNTRY-SPECIFIC PAIR TEST
+countries_evaluated: 47
+total_country_candidates: 8641
+total_top_k_slots: 470
+observed_hits: 297
+overall_precision_at_k: 0.6319148936170212
+mean_country_precision_at_k: 0.6319148936170211
+random_mean_hits: 122.335
+random_95pct_hits: 137.04999999999995
+empirical_p_value: 0.000999000999000999
+
+INTERPRETATION NOTES
+- A hit means a pair/triple absent before the cutoff appeared at least once in the held-out period.
+- The random baseline draws from the same candidate set; compare top-K hits with its distribution.
+- If there are very few positive new combinations, precision@10 and p-values will be unstable.
+- Link prediction estimates associations in this dataset; it does not prove that one genre causes another to combine.
+- Country-specific findings depend on the meaning and completeness of IGDB country associations.
+- Final candidates through 2025 are unvalidated hypotheses for observations after 2025.
+
+See the exported CSV files and charts for full results.

@@ -1,0 +1,6 @@
+data_family_id,first_specialization_period,first_specializing_country_or_countries,maximum_periods_specialized,countries_specialized_in_most_periods,maximum_consecutive_run_periods,countries_with_longest_consecutive_run
+Family 1,1972,Japan; United States,11,Japan; United States,11,Japan; United States
+Family 2,1987,Japan,8,Japan,8,Japan
+Family 3,1977,United States,6,Brazil; United States,6,Brazil
+Family 4,1977,Japan,5,United States,4,Hungary
+Family 5,2007,United States,3,United States,2,China; Netherlands; South Korea; United States

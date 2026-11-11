@@ -1,0 +1,471 @@
+rank_in_country,country_id,country_name,pre_cutoff_games,genre_a_id,genre_a,genre_b_id,genre_b,local_common_neighbors,global_common_neighbors,local_adamic_adar,future_game_count,appeared_2016_2025
+1,32,Argentina,37,9,Puzzle,31,Adventure,3,21,2.0008056674402104,17,True
+2,32,Argentina,37,8,Platform,32,Indie,3,21,1.9007930815553409,11,True
+3,32,Argentina,37,9,Puzzle,12,Role-playing (RPG),2,21,1.279458146995729,1,True
+4,32,Argentina,37,9,Puzzle,33,Arcade,2,21,1.279458146995729,1,True
+5,32,Argentina,37,12,Role-playing (RPG),31,Adventure,2,21,1.279458146995729,9,True
+6,32,Argentina,37,5,Shooter,31,Adventure,2,21,1.1162212531024944,2,True
+7,32,Argentina,37,8,Platform,14,Sport,2,20,1.179445561110859,0,False
+8,32,Argentina,37,14,Sport,32,Indie,2,20,1.179445561110859,2,True
+9,32,Argentina,37,2,Point-and-click,8,Platform,2,19,1.3426824550040934,0,False
+10,32,Argentina,37,2,Point-and-click,33,Arcade,2,19,1.179445561110859,0,False
+1,36,Australia,451,16,Turn-based strategy (TBS),33,Arcade,9,21,3.455450715789396,0,False
+2,36,Australia,451,14,Sport,35,Card & Board Game,9,20,3.355140993833294,0,False
+3,36,Australia,451,5,Shooter,16,Turn-based strategy (TBS),8,21,2.8973400892381487,0,False
+4,36,Australia,451,5,Shooter,26,Quiz/Trivia,8,21,2.8973400892381487,0,False
+5,36,Australia,451,26,Quiz/Trivia,33,Arcade,8,21,2.8973400892381487,0,False
+6,36,Australia,451,13,Simulator,25,Hack and slash/Beat 'em up,7,20,2.757820570507283,9,True
+7,36,Australia,451,4,Fighting,15,Strategy,7,20,2.7490116517764367,1,True
+8,36,Australia,451,4,Fighting,32,Indie,7,20,2.7490116517764367,7,True
+9,36,Australia,451,5,Shooter,10,Racing,7,20,2.5513638329769552,3,True
+10,36,Australia,451,10,Racing,12,Role-playing (RPG),7,20,2.5513638329769552,3,True
+1,40,Austria,110,12,Role-playing (RPG),13,Simulator,6,20,2.762516368555485,2,True
+2,40,Austria,110,15,Strategy,33,Arcade,5,21,2.1330323116497754,1,True
+3,40,Austria,110,9,Puzzle,11,Real Time Strategy (RTS),5,20,2.180807636762433,0,False
+4,40,Austria,110,2,Point-and-click,11,Real Time Strategy (RTS),5,19,2.2440319447707977,0,False
+5,40,Austria,110,2,Point-and-click,9,Puzzle,5,19,2.0569914921144377,0,False
+6,40,Austria,110,5,Shooter,8,Platform,4,21,1.684382337342163,1,True
+7,40,Austria,110,9,Puzzle,16,Turn-based strategy (TBS),4,21,1.6671202468631576,1,True
+8,40,Austria,110,25,Hack and slash/Beat 'em up,32,Indie,4,21,1.6671202468631576,3,True
+9,40,Austria,110,5,Shooter,15,Strategy,4,21,1.6191339692800244,1,True
+10,40,Austria,110,12,Role-playing (RPG),24,Tactical,4,20,1.8939274047489816,3,True
+1,51,Armenia,65,5,Shooter,12,Role-playing (RPG),2,21,1.279458146995729,1,True
+2,51,Armenia,65,15,Strategy,33,Arcade,2,21,1.1162212531024944,1,True
+3,51,Armenia,65,31,Adventure,33,Arcade,2,21,1.1162212531024944,1,True
+4,51,Armenia,65,4,Fighting,32,Indie,2,20,1.279458146995729,0,False
+5,51,Armenia,65,13,Simulator,33,Arcade,2,20,1.1162212531024944,1,True
+6,51,Armenia,65,5,Shooter,15,Strategy,1,21,0.5581106265512472,1,True
+7,51,Armenia,65,5,Shooter,31,Adventure,1,21,0.5581106265512472,1,True
+8,51,Armenia,65,9,Puzzle,12,Role-playing (RPG),1,21,0.5581106265512472,0,False
+9,51,Armenia,65,9,Puzzle,15,Strategy,1,21,0.5581106265512472,0,False
+10,51,Armenia,65,9,Puzzle,32,Indie,1,21,0.5581106265512472,0,False
+1,56,Belgium,122,5,Shooter,9,Puzzle,7,21,3.1900325542353123,1,True
+2,56,Belgium,122,12,Role-playing (RPG),13,Simulator,7,20,3.1855869752832797,3,True
+3,56,Belgium,122,31,Adventure,33,Arcade,6,21,2.7997778138500635,10,True
+4,56,Belgium,122,9,Puzzle,24,Tactical,6,20,2.5686976196757003,2,True
+5,56,Belgium,122,8,Platform,15,Strategy,5,21,2.210443957307786,1,True
+6,56,Belgium,122,5,Shooter,16,Turn-based strategy (TBS),5,21,2.0877992727127124,0,False
+7,56,Belgium,122,8,Platform,13,Simulator,5,20,2.210443957307786,0,False
+8,56,Belgium,122,5,Shooter,24,Tactical,5,20,2.0877992727127124,1,True
+9,56,Belgium,122,12,Role-playing (RPG),33,Arcade,4,21,1.7441483973872,0,False
+10,56,Belgium,122,8,Platform,12,Role-playing (RPG),4,21,1.7295456103447984,1,True
+1,76,Brazil,253,9,Puzzle,13,Simulator,14,20,6.34742985012876,20,True
+2,76,Brazil,253,12,Role-playing (RPG),14,Sport,8,20,3.378824780298065,2,True
+3,76,Brazil,253,5,Shooter,35,Card & Board Game,8,20,3.081200864269981,2,True
+4,76,Brazil,253,9,Puzzle,16,Turn-based strategy (TBS),7,21,2.7365042145577743,3,True
+5,76,Brazil,253,8,Platform,15,Strategy,7,21,2.6128608764375576,10,True
+6,76,Brazil,253,10,Racing,12,Role-playing (RPG),7,20,3.0539786438811816,0,False
+7,76,Brazil,253,8,Platform,14,Sport,7,20,2.955953539640022,1,True
+8,76,Brazil,253,14,Sport,33,Arcade,7,20,2.864926437928314,8,True
+9,76,Brazil,253,5,Shooter,11,Real Time Strategy (RTS),7,20,2.8335384904652696,0,False
+10,76,Brazil,253,16,Turn-based strategy (TBS),24,Tactical,7,20,2.6420583614665967,7,True
+1,100,Bulgaria,55,12,Role-playing (RPG),24,Tactical,5,20,2.60614515146861,4,True
+2,100,Bulgaria,55,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),5,20,2.5289328718803503,1,True
+3,100,Bulgaria,55,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,4,21,1.9708222453291033,0,False
+4,100,Bulgaria,55,13,Simulator,32,Indie,4,20,1.9075979373207386,1,True
+5,100,Bulgaria,55,24,Tactical,32,Indie,3,20,1.4266995903577508,0,False
+6,100,Bulgaria,55,11,Real Time Strategy (RTS),25,Hack and slash/Beat 'em up,3,20,1.3494873107694914,0,False
+7,100,Bulgaria,55,11,Real Time Strategy (RTS),32,Indie,3,20,1.3494873107694914,0,False
+8,100,Bulgaria,55,13,Simulator,25,Hack and slash/Beat 'em up,3,20,1.3494873107694914,0,False
+9,100,Bulgaria,55,8,Platform,12,Role-playing (RPG),2,21,1.344533708530089,0,False
+10,100,Bulgaria,55,9,Puzzle,15,Strategy,2,21,0.9151928288662396,1,True
+1,124,Canada,1489,7,Music,25,Hack and slash/Beat 'em up,11,19,3.9412172747402128,1,True
+2,124,Canada,1489,4,Fighting,10,Racing,11,19,3.9286589156096485,2,True
+3,124,Canada,1489,2,Point-and-click,4,Fighting,10,19,3.549735733919697,0,False
+4,124,Canada,1489,2,Point-and-click,10,Racing,10,19,3.549735733919697,0,False
+5,124,Canada,1489,2,Point-and-click,14,Sport,10,19,3.549735733919697,0,False
+6,124,Canada,1489,4,Fighting,7,Music,10,19,3.5387876703583685,0,False
+7,124,Canada,1489,9,Puzzle,11,Real Time Strategy (RTS),9,20,3.2620279781170747,0,False
+8,124,Canada,1489,2,Point-and-click,7,Music,9,19,3.159864488668417,3,True
+9,124,Canada,1489,5,Shooter,16,Turn-based strategy (TBS),8,21,2.9490078817506546,0,False
+10,124,Canada,1489,9,Puzzle,24,Tactical,8,20,2.939463427629129,5,True
+1,152,Chile,30,8,Platform,25,Hack and slash/Beat 'em up,2,21,1.424137568996588,0,False
+2,152,Chile,30,32,Indie,33,Arcade,2,21,1.3426824550040934,6,True
+3,152,Chile,30,5,Shooter,31,Adventure,2,21,1.2352458628142324,6,True
+4,152,Chile,30,4,Fighting,31,Adventure,2,20,1.2352458628142324,1,True
+5,152,Chile,30,5,Shooter,10,Racing,2,20,1.2352458628142324,1,True
+6,152,Chile,30,9,Puzzle,31,Adventure,1,21,0.9102392266268373,9,True
+7,152,Chile,30,9,Puzzle,32,Indie,1,21,0.9102392266268373,10,True
+8,152,Chile,30,25,Hack and slash/Beat 'em up,33,Arcade,1,21,0.7213475204444817,0,False
+9,152,Chile,30,15,Strategy,33,Arcade,1,21,0.6213349345596119,0,False
+10,152,Chile,30,5,Shooter,8,Platform,1,21,0.5138983423697507,1,True
+1,156,China,485,31,Adventure,33,Arcade,8,21,3.7857970661085725,9,True
+2,156,China,485,5,Shooter,9,Puzzle,6,21,2.657068915295764,2,True
+3,156,China,485,13,Simulator,25,Hack and slash/Beat 'em up,6,20,2.7600599285335923,1,True
+4,156,China,485,8,Platform,12,Role-playing (RPG),5,21,2.2019493019823453,28,True
+5,156,China,485,9,Puzzle,12,Role-playing (RPG),5,21,2.2019493019823453,25,True
+6,156,China,485,15,Strategy,25,Hack and slash/Beat 'em up,5,21,2.1431705729260133,4,True
+7,156,China,485,10,Racing,31,Adventure,5,20,2.195860581857587,3,True
+8,156,China,485,15,Strategy,32,Indie,4,21,1.9277814212005286,65,True
+9,156,China,485,16,Turn-based strategy (TBS),31,Adventure,4,21,1.7995196976005006,13,True
+10,156,China,485,32,Indie,33,Arcade,4,21,1.778828190433341,13,True
+1,158,Taiwan,194,8,Platform,12,Role-playing (RPG),5,21,2.5053347666385455,1,True
+2,158,Taiwan,194,5,Shooter,9,Puzzle,5,21,2.3721194407991155,0,False
+3,158,Taiwan,194,8,Platform,33,Arcade,4,21,2.1134394613334915,0,False
+4,158,Taiwan,194,15,Strategy,33,Arcade,4,21,1.9263990086771314,0,False
+5,158,Taiwan,194,32,Indie,33,Arcade,4,21,1.9263990086771314,1,True
+6,158,Taiwan,194,5,Shooter,12,Role-playing (RPG),4,21,1.8582210984293646,1,True
+7,158,Taiwan,194,9,Puzzle,25,Hack and slash/Beat 'em up,4,21,1.7931836828377012,0,False
+8,158,Taiwan,194,5,Shooter,25,Hack and slash/Beat 'em up,3,21,1.3588892009344495,0,False
+9,158,Taiwan,194,15,Strategy,25,Hack and slash/Beat 'em up,3,21,1.3380640695242825,0,False
+10,158,Taiwan,194,25,Hack and slash/Beat 'em up,32,Indie,3,21,1.3380640695242825,3,True
+1,191,Croatia,46,12,Role-playing (RPG),31,Adventure,5,21,2.5705831347006844,10,True
+2,191,Croatia,46,5,Shooter,13,Simulator,4,20,1.9750269337906414,1,True
+3,191,Croatia,46,9,Puzzle,13,Simulator,4,20,1.9750269337906414,7,True
+4,191,Croatia,46,5,Shooter,33,Arcade,3,21,1.6573654807208882,3,True
+5,191,Croatia,46,8,Platform,9,Puzzle,3,21,1.391137573589825,1,True
+6,191,Croatia,46,8,Platform,15,Strategy,3,21,1.391137573589825,0,False
+7,191,Croatia,46,2,Point-and-click,5,Shooter,3,19,1.4941285868276537,0,False
+8,191,Croatia,46,2,Point-and-click,15,Strategy,3,19,1.4941285868276537,0,False
+9,191,Croatia,46,9,Puzzle,33,Arcade,2,21,0.9360179602764065,0,False
+10,191,Croatia,46,15,Strategy,33,Arcade,2,21,0.9360179602764065,2,True
+1,196,Cyprus,43,11,Real Time Strategy (RTS),12,Role-playing (RPG),4,20,2.174242250443598,3,True
+2,196,Cyprus,43,12,Role-playing (RPG),33,Arcade,3,21,1.552907315883986,1,True
+3,196,Cyprus,43,11,Real Time Strategy (RTS),33,Arcade,3,20,1.552907315883986,0,False
+4,196,Cyprus,43,24,Tactical,33,Arcade,3,20,1.552907315883986,0,False
+5,196,Cyprus,43,5,Shooter,31,Adventure,2,21,0.9947966893327386,16,True
+6,196,Cyprus,43,12,Role-playing (RPG),31,Adventure,2,21,0.9947966893327386,44,True
+7,196,Cyprus,43,31,Adventure,33,Arcade,2,21,0.9947966893327386,4,True
+8,196,Cyprus,43,11,Real Time Strategy (RTS),31,Adventure,2,20,0.9947966893327386,2,True
+9,196,Cyprus,43,24,Tactical,31,Adventure,2,20,0.9947966893327386,13,True
+10,196,Cyprus,43,5,Shooter,9,Puzzle,1,21,0.7213475204444817,1,True
+1,203,Czechia,239,11,Real Time Strategy (RTS),31,Adventure,7,20,2.8693788429789975,0,False
+2,203,Czechia,239,4,Fighting,9,Puzzle,7,20,2.7709667186371223,0,False
+3,203,Czechia,239,9,Puzzle,10,Racing,7,20,2.7709667186371223,0,False
+4,203,Czechia,239,10,Racing,24,Tactical,7,19,2.8470075381724596,0,False
+5,203,Czechia,239,8,Platform,13,Simulator,6,20,2.333109195802709,0,False
+6,203,Czechia,239,13,Simulator,33,Arcade,6,20,2.333109195802709,17,True
+7,203,Czechia,239,4,Fighting,13,Simulator,6,19,2.333109195802709,1,True
+8,203,Czechia,239,5,Shooter,16,Turn-based strategy (TBS),5,21,2.032654756693901,0,False
+9,203,Czechia,239,16,Turn-based strategy (TBS),31,Adventure,5,21,2.032654756693901,3,True
+10,203,Czechia,239,5,Shooter,25,Hack and slash/Beat 'em up,5,21,1.9896139325653261,1,True
+1,208,Denmark,154,15,Strategy,33,Arcade,5,21,2.200461308119678,1,True
+2,208,Denmark,154,13,Simulator,31,Adventure,5,20,2.2890968289531464,11,True
+3,208,Denmark,154,5,Shooter,10,Racing,5,20,2.200461308119678,0,False
+4,208,Denmark,154,8,Platform,12,Role-playing (RPG),4,21,1.6399591006901915,1,True
+5,208,Denmark,154,9,Puzzle,12,Role-playing (RPG),4,21,1.6399591006901915,2,True
+6,208,Denmark,154,10,Racing,15,Strategy,4,20,1.7453416948062594,1,True
+7,208,Denmark,154,8,Platform,24,Tactical,4,20,1.6399591006901915,0,False
+8,208,Denmark,154,9,Puzzle,24,Tactical,4,20,1.6399591006901915,3,True
+9,208,Denmark,154,12,Role-playing (RPG),16,Turn-based strategy (TBS),3,21,1.5163157625699744,7,True
+10,208,Denmark,154,25,Hack and slash/Beat 'em up,33,Arcade,3,21,1.4718925259180027,1,True
+1,246,Finland,370,5,Shooter,13,Simulator,11,20,4.71815669763803,5,True
+2,246,Finland,370,5,Shooter,9,Puzzle,8,21,3.2094616659355406,2,True
+3,246,Finland,370,12,Role-playing (RPG),24,Tactical,8,20,3.316226672575006,6,True
+4,246,Finland,370,24,Tactical,31,Adventure,8,20,3.316226672575006,6,True
+5,246,Finland,370,10,Racing,12,Role-playing (RPG),8,20,3.093128960692967,0,False
+6,246,Finland,370,25,Hack and slash/Beat 'em up,33,Arcade,7,21,2.814726453429593,2,True
+7,246,Finland,370,4,Fighting,32,Indie,7,20,2.896064811468084,8,True
+8,246,Finland,370,9,Puzzle,11,Real Time Strategy (RTS),7,20,2.7420069527192994,0,False
+9,246,Finland,370,8,Platform,11,Real Time Strategy (RTS),7,20,2.6781409971805576,0,False
+10,246,Finland,370,9,Puzzle,16,Turn-based strategy (TBS),6,21,2.3521357074680194,3,True
+1,250,France,1456,16,Turn-based strategy (TBS),33,Arcade,14,21,5.136458019049071,3,True
+2,250,France,1456,5,Shooter,16,Turn-based strategy (TBS),13,21,4.679066094777977,5,True
+3,250,France,1456,9,Puzzle,11,Real Time Strategy (RTS),12,20,4.409394922293448,0,False
+4,250,France,1456,5,Shooter,35,Card & Board Game,12,20,4.2533433735884705,1,True
+5,250,France,1456,14,Sport,35,Card & Board Game,12,20,4.20558035523308,2,True
+6,250,France,1456,4,Fighting,24,Tactical,12,20,4.19463229167175,4,True
+7,250,France,1456,7,Music,24,Tactical,12,19,4.19463229167175,0,False
+8,250,France,1456,9,Puzzle,25,Hack and slash/Beat 'em up,11,21,3.8783021365843036,2,True
+9,250,France,1456,11,Real Time Strategy (RTS),33,Arcade,11,20,4.040125549224593,2,True
+10,250,France,1456,13,Simulator,25,Hack and slash/Beat 'em up,11,20,3.8783021365843036,1,True
+1,276,Germany,939,24,Tactical,31,Adventure,11,20,4.4055585456141255,16,True
+2,276,Germany,939,11,Real Time Strategy (RTS),33,Arcade,9,20,3.375228356489549,2,True
+3,276,Germany,939,10,Racing,12,Role-playing (RPG),9,20,3.2990319248660813,0,False
+4,276,Germany,939,12,Role-playing (RPG),14,Sport,9,20,3.2990319248660813,1,True
+5,276,Germany,939,16,Turn-based strategy (TBS),33,Arcade,8,21,2.972798752107704,4,True
+6,276,Germany,939,13,Simulator,25,Hack and slash/Beat 'em up,8,20,3.3088887060540437,1,True
+7,276,Germany,939,31,Adventure,35,Card & Board Game,8,20,3.127410370596708,7,True
+8,276,Germany,939,8,Platform,24,Tactical,8,20,3.054936116959279,1,True
+9,276,Germany,939,24,Tactical,33,Arcade,8,20,3.02915738330971,7,True
+10,276,Germany,939,5,Shooter,35,Card & Board Game,8,20,3.015941632608802,0,False
+1,344,Hong Kong,47,9,Puzzle,12,Role-playing (RPG),3,21,2.0008056674402104,1,True
+2,344,Hong Kong,47,8,Platform,33,Arcade,2,21,1.279458146995729,1,True
+3,344,Hong Kong,47,12,Role-playing (RPG),32,Indie,2,21,1.279458146995729,8,True
+4,344,Hong Kong,47,32,Indie,33,Arcade,2,21,1.279458146995729,16,True
+5,344,Hong Kong,47,5,Shooter,15,Strategy,2,21,1.179445561110859,1,True
+6,344,Hong Kong,47,8,Platform,15,Strategy,2,21,1.179445561110859,0,False
+7,344,Hong Kong,47,15,Strategy,31,Adventure,2,21,1.179445561110859,4,True
+8,344,Hong Kong,47,15,Strategy,33,Arcade,2,21,1.179445561110859,2,True
+9,344,Hong Kong,47,5,Shooter,13,Simulator,2,20,1.179445561110859,1,True
+10,344,Hong Kong,47,8,Platform,13,Simulator,2,20,1.179445561110859,2,True
+1,348,Hungary,151,10,Racing,31,Adventure,7,20,2.908124555289863,0,False
+2,348,Hungary,151,13,Simulator,31,Adventure,6,20,2.75223284451427,2,True
+3,348,Hungary,151,5,Shooter,13,Simulator,6,20,2.486004937383207,1,True
+4,348,Hungary,151,24,Tactical,33,Arcade,6,20,2.4381742718882036,0,False
+5,348,Hungary,151,5,Shooter,25,Hack and slash/Beat 'em up,5,21,1.9068582269513177,1,True
+6,348,Hungary,151,8,Platform,25,Hack and slash/Beat 'em up,5,21,1.9068582269513177,0,False
+7,348,Hungary,151,9,Puzzle,25,Hack and slash/Beat 'em up,5,21,1.9068582269513177,0,False
+8,348,Hungary,151,8,Platform,24,Tactical,5,20,1.983054658574785,0,False
+9,348,Hungary,151,9,Puzzle,24,Tactical,5,20,1.983054658574785,0,False
+10,348,Hungary,151,8,Platform,13,Simulator,5,20,1.9721065950134562,0,False
+1,352,Iceland,26,12,Role-playing (RPG),31,Adventure,3,21,1.9007930815553409,1,True
+2,352,Iceland,26,8,Platform,15,Strategy,2,21,1.279458146995729,0,False
+3,352,Iceland,26,9,Puzzle,12,Role-playing (RPG),2,21,1.179445561110859,0,False
+4,352,Iceland,26,9,Puzzle,31,Adventure,2,21,1.179445561110859,0,False
+5,352,Iceland,26,8,Platform,13,Simulator,2,20,1.279458146995729,0,False
+6,352,Iceland,26,9,Puzzle,13,Simulator,2,20,1.179445561110859,0,False
+7,352,Iceland,26,8,Platform,9,Puzzle,1,21,0.5581106265512472,0,False
+8,352,Iceland,26,8,Platform,12,Role-playing (RPG),1,21,0.5581106265512472,0,False
+9,352,Iceland,26,5,Shooter,8,Platform,0,21,0.0,1,True
+10,352,Iceland,26,5,Shooter,9,Puzzle,0,21,0.0,0,False
+1,356,India,47,13,Simulator,32,Indie,5,20,2.821400204878737,13,True
+2,356,India,47,7,Music,31,Adventure,5,19,2.3992805869720817,1,True
+3,356,India,47,8,Platform,12,Role-playing (RPG),4,21,1.8081699650140715,0,False
+4,356,India,47,9,Puzzle,12,Role-playing (RPG),4,21,1.8081699650140715,0,False
+5,356,India,47,8,Platform,13,Simulator,4,20,1.9111609782519001,0,False
+6,356,India,47,11,Real Time Strategy (RTS),33,Arcade,4,20,1.8669486940704036,0,False
+7,356,India,47,9,Puzzle,33,Arcade,3,21,1.4118290807569849,2,True
+8,356,India,47,32,Indie,33,Arcade,3,21,1.4118290807569849,3,True
+9,356,India,47,12,Role-playing (RPG),33,Arcade,3,21,1.3530503517006527,1,True
+10,356,India,47,31,Adventure,35,Card & Board Game,3,20,1.4302626312889122,0,False
+1,360,Indonesia,23,12,Role-playing (RPG),24,Tactical,3,20,1.552907315883986,0,False
+2,360,Indonesia,23,24,Tactical,31,Adventure,3,20,1.552907315883986,3,True
+3,360,Indonesia,23,13,Simulator,24,Tactical,3,19,1.552907315883986,0,False
+4,360,Indonesia,23,16,Turn-based strategy (TBS),32,Indie,2,21,1.2022458674074694,1,True
+5,360,Indonesia,23,9,Puzzle,12,Role-playing (RPG),2,21,1.072008968920998,5,True
+6,360,Indonesia,23,9,Puzzle,15,Strategy,2,21,1.072008968920998,1,True
+7,360,Indonesia,23,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),2,20,1.2022458674074694,0,False
+8,360,Indonesia,23,9,Puzzle,11,Real Time Strategy (RTS),2,20,1.072008968920998,0,False
+9,360,Indonesia,23,9,Puzzle,13,Simulator,2,20,1.072008968920998,7,True
+10,360,Indonesia,23,2,Point-and-click,11,Real Time Strategy (RTS),2,19,1.039008973514235,0,False
+1,372,Ireland,40,15,Strategy,31,Adventure,4,21,2.0504261057956024,5,True
+2,372,Ireland,40,13,Simulator,32,Indie,4,20,2.0080269291974044,8,True
+3,372,Ireland,40,5,Shooter,31,Adventure,3,21,1.6365403493107213,2,True
+4,372,Ireland,40,12,Role-playing (RPG),31,Adventure,3,21,1.4290911712359904,10,True
+5,372,Ireland,40,9,Puzzle,16,Turn-based strategy (TBS),3,21,1.4033124375864212,0,False
+6,372,Ireland,40,9,Puzzle,26,Quiz/Trivia,3,21,1.4033124375864212,1,True
+7,372,Ireland,40,9,Puzzle,35,Card & Board Game,3,20,1.4033124375864212,0,False
+8,372,Ireland,40,2,Point-and-click,32,Indie,3,19,1.4941285868276537,7,True
+9,372,Ireland,40,2,Point-and-click,12,Role-playing (RPG),3,19,1.4499163026461572,2,True
+10,372,Ireland,40,5,Shooter,12,Role-playing (RPG),2,21,0.9151928288662396,0,False
+1,376,Israel,30,5,Shooter,9,Puzzle,2,21,1.3426824550040934,2,True
+2,376,Israel,30,5,Shooter,33,Arcade,2,21,1.3426824550040934,0,False
+3,376,Israel,30,2,Point-and-click,32,Indie,2,19,1.2426698691192237,2,True
+4,376,Israel,30,2,Point-and-click,33,Arcade,2,19,1.2426698691192237,0,False
+5,376,Israel,30,8,Platform,31,Adventure,1,21,0.6213349345596119,5,True
+6,376,Israel,30,8,Platform,32,Indie,1,21,0.6213349345596119,6,True
+7,376,Israel,30,8,Platform,33,Arcade,1,21,0.6213349345596119,1,True
+8,376,Israel,30,2,Point-and-click,5,Shooter,1,19,0.6213349345596119,0,False
+9,376,Israel,30,2,Point-and-click,8,Platform,1,19,0.6213349345596119,0,False
+10,376,Israel,30,5,Shooter,8,Platform,0,21,0.0,3,True
+1,380,Italy,254,12,Role-playing (RPG),33,Arcade,6,21,2.59400117564139,8,True
+2,380,Italy,254,15,Strategy,33,Arcade,6,21,2.59400117564139,6,True
+3,380,Italy,254,5,Shooter,12,Role-playing (RPG),6,21,2.4825324376534836,9,True
+4,380,Italy,254,14,Sport,15,Strategy,6,20,2.6466911845729637,5,True
+5,380,Italy,254,14,Sport,31,Adventure,6,20,2.5670873241064647,8,True
+6,380,Italy,254,5,Shooter,10,Racing,6,20,2.514397315174891,2,True
+7,380,Italy,254,10,Racing,31,Adventure,6,20,2.4886185815253214,6,True
+8,380,Italy,254,8,Platform,15,Strategy,5,21,2.220539420868263,1,True
+9,380,Italy,254,5,Shooter,8,Platform,5,21,2.033498968211903,4,True
+10,380,Italy,254,9,Puzzle,34,Visual Novel,5,20,2.039721312579668,6,True
+1,392,Japan,16219,11,Real Time Strategy (RTS),26,Quiz/Trivia,19,20,6.3060578273260735,0,False
+2,392,Japan,16219,8,Platform,24,Tactical,18,20,5.953728586698794,0,False
+3,392,Japan,16219,2,Point-and-click,10,Racing,18,19,5.96008157106488,0,False
+4,392,Japan,16219,2,Point-and-click,35,Card & Board Game,18,19,5.96008157106488,3,True
+5,392,Japan,16219,7,Music,16,Turn-based strategy (TBS),18,19,5.953728586698794,0,False
+6,392,Japan,16219,7,Music,24,Tactical,17,19,5.619920386003461,0,False
+7,392,Japan,16219,4,Fighting,30,Pinball,11,15,3.6039719077506134,0,False
+8,392,Japan,16219,7,Music,30,Pinball,11,15,3.6039719077506134,0,False
+9,392,Japan,16219,11,Real Time Strategy (RTS),30,Pinball,11,15,3.6039719077506134,0,False
+10,392,Japan,16219,30,Pinball,34,Visual Novel,11,15,3.6039719077506134,0,False
+1,410,South Korea,217,5,Shooter,31,Adventure,8,21,3.5218563529453717,20,True
+2,410,South Korea,217,8,Platform,15,Strategy,8,21,3.5058506978374626,2,True
+3,410,South Korea,217,16,Turn-based strategy (TBS),32,Indie,7,21,3.0556580751002267,11,True
+4,410,South Korea,217,16,Turn-based strategy (TBS),33,Arcade,7,21,3.0556580751002267,0,False
+5,410,South Korea,217,11,Real Time Strategy (RTS),33,Arcade,7,20,3.036004403742982,0,False
+6,410,South Korea,217,4,Fighting,5,Shooter,7,20,2.9637457263941247,5,True
+7,410,South Korea,217,8,Platform,16,Turn-based strategy (TBS),6,21,2.6863887020313717,0,False
+8,410,South Korea,217,9,Puzzle,12,Role-playing (RPG),6,21,2.50635380212303,8,True
+9,410,South Korea,217,25,Hack and slash/Beat 'em up,32,Indie,6,21,2.489069723798902,5,True
+10,410,South Korea,217,13,Simulator,33,Arcade,6,20,3.4912479384168487,11,True
+1,440,Lithuania,25,9,Puzzle,15,Strategy,3,21,2.0008056674402104,0,False
+2,440,Lithuania,25,31,Adventure,33,Arcade,3,21,1.9565933832587141,2,True
+3,440,Lithuania,25,5,Shooter,13,Simulator,2,20,1.072008968920998,0,False
+4,440,Lithuania,25,10,Racing,13,Simulator,2,20,1.072008968920998,3,True
+5,440,Lithuania,25,13,Simulator,14,Sport,2,20,1.072008968920998,6,True
+6,440,Lithuania,25,9,Puzzle,12,Role-playing (RPG),1,21,0.7213475204444817,1,True
+7,440,Lithuania,25,12,Role-playing (RPG),15,Strategy,1,21,0.7213475204444817,5,True
+8,440,Lithuania,25,5,Shooter,15,Strategy,1,21,0.5581106265512472,1,True
+9,440,Lithuania,25,5,Shooter,31,Adventure,1,21,0.5138983423697507,4,True
+10,440,Lithuania,25,11,Real Time Strategy (RTS),31,Adventure,1,20,0.7213475204444817,0,False
+1,528,Netherlands,252,12,Role-playing (RPG),33,Arcade,9,21,3.6928270404832713,2,True
+2,528,Netherlands,252,9,Puzzle,14,Sport,9,20,3.7516057695396032,1,True
+3,528,Netherlands,252,8,Platform,13,Simulator,9,20,3.568785589042357,1,True
+4,528,Netherlands,252,12,Role-playing (RPG),14,Sport,7,20,2.8036238977370758,1,True
+5,528,Netherlands,252,10,Racing,15,Strategy,7,20,2.7728705532071296,2,True
+6,528,Netherlands,252,10,Racing,31,Adventure,7,20,2.7728705532071296,5,True
+7,528,Netherlands,252,11,Real Time Strategy (RTS),31,Adventure,7,20,2.66382191307355,1,True
+8,528,Netherlands,252,4,Fighting,15,Strategy,6,20,2.4365168406765947,1,True
+9,528,Netherlands,252,11,Real Time Strategy (RTS),13,Simulator,6,19,2.284898731383599,3,True
+10,528,Netherlands,252,2,Point-and-click,8,Platform,6,19,2.277181095026119,0,False
+1,554,New Zealand,80,10,Racing,15,Strategy,5,20,2.552149584168757,2,True
+2,554,New Zealand,80,31,Adventure,33,Arcade,4,21,2.171263823090639,0,False
+3,554,New Zealand,80,5,Shooter,9,Puzzle,4,21,2.1454850894410695,0,False
+4,554,New Zealand,80,13,Simulator,31,Adventure,4,20,2.171263823090639,21,True
+5,554,New Zealand,80,9,Puzzle,14,Sport,4,20,2.0080269291974044,0,False
+6,554,New Zealand,80,14,Sport,32,Indie,4,20,2.0080269291974044,3,True
+7,554,New Zealand,80,12,Role-playing (RPG),15,Strategy,3,21,1.69334390348061,4,True
+8,554,New Zealand,80,5,Shooter,32,Indie,3,21,1.424137568996588,8,True
+9,554,New Zealand,80,10,Racing,31,Adventure,3,20,1.7161442097772204,1,True
+10,554,New Zealand,80,14,Sport,15,Strategy,3,20,1.4941285868276537,1,True
+1,578,Norway,73,8,Platform,12,Role-playing (RPG),4,21,1.963814645015908,2,True
+2,578,Norway,73,10,Racing,32,Indie,4,20,2.2374665584519624,1,True
+3,578,Norway,73,2,Point-and-click,8,Platform,4,19,2.071251237205769,1,True
+4,578,Norway,73,31,Adventure,33,Arcade,3,21,1.6345651744242777,6,True
+5,578,Norway,73,5,Shooter,9,Puzzle,3,21,1.5573528948360185,0,False
+6,578,Norway,73,5,Shooter,15,Strategy,3,21,1.5573528948360185,0,False
+7,578,Norway,73,10,Racing,15,Strategy,3,20,1.6161316238923504,1,True
+8,578,Norway,73,2,Point-and-click,5,Shooter,3,19,1.5573528948360185,1,True
+9,578,Norway,73,2,Point-and-click,12,Role-playing (RPG),3,19,1.4499163026461572,0,False
+10,578,Norway,73,2,Point-and-click,15,Strategy,3,19,1.4499163026461572,0,False
+1,616,Poland,563,12,Role-playing (RPG),33,Arcade,10,21,4.0745880611111875,10,True
+2,616,Poland,563,24,Tactical,26,Quiz/Trivia,10,20,3.8498422617125643,0,False
+3,616,Poland,563,13,Simulator,26,Quiz/Trivia,10,20,3.8352394746701624,1,True
+4,616,Poland,563,8,Platform,13,Simulator,9,20,3.377847550399068,8,True
+5,616,Poland,563,10,Racing,24,Tactical,9,19,3.3592901061284803,0,False
+6,616,Poland,563,8,Platform,12,Role-playing (RPG),8,21,3.191420345672582,1,True
+7,616,Poland,563,9,Puzzle,12,Role-playing (RPG),8,21,3.0025790921901896,13,True
+8,616,Poland,563,10,Racing,12,Role-playing (RPG),8,20,3.1582601143595923,3,True
+9,616,Poland,563,16,Turn-based strategy (TBS),33,Arcade,7,21,2.73673494405738,1,True
+10,616,Poland,563,5,Shooter,16,Turn-based strategy (TBS),7,21,2.601759783377581,2,True
+1,620,Portugal,22,2,Point-and-click,8,Platform,3,19,1.7933564893654796,0,False
+2,620,Portugal,22,5,Shooter,9,Puzzle,2,21,1.2352458628142324,0,False
+3,620,Portugal,22,5,Shooter,32,Indie,2,21,1.2352458628142324,6,True
+4,620,Portugal,22,8,Platform,12,Role-playing (RPG),2,21,1.072008968920998,0,False
+5,620,Portugal,22,8,Platform,15,Strategy,2,21,1.072008968920998,0,False
+6,620,Portugal,22,9,Puzzle,12,Role-playing (RPG),2,21,1.072008968920998,3,True
+7,620,Portugal,22,9,Puzzle,15,Strategy,2,21,1.072008968920998,6,True
+8,620,Portugal,22,2,Point-and-click,12,Role-playing (RPG),2,19,1.072008968920998,0,False
+9,620,Portugal,22,2,Point-and-click,15,Strategy,2,19,1.072008968920998,0,False
+10,620,Portugal,22,5,Shooter,12,Role-playing (RPG),1,21,0.5138983423697507,2,True
+1,642,Romania,54,24,Tactical,31,Adventure,6,20,2.6531608235787703,1,True
+2,642,Romania,54,9,Puzzle,14,Sport,5,20,2.1514373452056157,0,False
+3,642,Romania,54,11,Real Time Strategy (RTS),14,Sport,5,19,2.1514373452056157,0,False
+4,642,Romania,54,5,Shooter,25,Hack and slash/Beat 'em up,4,21,1.722096465541766,0,False
+5,642,Romania,54,9,Puzzle,25,Hack and slash/Beat 'em up,4,21,1.722096465541766,0,False
+6,642,Romania,54,25,Hack and slash/Beat 'em up,32,Indie,4,21,1.722096465541766,1,True
+7,642,Romania,54,14,Sport,24,Tactical,4,19,1.7171428633023638,1,True
+8,642,Romania,54,5,Shooter,33,Arcade,3,21,1.2792853404679505,1,True
+9,642,Romania,54,32,Indie,33,Arcade,3,21,1.2792853404679505,4,True
+10,642,Romania,54,5,Shooter,16,Turn-based strategy (TBS),3,21,1.262023249988945,0,False
+1,643,Russia,511,9,Puzzle,10,Racing,11,20,4.34619902131431,0,False
+2,643,Russia,511,24,Tactical,33,Arcade,10,20,3.765640602781821,2,True
+3,643,Russia,511,10,Racing,16,Turn-based strategy (TBS),9,20,3.431006192448071,0,False
+4,643,Russia,511,11,Real Time Strategy (RTS),35,Card & Board Game,9,19,3.3731742571014736,0,False
+5,643,Russia,511,26,Quiz/Trivia,32,Indie,8,21,3.0367570925427305,0,False
+6,643,Russia,511,5,Shooter,8,Platform,8,21,2.906878697180887,13,True
+7,643,Russia,511,14,Sport,31,Adventure,8,20,3.0847157853379406,9,True
+8,643,Russia,511,5,Shooter,35,Card & Board Game,8,20,2.8922759101384856,0,False
+9,643,Russia,511,2,Point-and-click,15,Strategy,8,19,3.0282624372172893,3,True
+10,643,Russia,511,10,Racing,11,Real Time Strategy (RTS),8,19,2.950107845485083,0,False
+1,688,Serbia,21,5,Shooter,9,Puzzle,4,21,2.422115430230083,3,True
+2,688,Serbia,21,9,Puzzle,33,Arcade,3,21,1.800780495670471,4,True
+3,688,Serbia,21,8,Platform,31,Adventure,3,21,1.7375561876621064,5,True
+4,688,Serbia,21,10,Racing,31,Adventure,3,20,1.7375561876621064,0,False
+5,688,Serbia,21,15,Strategy,32,Indie,2,21,1.179445561110859,5,True
+6,688,Serbia,21,31,Adventure,33,Arcade,2,21,1.179445561110859,5,True
+7,688,Serbia,21,2,Point-and-click,32,Indie,2,19,1.179445561110859,2,True
+8,688,Serbia,21,5,Shooter,15,Strategy,1,21,0.6213349345596119,0,False
+9,688,Serbia,21,8,Platform,15,Strategy,1,21,0.5581106265512472,0,False
+10,688,Serbia,21,10,Racing,15,Strategy,1,20,0.5581106265512472,0,False
+1,702,Singapore,57,5,Shooter,32,Indie,5,21,2.536491716441991,9,True
+2,702,Singapore,57,9,Puzzle,12,Role-playing (RPG),3,21,1.5086950317024894,1,True
+3,702,Singapore,57,15,Strategy,31,Adventure,3,21,1.5086950317024894,10,True
+4,702,Singapore,57,15,Strategy,33,Arcade,3,21,1.5086950317024894,4,True
+5,702,Singapore,57,8,Platform,12,Role-playing (RPG),3,21,1.4756950362957264,3,True
+6,702,Singapore,57,12,Role-playing (RPG),25,Hack and slash/Beat 'em up,3,21,1.4756950362957264,17,True
+7,702,Singapore,57,12,Role-playing (RPG),24,Tactical,3,20,1.5416950271092522,2,True
+8,702,Singapore,57,4,Fighting,12,Role-playing (RPG),3,20,1.5086950317024894,6,True
+9,702,Singapore,57,13,Simulator,31,Adventure,3,20,1.5086950317024894,10,True
+10,702,Singapore,57,13,Simulator,33,Arcade,3,20,1.5086950317024894,3,True
+1,703,Slovakia,43,13,Simulator,31,Adventure,4,20,2.544804401051115,3,True
+2,703,Slovakia,43,25,Hack and slash/Beat 'em up,32,Indie,3,21,2.012472508149437,6,True
+3,703,Slovakia,43,5,Shooter,15,Strategy,3,21,1.7161442097772204,0,False
+4,703,Slovakia,43,31,Adventure,33,Arcade,3,21,1.6977894824326425,5,True
+5,703,Slovakia,43,9,Puzzle,12,Role-playing (RPG),3,21,1.660343908073847,1,True
+6,703,Slovakia,43,15,Strategy,32,Indie,3,21,1.6161316238923504,10,True
+7,703,Slovakia,43,14,Sport,32,Indie,3,20,1.6161316238923504,0,False
+8,703,Slovakia,43,5,Shooter,25,Hack and slash/Beat 'em up,2,21,1.2022458674074694,0,False
+9,703,Slovakia,43,32,Indie,33,Arcade,2,21,1.1352332769293625,4,True
+10,703,Slovakia,43,12,Role-playing (RPG),15,Strategy,2,21,1.1022332815225997,9,True
+1,724,Spain,374,4,Fighting,33,Arcade,10,20,4.055995436794149,9,True
+2,724,Spain,374,4,Fighting,8,Platform,9,20,3.666124191542868,3,True
+3,724,Spain,374,8,Platform,13,Simulator,9,20,3.5420970944243977,7,True
+4,724,Spain,374,10,Racing,24,Tactical,9,19,3.5588805098745637,0,False
+5,724,Spain,374,5,Shooter,9,Puzzle,8,21,3.134963758694112,9,True
+6,724,Spain,374,4,Fighting,24,Tactical,8,20,3.186271355102289,0,False
+7,724,Spain,374,9,Puzzle,13,Simulator,8,20,3.1730509805832843,23,True
+8,724,Spain,374,12,Role-playing (RPG),24,Tactical,8,20,3.095244253390581,1,True
+9,724,Spain,374,10,Racing,12,Role-playing (RPG),8,20,3.077982162911576,1,True
+10,724,Spain,374,12,Role-playing (RPG),14,Sport,8,20,3.077982162911576,1,True
+1,752,Sweden,746,11,Real Time Strategy (RTS),33,Arcade,9,20,3.3711476830811398,0,False
+2,752,Sweden,746,5,Shooter,16,Turn-based strategy (TBS),8,21,3.0290394561852505,1,True
+3,752,Sweden,746,9,Puzzle,25,Hack and slash/Beat 'em up,8,21,2.9348820938621505,1,True
+4,752,Sweden,746,14,Sport,31,Adventure,8,20,3.3147679866171424,48,True
+5,752,Sweden,746,9,Puzzle,24,Tactical,8,20,3.0195739717397756,1,True
+6,752,Sweden,746,12,Role-playing (RPG),35,Card & Board Game,8,20,3.002273391546977,6,True
+7,752,Sweden,746,13,Simulator,25,Hack and slash/Beat 'em up,8,20,2.9348820938621505,1,True
+8,752,Sweden,746,8,Platform,11,Real Time Strategy (RTS),8,20,2.890249336118152,0,False
+9,752,Sweden,746,2,Point-and-click,5,Shooter,8,19,2.8816537232715373,2,True
+10,752,Sweden,746,2,Point-and-click,8,Platform,8,19,2.8816537232715373,3,True
+1,756,Switzerland,53,9,Puzzle,33,Arcade,3,21,1.7375561876621064,2,True
+2,756,Switzerland,53,14,Sport,31,Adventure,3,20,1.69334390348061,1,True
+3,756,Switzerland,53,9,Puzzle,15,Strategy,2,21,1.179445561110859,3,True
+4,756,Switzerland,53,15,Strategy,32,Indie,2,21,1.179445561110859,13,True
+5,756,Switzerland,53,8,Platform,32,Indie,2,21,1.1352332769293625,5,True
+6,756,Switzerland,53,10,Racing,15,Strategy,2,20,1.179445561110859,0,False
+7,756,Switzerland,53,10,Racing,31,Adventure,2,20,1.179445561110859,3,True
+8,756,Switzerland,53,13,Simulator,31,Adventure,2,20,1.179445561110859,10,True
+9,756,Switzerland,53,10,Racing,33,Arcade,2,20,1.1162212531024944,3,True
+10,756,Switzerland,53,13,Simulator,33,Arcade,2,20,1.1162212531024944,3,True
+1,764,Thailand,30,12,Role-playing (RPG),33,Arcade,4,21,2.130029966262101,0,False
+2,764,Thailand,30,15,Strategy,31,Adventure,3,21,1.7161442097772204,6,True
+3,764,Thailand,30,15,Strategy,32,Indie,3,21,1.7161442097772204,9,True
+4,764,Thailand,30,8,Platform,33,Arcade,3,21,1.5086950317024894,1,True
+5,764,Thailand,30,25,Hack and slash/Beat 'em up,33,Arcade,3,21,1.5086950317024894,0,False
+6,764,Thailand,30,8,Platform,15,Strategy,2,21,0.9947966893327386,1,True
+7,764,Thailand,30,15,Strategy,25,Hack and slash/Beat 'em up,2,21,0.9947966893327386,0,False
+8,764,Thailand,30,13,Simulator,31,Adventure,2,20,1.9565933832587141,2,True
+9,764,Thailand,30,12,Role-playing (RPG),35,Card & Board Game,2,20,1.1022332815225997,0,False
+10,764,Thailand,30,33,Arcade,35,Card & Board Game,2,20,1.1022332815225997,2,True
+1,792,Türkiye,20,5,Shooter,8,Platform,2,21,0.9360179602764065,0,False
+2,792,Türkiye,20,5,Shooter,9,Puzzle,2,21,0.9360179602764065,0,False
+3,792,Türkiye,20,8,Platform,12,Role-playing (RPG),2,21,0.9360179602764065,0,False
+4,792,Türkiye,20,8,Platform,15,Strategy,2,21,0.9360179602764065,2,True
+5,792,Türkiye,20,9,Puzzle,12,Role-playing (RPG),2,21,0.9360179602764065,1,True
+6,792,Türkiye,20,9,Puzzle,15,Strategy,2,21,0.9360179602764065,4,True
+7,792,Türkiye,20,8,Platform,13,Simulator,2,20,0.9360179602764065,1,True
+8,792,Türkiye,20,9,Puzzle,13,Simulator,2,20,0.9360179602764065,11,True
+9,792,Türkiye,20,2,Point-and-click,5,Shooter,2,19,0.9360179602764065,0,False
+10,792,Türkiye,20,2,Point-and-click,8,Platform,2,19,0.9360179602764065,0,False
+1,804,Ukraine,155,12,Role-playing (RPG),13,Simulator,8,20,3.7461191207327857,10,True
+2,804,Ukraine,155,12,Role-playing (RPG),33,Arcade,7,21,3.1247841861731738,2,True
+3,804,Ukraine,155,4,Fighting,5,Shooter,5,20,2.043398023905864,0,False
+4,804,Ukraine,155,4,Fighting,31,Adventure,5,20,2.043398023905864,0,False
+5,804,Ukraine,155,4,Fighting,14,Sport,5,19,2.043398023905864,0,False
+6,804,Ukraine,155,2,Point-and-click,5,Shooter,5,19,2.01989160121397,0,False
+7,804,Ukraine,155,2,Point-and-click,14,Sport,5,19,2.01989160121397,0,False
+8,804,Ukraine,155,2,Point-and-click,15,Strategy,5,19,2.01989160121397,3,True
+9,804,Ukraine,155,5,Shooter,8,Platform,4,21,1.9071743388099593,1,True
+10,804,Ukraine,155,5,Shooter,16,Turn-based strategy (TBS),4,21,1.5882564227473224,0,False
+1,826,United Kingdom,3852,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,13,21,4.459781301313154,0,False
+2,826,United Kingdom,3852,11,Real Time Strategy (RTS),14,Sport,13,19,4.566279650223111,1,True
+3,826,United Kingdom,3852,33,Arcade,35,Card & Board Game,12,20,4.275132547723974,7,True
+4,826,United Kingdom,3852,11,Real Time Strategy (RTS),26,Quiz/Trivia,12,20,4.187356468533159,0,False
+5,826,United Kingdom,3852,4,Fighting,24,Tactical,12,20,4.124550136046423,4,True
+6,826,United Kingdom,3852,8,Platform,24,Tactical,12,20,4.124550136046423,0,False
+7,826,United Kingdom,3852,24,Tactical,26,Quiz/Trivia,12,20,4.124550136046423,0,False
+8,826,United Kingdom,3852,2,Point-and-click,16,Turn-based strategy (TBS),12,19,4.140759901600471,0,False
+9,826,United Kingdom,3852,2,Point-and-click,33,Arcade,12,19,4.140759901600471,3,True
+10,826,United Kingdom,3852,7,Music,12,Role-playing (RPG),12,19,4.138407450885756,0,False
+1,840,United States,9524,11,Real Time Strategy (RTS),26,Quiz/Trivia,18,20,6.041491218345091,0,False
+2,840,United States,9524,4,Fighting,24,Tactical,17,20,5.6622964181909055,6,True
+3,840,United States,9524,2,Point-and-click,25,Hack and slash/Beat 'em up,17,19,5.675002386923076,2,True
+4,840,United States,9524,16,Turn-based strategy (TBS),33,Arcade,16,21,5.320143697900609,4,True
+5,840,United States,9524,7,Music,35,Card & Board Game,16,19,5.30797564233475,1,True
+6,840,United States,9524,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,15,21,4.9805204260055005,1,True
+7,840,United States,9524,7,Music,24,Tactical,15,19,4.961999386073557,0,False
+8,840,United States,9524,7,Music,16,Turn-based strategy (TBS),14,19,4.6345441697443075,1,True
+9,840,United States,9524,4,Fighting,30,Pinball,14,15,4.622376114178448,3,True
+10,840,United States,9524,24,Tactical,30,Pinball,14,15,4.622376114178448,0,False

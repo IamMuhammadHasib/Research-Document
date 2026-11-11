@@ -1,0 +1,413 @@
+from_genre,to_genre,number_of_countries,median_lag_periods,mean_lag_periods,example_countries
+Adventure,Strategy,17,1.0,1.0,Argentina; Chile; Croatia; Czechia; Estonia; France; India; Kazakhstan; Netherlands; Poland
+Indie,Strategy,16,1.0,1.125,Belgium; Croatia; Denmark; Estonia; Ireland; Kazakhstan; Norway; Philippines; Serbia; Singapore
+Shooter,Puzzle,16,1.0,1.25,Argentina; Armenia; Australia; Belgium; China; Cyprus; Finland; Greece; Iran; Italy
+Indie,Simulator,15,1.0,1.1333333333333333,Australia; Belgium; China; Costa Rica; Croatia; Georgia; Kazakhstan; Malaysia; Mexico; Moldova
+Adventure,Arcade,13,1.0,1.1538461538461537,Australia; Austria; Colombia; France; Germany; Lithuania; Morocco; Peru; Portugal; Russia
+Shooter,Simulator,13,1.0,1.0,Argentina; Czechia; Denmark; Georgia; Israel; Kazakhstan; Netherlands; Poland; Slovakia; South Africa
+Strategy,Indie,13,1.0,1.3076923076923077,Australia; Austria; Belarus; Czechia; Iceland; India; Jordan; Latvia; Luxembourg; Poland
+Strategy,Simulator,13,1.0,1.0,Belarus; Bulgaria; China; Cyprus; Czechia; Finland; Germany; India; Israel; Malaysia
+Puzzle,Simulator,12,1.0,1.1666666666666667,Australia; Belgium; Brazil; France; Germany; Greece; Ireland; Mexico; New Zealand; Philippines
+Adventure,Racing,11,1.0,1.0,Austria; Croatia; France; Italy; Lithuania; Peru; Poland; Portugal; Spain; United Kingdom
+Arcade,Strategy,11,1.0,1.0,Australia; Belarus; Israel; Kazakhstan; New Zealand; Norway; Portugal; Singapore; Ukraine; United Arab Emirates
+Indie,Puzzle,11,1.0,1.3636363636363635,Belarus; Costa Rica; Croatia; Finland; Greece; Italy; Jamaica; Kazakhstan; Romania; Türkiye
+Indie,Shooter,11,1.0,1.0909090909090908,Belarus; Canada; Hong Kong; Iceland; Lithuania; Mexico; Peru; Sweden; Thailand; United Arab Emirates
+Platform,Arcade,11,1.0,1.1818181818181819,Austria; Belgium; China; Denmark; Morocco; Netherlands; Portugal; South Africa; Spain; Thailand
+Puzzle,Shooter,11,1.0,1.0,Germany; Hong Kong; Hungary; Ireland; Lithuania; Mexico; Netherlands; Peru; Russia; Serbia
+Puzzle,Strategy,11,1.0,1.1818181818181819,Belgium; Estonia; Finland; France; Philippines; Russia; South Korea; Spain; Thailand; Ukraine
+Simulator,Adventure,11,1.0,1.0909090909090908,Argentina; Austria; Canada; Finland; Indonesia; Italy; Lithuania; Mexico; Philippines; Sweden
+Strategy,Role-playing (RPG),11,1.0,1.0,Canada; Chile; Croatia; Hungary; Indonesia; Israel; Philippines; Slovakia; Thailand; United States
+Adventure,Simulator,10,1.0,1.0,Croatia; Denmark; France; Greece; Ireland; Kazakhstan; Malaysia; Poland; Portugal; South Africa
+Arcade,Puzzle,10,1.0,1.2,Armenia; Austria; Denmark; Greece; Japan; Kazakhstan; New Zealand; South Africa; South Korea; United Kingdom
+Arcade,Simulator,10,1.0,1.0,Hungary; Kazakhstan; Mexico; Netherlands; North Korea; Spain; Switzerland; Türkiye; United Arab Emirates; United Kingdom
+Indie,Arcade,10,1.0,1.2,Austria; Colombia; Costa Rica; Denmark; Iceland; Israel; Peru; Portugal; Serbia; South Africa
+Indie,Role-playing (RPG),10,1.0,1.3,Belarus; Canada; Denmark; Greece; Indonesia; Lithuania; Serbia; Singapore; Slovakia; United Arab Emirates
+Platform,Simulator,10,1.0,1.0,Brazil; Finland; Germany; India; Israel; Kazakhstan; Mexico; Portugal; South Africa; Türkiye
+Platform,Sport,10,1.0,1.1,Austria; India; Japan; Kazakhstan; Mexico; Netherlands; Norway; South Africa; South Korea; Spain
+Platform,Strategy,10,1.0,1.1,Canada; Chile; Denmark; Kazakhstan; Singapore; South Africa; South Korea; Thailand; United Kingdom; Vietnam
+Point-and-click,Strategy,10,1.0,1.1,Argentina; Belgium; Canada; Estonia; Ireland; Poland; Portugal; Sweden; Türkiye; Ukraine
+Puzzle,Racing,10,1.0,1.0,France; Germany; Netherlands; Peru; Portugal; Russia; Sweden; Türkiye; United Kingdom; United States
+Puzzle,Role-playing (RPG),10,1.0,1.1,Chile; Croatia; Japan; Lithuania; Norway; Romania; Russia; Slovakia; South Korea; United States
+Strategy,Adventure,10,1.0,1.2,Austria; Bulgaria; China; Germany; Indonesia; Jordan; Latvia; Lithuania; Philippines; Taiwan
+Adventure,Point-and-click,9,1.0,1.0,Canada; Chile; Croatia; Czechia; France; Greece; Indonesia; Ireland; Portugal
+Platform,Puzzle,9,1.0,1.0,Australia; Chile; China; India; Indonesia; Kazakhstan; Latvia; Norway; Vietnam
+Platform,Tactical,9,1.0,1.1111111111111112,Canada; Denmark; Finland; Germany; Poland; Romania; Sweden; Türkiye; United Kingdom
+Shooter,Adventure,9,1.0,1.2222222222222223,Armenia; Croatia; Cyprus; Greece; Iran; Latvia; Mexico; New Zealand; Ukraine
+Strategy,Arcade,9,1.0,1.1111111111111112,Colombia; Cyprus; Hungary; Luxembourg; Netherlands; Philippines; Poland; Russia; Türkiye
+Strategy,Racing,9,1.0,1.0,Argentina; Australia; Czechia; Germany; Hungary; Netherlands; Switzerland; Türkiye; United States
+Adventure,Platform,8,1.0,1.0,Canada; Colombia; Greece; India; Indonesia; Italy; Netherlands; Sweden
+Adventure,Puzzle,8,1.0,1.0,Chile; Croatia; Egypt; Kazakhstan; Lithuania; Netherlands; Poland; Türkiye
+Arcade,Indie,8,1.0,1.125,Chile; Finland; Hungary; New Zealand; Russia; Sweden; Thailand; United States
+Arcade,Platform,8,1.0,1.0,Australia; France; Israel; Italy; Japan; South Korea; United Arab Emirates; United Kingdom
+Arcade,Role-playing (RPG),8,1.0,1.25,Germany; Greece; Lithuania; Singapore; Slovakia; Taiwan; Thailand; United Arab Emirates
+Arcade,Shooter,8,1.0,1.0,Australia; Cyprus; Finland; Israel; Lithuania; Mexico; United Arab Emirates; United Kingdom
+Indie,Adventure,8,1.0,1.25,Argentina; Chile; China; Greece; Indonesia; Nicaragua; Slovenia; United Arab Emirates
+Indie,Platform,8,1.0,1.25,Chile; Colombia; Iceland; Romania; Serbia; Slovenia; Sweden; United Arab Emirates
+Platform,Racing,8,1.0,1.0,Australia; Austria; Germany; Netherlands; Norway; Portugal; Spain; United Kingdom
+Platform,Role-playing (RPG),8,1.0,1.125,Denmark; Hong Kong; Israel; Japan; Romania; Singapore; South Korea; Taiwan
+Puzzle,Adventure,8,1.0,1.125,Argentina; Czechia; Germany; Israel; Russia; Slovenia; South Korea; Sweden
+Puzzle,Arcade,8,1.0,1.0,France; Netherlands; Peru; Poland; Portugal; Taiwan; Thailand; Türkiye
+Puzzle,Point-and-click,8,1.0,1.0,Argentina; France; Germany; Greece; Ireland; Portugal; Russia; Sweden
+Role-playing (RPG),Strategy,8,1.0,1.0,China; Estonia; Hong Kong; Netherlands; Taiwan; Türkiye; Ukraine; Vietnam
+Shooter,Arcade,8,1.0,1.125,Argentina; Austria; China; Germany; Russia; Serbia; South Africa; Ukraine
+Shooter,Indie,8,1.0,1.0,Argentina; Australia; Belgium; Chile; Croatia; Czechia; Iran; Latvia
+Shooter,Point-and-click,8,1.0,1.25,Armenia; Australia; Belgium; Cyprus; Italy; Latvia; Spain; Ukraine
+Shooter,Sport,8,1.0,1.125,Austria; Belgium; Brazil; Chile; Kazakhstan; Slovakia; South Africa; Switzerland
+Shooter,Strategy,8,1.0,1.125,Hungary; Ireland; Kazakhstan; Poland; Romania; Serbia; South Africa; United Kingdom
+Simulator,Arcade,8,1.0,1.0,Germany; Italy; Malaysia; Philippines; Poland; Russia; Slovakia; Ukraine
+Simulator,Indie,8,1.0,1.125,Austria; Denmark; Iceland; Netherlands; Poland; Slovakia; Slovenia; Sweden
+Simulator,Puzzle,8,1.0,1.0,Belarus; Malaysia; Slovakia; Slovenia; South Africa; Spain; Ukraine; Vietnam
+Simulator,Role-playing (RPG),8,1.0,1.0,Australia; Belarus; Bulgaria; Croatia; Indonesia; Philippines; Ukraine; United States
+Simulator,Strategy,8,1.0,1.0,Estonia; Ireland; Portugal; Romania; Slovakia; Switzerland; United Kingdom; Vietnam
+Strategy,Platform,8,1.0,1.125,Argentina; Austria; Belgium; Colombia; France; Luxembourg; Poland; Türkiye
+Strategy,Shooter,8,1.0,1.0,Austria; Canada; Germany; Hong Kong; Mexico; Netherlands; Philippines; Türkiye
+Adventure,Real Time Strategy (RTS),7,1.0,1.0,Canada; Czechia; Poland; South Korea; Sweden; Ukraine; United Kingdom
+Adventure,Shooter,7,1.0,1.0,Czechia; Hungary; Ireland; Peru; Serbia; Spain; Sweden
+Arcade,Adventure,7,1.0,1.2857142857142858,Argentina; Armenia; Canada; Greece; Sweden; United Arab Emirates; United Kingdom
+Arcade,Sport,7,1.0,1.0,Chile; China; Finland; Hong Kong; Kazakhstan; Mexico; Switzerland
+Point-and-click,Turn-based strategy (TBS),7,1.0,1.2857142857142858,Australia; Belgium; Canada; Czechia; Netherlands; Russia; Ukraine
+Puzzle,Quiz/Trivia,7,1.0,1.1428571428571428,Australia; Italy; Japan; Poland; Sweden; United Kingdom; United States
+Puzzle,Tactical,7,1.0,1.1428571428571428,Belgium; Croatia; Germany; Lithuania; Romania; United Kingdom; United States
+Racing,Indie,7,1.0,1.0,Belgium; Brazil; Hungary; Italy; New Zealand; Poland; Singapore
+Racing,Platform,7,1.0,1.0,Finland; France; Japan; Poland; Singapore; Sweden; Switzerland
+Role-playing (RPG),Indie,7,1.0,1.2857142857142858,Bulgaria; China; Germany; Hong Kong; Hungary; Iceland; Norway
+Role-playing (RPG),Simulator,7,1.0,1.0,Greece; Hong Kong; Hungary; Malaysia; North Korea; Portugal; Singapore
+Shooter,Racing,7,1.0,1.0,Australia; Austria; Czechia; Finland; Mexico; Poland; United Kingdom
+Simulator,Point-and-click,7,1.0,1.1428571428571428,Argentina; Finland; Hungary; Netherlands; South Africa; Sweden; Ukraine
+Simulator,Tactical,7,1.0,1.0,Croatia; Cyprus; Russia; Singapore; Ukraine; United Kingdom; United States
+Sport,Adventure,7,1.0,1.4285714285714286,Canada; Chile; Hong Kong; Italy; Lithuania; Mexico; Ukraine
+Sport,Puzzle,7,1.0,1.0,Austria; Brazil; Finland; New Zealand; Slovakia; South Africa; Ukraine
+Strategy,Puzzle,7,1.0,1.1428571428571428,Australia; Denmark; Egypt; India; Latvia; Luxembourg; South Africa
+Strategy,Tactical,7,1.0,1.0,Croatia; Finland; Germany; Ireland; Russia; Sweden; United States
+Adventure,Sport,6,1.0,1.1666666666666667,Austria; Brazil; Kazakhstan; Peru; South Africa; Spain
+Arcade,Turn-based strategy (TBS),6,1.0,1.0,Austria; Hungary; Israel; Sweden; Taiwan; Ukraine
+Indie,Point-and-click,6,1.0,1.3333333333333333,Argentina; Croatia; Hungary; Italy; Portugal; Romania
+Indie,Racing,6,1.0,1.0,Austria; Croatia; Finland; Moldova; Peru; Portugal
+Indie,Turn-based strategy (TBS),6,1.0,1.3333333333333333,Australia; Belgium; China; Finland; Netherlands; Thailand
+Platform,Card & Board Game,6,1.0,1.0,China; India; Indonesia; Japan; Türkiye; Vietnam
+Platform,Indie,6,1.0,1.0,Australia; Canada; India; Italy; Latvia; Uruguay
+Platform,Point-and-click,6,1.0,1.0,Australia; Chile; Germany; Latvia; Norway; Portugal
+Puzzle,Platform,6,1.0,1.0,Finland; Greece; Poland; Slovenia; Taiwan; Türkiye
+Puzzle,Sport,6,1.0,1.1666666666666667,China; Japan; Mexico; Netherlands; Peru; South Korea
+Puzzle,Turn-based strategy (TBS),6,1.0,1.3333333333333333,Australia; Belgium; Germany; Sweden; Ukraine; United States
+Racing,Arcade,6,1.0,1.0,Brazil; Germany; Poland; Russia; Singapore; United States
+Real Time Strategy (RTS),Indie,6,1.0,1.0,Austria; Canada; Czechia; Poland; Ukraine; United States
+Real Time Strategy (RTS),Simulator,6,1.0,1.1666666666666667,Australia; Bulgaria; China; Czechia; Finland; South Korea
+Real Time Strategy (RTS),Tactical,6,1.0,1.1666666666666667,Canada; Cyprus; Finland; Netherlands; Russia; Sweden
+Role-playing (RPG),Puzzle,6,1.0,1.0,Bulgaria; Denmark; Hong Kong; Netherlands; Türkiye; Vietnam
+Shooter,Role-playing (RPG),6,1.0,1.5,Cyprus; Greece; Israel; New Zealand; Serbia; Ukraine
+Simulator,Quiz/Trivia,6,1.0,1.0,Belgium; Poland; Russia; Sweden; United Kingdom; United States
+Simulator,Shooter,6,1.0,1.0,Austria; Belarus; Cyprus; Hong Kong; New Zealand; Philippines
+Simulator,Turn-based strategy (TBS),6,1.0,1.0,Bulgaria; Russia; Singapore; South Korea; Sweden; United States
+Strategy,Real Time Strategy (RTS),6,1.0,1.0,Australia; Belgium; Cyprus; Denmark; Germany; South Korea
+Adventure,Indie,5,1.0,1.4,Ireland; Israel; Lithuania; Moldova; Serbia
+Adventure,Role-playing (RPG),5,1.0,1.0,Bulgaria; Hong Kong; Norway; Singapore; United States
+Arcade,Card & Board Game,5,1.0,1.2,Australia; Austria; Denmark; Russia; Türkiye
+Arcade,Point-and-click,5,1.0,1.0,Argentina; Armenia; South Africa; Spain; Sweden
+Arcade,Tactical,5,1.0,1.2,Cyprus; Lithuania; New Zealand; Poland; Türkiye
+Indie,Sport,5,1.0,1.0,Austria; Kazakhstan; Mexico; Peru; South Africa
+Music,Turn-based strategy (TBS),5,1.0,1.0,Brazil; China; Japan; South Korea; United Kingdom
+Platform,Real Time Strategy (RTS),5,1.0,1.0,Australia; France; Germany; Türkiye; United Kingdom
+Platform,Shooter,5,1.0,1.0,Germany; Italy; Mexico; Netherlands; Spain
+Point-and-click,Indie,5,1.0,1.2,Canada; Czechia; Moldova; Serbia; United States
+Point-and-click,Puzzle,5,1.0,1.0,Egypt; Indonesia; Poland; Spain; Türkiye
+Point-and-click,Simulator,5,1.0,1.4,Australia; Belgium; Brazil; Czechia; Poland
+Point-and-click,Tactical,5,1.0,1.2,Belgium; Canada; Croatia; Romania; Russia
+Puzzle,Indie,5,1.0,1.2,Ireland; Moldova; Poland; Serbia; Sweden
+Puzzle,Real Time Strategy (RTS),5,1.0,1.0,Finland; Germany; Russia; Ukraine; United Kingdom
+Racing,Puzzle,5,1.0,1.0,Austria; Belgium; Japan; New Zealand; Switzerland
+Racing,Simulator,5,1.0,1.2,Australia; Hungary; Netherlands; Spain; Türkiye
+Racing,Tactical,5,1.0,1.0,Croatia; Lithuania; New Zealand; Russia; Türkiye
+Racing,Turn-based strategy (TBS),5,1.0,1.2,Australia; Austria; Brazil; Hungary; Russia
+Real Time Strategy (RTS),Arcade,5,1.0,1.0,Belgium; Germany; Hungary; Poland; Russia
+Real Time Strategy (RTS),Turn-based strategy (TBS),5,1.0,1.2,Australia; Canada; China; Czechia; Russia
+Role-playing (RPG),Card & Board Game,5,1.0,1.0,Cyprus; Denmark; Germany; Netherlands; Vietnam
+Role-playing (RPG),Real Time Strategy (RTS),5,1.0,1.0,China; Denmark; South Korea; Ukraine; United States
+Shooter,Real Time Strategy (RTS),5,1.0,1.0,Australia; Hungary; Poland; Türkiye; United Kingdom
+Shooter,Tactical,5,1.0,1.0,Russia; Sweden; Türkiye; Ukraine; United Kingdom
+Simulator,Platform,5,1.0,1.0,Austria; Belgium; Denmark; France; Poland
+Simulator,Racing,5,1.0,1.0,Brazil; Mexico; Sweden; United Kingdom; United States
+Sport,Strategy,5,1.0,1.2,Belgium; New Zealand; Romania; Slovakia; Switzerland
+Sport,Tactical,5,1.0,1.2,Belgium; China; New Zealand; Ukraine; United States
+Sport,Turn-based strategy (TBS),5,1.0,1.2,Austria; Belgium; Finland; France; United States
+Strategy,Hack and slash/Beat 'em up,5,1.0,1.0,Slovakia; South Africa; South Korea; Spain; United Kingdom
+Strategy,Sport,5,1.0,1.2,Brazil; India; Mexico; Netherlands; United Kingdom
+Strategy,Turn-based strategy (TBS),5,1.0,1.0,China; Czechia; Germany; Russia; United States
+Tactical,Real Time Strategy (RTS),5,1.0,1.0,Belgium; China; Denmark; Ukraine; United States
+Turn-based strategy (TBS),Real Time Strategy (RTS),5,1.0,1.0,Belgium; Cyprus; Finland; Sweden; United States
+Adventure,Quiz/Trivia,4,1.0,1.0,Canada; Russia; United Kingdom; United States
+Adventure,Tactical,4,1.0,1.0,Czechia; Russia; United Kingdom; United States
+Adventure,Turn-based strategy (TBS),4,1.0,1.0,Bulgaria; Russia; Ukraine; United States
+Adventure,Visual Novel,4,1.0,1.0,Argentina; Greece; Indonesia; Malaysia
+Arcade,Real Time Strategy (RTS),4,1.0,1.0,Denmark; Türkiye; Ukraine; United Arab Emirates
+Card & Board Game,Sport,4,1.0,1.0,China; Mexico; Netherlands; Poland
+Hack and slash/Beat 'em up,Indie,4,1.0,1.0,Canada; China; Spain; United Kingdom
+Indie,Music,4,1.0,1.5,Czechia; Portugal; Russia; United Kingdom
+Indie,Tactical,4,1.5,1.5,Belgium; Denmark; Lithuania; Poland
+Pinball,Hack and slash/Beat 'em up,4,1.0,1.0,Canada; Japan; United Kingdom; United States
+Pinball,Quiz/Trivia,4,1.0,1.25,Australia; Canada; Japan; Sweden
+Platform,Adventure,4,1.0,1.25,Germany; Latvia; Norway; South Korea
+Platform,Hack and slash/Beat 'em up,4,1.0,1.0,France; Indonesia; Japan; Singapore
+Point-and-click,Quiz/Trivia,4,1.0,1.25,Australia; Denmark; Italy; Russia
+Point-and-click,Real Time Strategy (RTS),4,1.0,1.0,Netherlands; Poland; Sweden; Ukraine
+Point-and-click,Role-playing (RPG),4,1.0,1.0,Chile; Croatia; Norway; Romania
+Point-and-click,Shooter,4,1.0,1.0,Denmark; Peru; Serbia; Sweden
+Puzzle,Hack and slash/Beat 'em up,4,1.0,1.25,Austria; Japan; Slovakia; Taiwan
+Racing,Card & Board Game,4,1.0,1.0,Austria; Brazil; Switzerland; Türkiye
+Racing,Point-and-click,4,1.0,1.0,Belgium; Spain; Switzerland; United States
+Racing,Quiz/Trivia,4,1.0,1.25,Australia; Poland; Russia; Switzerland
+Racing,Real Time Strategy (RTS),4,1.0,1.0,Finland; Sweden; Türkiye; United States
+Racing,Strategy,4,1.0,1.0,Finland; New Zealand; Portugal; Sweden
+Real Time Strategy (RTS),Adventure,4,1.0,1.0,Austria; Bulgaria; China; New Zealand
+Role-playing (RPG),Arcade,4,1.0,1.25,Norway; Portugal; Russia; United States
+Role-playing (RPG),Music,4,1.0,1.0,China; Denmark; Japan; Portugal
+Role-playing (RPG),Point-and-click,4,1.0,1.0,Greece; Indonesia; Portugal; United States
+Role-playing (RPG),Turn-based strategy (TBS),4,1.0,1.0,Hungary; Russia; Thailand; Ukraine
+Shooter,Card & Board Game,4,1.0,1.0,China; Hong Kong; New Zealand; Türkiye
+Simulator,Hack and slash/Beat 'em up,4,1.0,1.0,Denmark; Netherlands; New Zealand; South Africa
+Sport,Arcade,4,1.0,1.0,Australia; Italy; Slovakia; Ukraine
+Sport,Point-and-click,4,1.0,1.0,Brazil; South Africa; Spain; Ukraine
+Sport,Role-playing (RPG),4,1.0,1.0,China; Norway; Ukraine; United States
+Strategy,Point-and-click,4,1.0,1.0,Australia; Germany; Latvia; South Africa
+Strategy,Quiz/Trivia,4,1.0,1.0,Belgium; Poland; Russia; United States
+Tactical,Card & Board Game,4,1.0,1.25,Belgium; Denmark; Poland; Russia
+Tactical,Indie,4,1.0,1.25,China; Czechia; France; Russia
+Turn-based strategy (TBS),Arcade,4,1.0,1.25,Cyprus; Germany; Luxembourg; United States
+Turn-based strategy (TBS),Indie,4,1.5,1.5,Bulgaria; Luxembourg; Russia; Ukraine
+Turn-based strategy (TBS),Platform,4,1.0,1.25,Belgium; Finland; Luxembourg; Sweden
+Turn-based strategy (TBS),Tactical,4,1.5,1.75,Bulgaria; Japan; Netherlands; South Korea
+Adventure,Hack and slash/Beat 'em up,3,1.0,1.0,Canada; Singapore; South Korea
+Adventure,Music,3,1.0,1.0,Ireland; Portugal; Taiwan
+Arcade,Hack and slash/Beat 'em up,3,1.0,1.0,Singapore; Slovakia; South Africa
+Card & Board Game,Arcade,3,1.0,1.0,Belgium; Netherlands; Thailand
+Card & Board Game,Music,3,1.0,1.0,France; Japan; Russia
+Card & Board Game,Quiz/Trivia,3,1.0,1.3333333333333333,France; Germany; United States
+Card & Board Game,Racing,3,1.0,1.0,Australia; Netherlands; United States
+Card & Board Game,Turn-based strategy (TBS),3,1.0,1.0,Poland; Taiwan; United States
+Hack and slash/Beat 'em up,Music,3,1.0,1.0,China; Japan; South Korea
+Hack and slash/Beat 'em up,Role-playing (RPG),3,1.0,1.0,Denmark; New Zealand; Taiwan
+Hack and slash/Beat 'em up,Strategy,3,1.0,1.0,Canada; China; Denmark
+Hack and slash/Beat 'em up,Turn-based strategy (TBS),3,1.0,1.0,Canada; Netherlands; Taiwan
+Indie,Fighting,3,1.0,1.0,China; India; Norway
+Indie,Real Time Strategy (RTS),3,1.0,1.0,Netherlands; Sweden; United Arab Emirates
+Music,Fighting,3,1.0,1.0,Brazil; China; France
+Pinball,Point-and-click,3,1.0,1.0,Canada; Spain; Sweden
+Pinball,Simulator,3,1.0,1.3333333333333333,Australia; Hungary; Spain
+Pinball,Turn-based strategy (TBS),3,1.0,1.3333333333333333,Australia; Hungary; Sweden
+Platform,Pinball,3,1.0,1.0,Australia; Spain; United Kingdom
+Platform,Turn-based strategy (TBS),3,1.0,1.0,Canada; Germany; Taiwan
+Point-and-click,Arcade,3,1.0,1.0,Germany; Peru; Russia
+Point-and-click,Racing,3,1.0,1.0,Czechia; Peru; Poland
+Puzzle,Card & Board Game,3,1.0,1.0,Cyprus; Japan; Taiwan
+Puzzle,Fighting,3,1.0,1.0,India; Japan; Taiwan
+Puzzle,Visual Novel,3,1.0,1.0,Greece; Japan; Philippines
+Quiz/Trivia,Tactical,3,1.0,1.3333333333333333,Canada; France; Poland
+Racing,Role-playing (RPG),3,1.0,1.0,Croatia; Lithuania; Norway
+Racing,Shooter,3,1.0,1.0,Italy; Lithuania; Sweden
+Real Time Strategy (RTS),Quiz/Trivia,3,1.0,1.3333333333333333,Australia; Poland; Russia
+Role-playing (RPG),Platform,3,1.0,1.0,Greece; Indonesia; Netherlands
+Role-playing (RPG),Visual Novel,3,1.0,1.0,Greece; Indonesia; Malaysia
+Shooter,Pinball,3,1.0,1.0,Australia; Japan; United Kingdom
+Shooter,Platform,3,1.0,1.3333333333333333,Japan; Serbia; South Korea
+Shooter,Turn-based strategy (TBS),3,1.0,1.0,Czechia; Finland; Russia
+Simulator,Card & Board Game,3,1.0,1.0,Belgium; South Korea; Vietnam
+Simulator,Fighting,3,1.0,1.0,Belgium; India; Malaysia
+Simulator,Music,3,1.0,1.6666666666666667,Brazil; Czechia; Mexico
+Simulator,Real Time Strategy (RTS),3,1.0,1.0,Belgium; New Zealand; United Kingdom
+Sport,Hack and slash/Beat 'em up,3,1.0,1.0,China; South Africa; South Korea
+Sport,Indie,3,1.0,1.0,New Zealand; Slovakia; United Kingdom
+Sport,Platform,3,1.0,2.0,Brazil; Chile; Hong Kong
+Sport,Quiz/Trivia,3,1.0,1.3333333333333333,Brazil; Germany; United States
+Sport,Racing,3,1.0,1.0,Finland; Mexico; United States
+Sport,Simulator,3,1.0,1.3333333333333333,Belgium; Netherlands; Spain
+Strategy,Card & Board Game,3,1.0,1.0,Belgium; Denmark; India
+Strategy,Fighting,3,1.0,1.0,Belgium; China; Switzerland
+Tactical,Adventure,3,1.0,1.3333333333333333,Cyprus; Finland; Indonesia
+Tactical,MOBA,3,1.0,1.3333333333333333,Finland; France; Sweden
+Tactical,Point-and-click,3,1.0,1.3333333333333333,Cyprus; Finland; United States
+Tactical,Role-playing (RPG),3,1.0,1.0,Canada; Cyprus; Indonesia
+Turn-based strategy (TBS),Card & Board Game,3,1.0,1.3333333333333333,Belgium; Russia; United Kingdom
+Turn-based strategy (TBS),Role-playing (RPG),3,1.0,1.0,Australia; Canada; Israel
+Turn-based strategy (TBS),Strategy,3,1.0,1.0,Finland; Sweden; Taiwan
+Adventure,Card & Board Game,2,1.0,1.0,Cyprus; Netherlands
+Adventure,Pinball,2,1.0,1.0,Spain; United Kingdom
+Arcade,Pinball,2,1.0,1.0,Canada; Japan
+Arcade,Racing,2,1.0,1.0,Italy; Sweden
+Card & Board Game,Role-playing (RPG),2,1.0,1.0,Taiwan; United States
+Card & Board Game,Shooter,2,1.0,1.0,Mexico; Netherlands
+Card & Board Game,Tactical,2,1.0,1.0,South Korea; United States
+Fighting,Arcade,2,1.0,1.0,Australia; Belgium
+Fighting,Hack and slash/Beat 'em up,2,1.0,1.0,Singapore; Switzerland
+Fighting,Music,2,1.0,1.0,Japan; Norway
+Fighting,Role-playing (RPG),2,1.0,1.0,Singapore; Taiwan
+Hack and slash/Beat 'em up,Adventure,2,1.0,1.0,New Zealand; Slovakia
+Hack and slash/Beat 'em up,Real Time Strategy (RTS),2,1.0,1.0,China; Netherlands
+Hack and slash/Beat 'em up,Simulator,2,1.0,1.0,Singapore; South Korea
+Hack and slash/Beat 'em up,Tactical,2,1.0,1.0,Canada; Denmark
+Indie,Card & Board Game,2,1.0,1.0,Spain; Vietnam
+Indie,Hack and slash/Beat 'em up,2,1.0,1.0,Singapore; Slovakia
+Indie,Quiz/Trivia,2,2.0,2.0,Australia; Germany
+Indie,Visual Novel,2,1.0,1.0,Malaysia; Philippines
+Music,Adventure,2,1.0,1.0,Argentina; China
+Music,Card & Board Game,2,1.0,1.0,Brazil; South Korea
+Music,Strategy,2,1.0,1.0,Ireland; Portugal
+Pinball,Indie,2,1.0,1.0,Hungary; Sweden
+Pinball,Sport,2,1.0,1.0,Japan; United Kingdom
+Platform,Quiz/Trivia,2,1.0,1.0,Japan; United Kingdom
+Point-and-click,Adventure,2,1.0,1.0,Denmark; Israel
+Point-and-click,Card & Board Game,2,1.0,1.0,Cyprus; Indonesia
+Point-and-click,Platform,2,1.0,1.0,France; Sweden
+Puzzle,Music,2,1.0,1.0,Ireland; Portugal
+Quiz/Trivia,Arcade,2,1.0,1.0,Belgium; United States
+Quiz/Trivia,Indie,2,1.5,1.5,Canada; Russia
+Quiz/Trivia,Real Time Strategy (RTS),2,1.0,1.0,Sweden; United States
+Quiz/Trivia,Simulator,2,1.0,1.0,Brazil; Denmark
+Quiz/Trivia,Strategy,2,1.0,1.0,Canada; Sweden
+Racing,Adventure,2,1.0,1.0,Canada; Singapore
+Racing,Fighting,2,1.0,1.0,Brazil; Singapore
+Racing,Hack and slash/Beat 'em up,2,1.0,1.0,Switzerland; United Kingdom
+Racing,Pinball,2,1.0,1.0,Canada; Japan
+Racing,Sport,2,1.0,1.0,Belgium; United Kingdom
+Real Time Strategy (RTS),Platform,2,1.0,1.0,Austria; Poland
+Real Time Strategy (RTS),Racing,2,1.0,1.0,Czechia; Hungary
+Real Time Strategy (RTS),Role-playing (RPG),2,1.0,1.0,Hungary; New Zealand
+Real Time Strategy (RTS),Shooter,2,1.0,1.0,Austria; Cyprus
+Real Time Strategy (RTS),Sport,2,1.0,1.0,France; United Kingdom
+Role-playing (RPG),Hack and slash/Beat 'em up,2,1.5,1.5,Australia; South Korea
+Role-playing (RPG),Quiz/Trivia,2,1.0,1.0,Russia; Slovakia
+Role-playing (RPG),Tactical,2,1.0,1.0,Bulgaria; Russia
+Shooter,Hack and slash/Beat 'em up,2,1.0,1.0,Hong Kong; United States
+Shooter,Music,2,1.0,1.0,Argentina; Mexico
+Shooter,Quiz/Trivia,2,1.0,1.0,Russia; United Kingdom
+Simulator,Pinball,2,1.0,1.0,Canada; United Kingdom
+Sport,Card & Board Game,2,1.0,1.0,Austria; France
+Sport,Music,2,1.0,1.0,Japan; Mexico
+Strategy,Music,2,1.0,1.0,Denmark; Norway
+Strategy,Pinball,2,1.0,1.0,Australia; Hungary
+Tactical,Arcade,2,1.0,1.0,Germany; United States
+Tactical,Music,2,1.0,1.0,China; Denmark
+Tactical,Puzzle,2,1.0,1.0,Cyprus; Denmark
+Tactical,Simulator,2,1.0,1.0,Czechia; New Zealand
+Tactical,Strategy,2,1.0,1.0,China; Ukraine
+Tactical,Turn-based strategy (TBS),2,1.0,1.0,Czechia; Ukraine
+Turn-based strategy (TBS),Music,2,2.0,2.0,Czechia; France
+Turn-based strategy (TBS),Point-and-click,2,1.0,1.0,Hungary; United States
+Turn-based strategy (TBS),Puzzle,2,1.5,1.5,Bulgaria; Luxembourg
+Turn-based strategy (TBS),Quiz/Trivia,2,1.0,1.0,Belgium; France
+Turn-based strategy (TBS),Shooter,2,1.0,1.0,Canada; Sweden
+Turn-based strategy (TBS),Simulator,2,1.0,1.0,Cyprus; Israel
+Visual Novel,Arcade,2,1.0,1.0,Malaysia; Philippines
+Visual Novel,Puzzle,2,1.0,1.0,Indonesia; Malaysia
+Arcade,Fighting,1,1.0,1.0,Norway
+Arcade,Music,1,1.0,1.0,Denmark
+Arcade,Quiz/Trivia,1,1.0,1.0,Sweden
+Card & Board Game,Fighting,1,1.0,1.0,India
+Card & Board Game,Hack and slash/Beat 'em up,1,2.0,2.0,Austria
+Card & Board Game,Indie,1,1.0,1.0,Australia
+Card & Board Game,MOBA,1,1.0,1.0,South Korea
+Card & Board Game,Pinball,1,1.0,1.0,Australia
+Card & Board Game,Point-and-click,1,1.0,1.0,Australia
+Card & Board Game,Puzzle,1,1.0,1.0,Australia
+Card & Board Game,Real Time Strategy (RTS),1,1.0,1.0,Australia
+Card & Board Game,Simulator,1,1.0,1.0,Mexico
+Card & Board Game,Strategy,1,1.0,1.0,Thailand
+Card & Board Game,Visual Novel,1,1.0,1.0,South Korea
+Fighting,Card & Board Game,1,1.0,1.0,Switzerland
+Fighting,Indie,1,1.0,1.0,France
+Fighting,MOBA,1,1.0,1.0,France
+Fighting,Platform,1,1.0,1.0,Switzerland
+Fighting,Point-and-click,1,1.0,1.0,Switzerland
+Fighting,Puzzle,1,1.0,1.0,Switzerland
+Fighting,Quiz/Trivia,1,1.0,1.0,Switzerland
+Fighting,Shooter,1,1.0,1.0,India
+Fighting,Strategy,1,1.0,1.0,Singapore
+Fighting,Turn-based strategy (TBS),1,1.0,1.0,Taiwan
+Hack and slash/Beat 'em up,Arcade,1,1.0,1.0,Denmark
+Hack and slash/Beat 'em up,Card & Board Game,1,1.0,1.0,New Zealand
+Hack and slash/Beat 'em up,MOBA,1,1.0,1.0,Netherlands
+Hack and slash/Beat 'em up,Platform,1,1.0,1.0,United States
+Hack and slash/Beat 'em up,Quiz/Trivia,1,1.0,1.0,Slovakia
+Hack and slash/Beat 'em up,Sport,1,1.0,1.0,France
+Indie,MOBA,1,1.0,1.0,Netherlands
+Indie,Pinball,1,1.0,1.0,United States
+MOBA,Fighting,1,1.0,1.0,United States
+MOBA,Indie,1,1.0,1.0,China
+MOBA,Music,1,1.0,1.0,China
+MOBA,Real Time Strategy (RTS),1,1.0,1.0,China
+MOBA,Sport,1,1.0,1.0,Sweden
+MOBA,Strategy,1,1.0,1.0,China
+MOBA,Tactical,1,2.0,2.0,Netherlands
+Music,Arcade,1,1.0,1.0,Brazil
+Music,Indie,1,1.0,1.0,Brazil
+Music,Platform,1,1.0,1.0,Russia
+Music,Point-and-click,1,1.0,1.0,Argentina
+Music,Real Time Strategy (RTS),1,2.0,2.0,Taiwan
+Music,Simulator,1,1.0,1.0,China
+Music,Tactical,1,1.0,1.0,France
+Pinball,Adventure,1,1.0,1.0,Sweden
+Pinball,Card & Board Game,1,1.0,1.0,Japan
+Pinball,Fighting,1,1.0,1.0,Japan
+Pinball,Platform,1,1.0,1.0,Canada
+Pinball,Racing,1,1.0,1.0,Sweden
+Pinball,Real Time Strategy (RTS),1,1.0,1.0,Canada
+Pinball,Role-playing (RPG),1,1.0,1.0,Japan
+Pinball,Visual Novel,1,1.0,1.0,Japan
+Platform,Fighting,1,1.0,1.0,Japan
+Platform,MOBA,1,1.0,1.0,United States
+Platform,Music,1,1.0,1.0,Portugal
+Platform,Visual Novel,1,1.0,1.0,Japan
+Point-and-click,Hack and slash/Beat 'em up,1,1.0,1.0,Indonesia
+Point-and-click,MOBA,1,1.0,1.0,Netherlands
+Point-and-click,Sport,1,1.0,1.0,Peru
+Point-and-click,Visual Novel,1,1.0,1.0,Argentina
+Puzzle,Pinball,1,1.0,1.0,United Kingdom
+Quiz/Trivia,Card & Board Game,1,2.0,2.0,Russia
+Quiz/Trivia,Fighting,1,1.0,1.0,France
+Quiz/Trivia,Hack and slash/Beat 'em up,1,1.0,1.0,United Kingdom
+Quiz/Trivia,Music,1,1.0,1.0,Japan
+Quiz/Trivia,Platform,1,1.0,1.0,Sweden
+Quiz/Trivia,Point-and-click,1,1.0,1.0,United States
+Quiz/Trivia,Role-playing (RPG),1,1.0,1.0,Australia
+Quiz/Trivia,Shooter,1,1.0,1.0,Sweden
+Quiz/Trivia,Sport,1,1.0,1.0,United Kingdom
+Quiz/Trivia,Turn-based strategy (TBS),1,1.0,1.0,Canada
+Racing,Music,1,3.0,3.0,Czechia
+Real Time Strategy (RTS),Card & Board Game,1,1.0,1.0,New Zealand
+Real Time Strategy (RTS),Fighting,1,1.0,1.0,China
+Real Time Strategy (RTS),Hack and slash/Beat 'em up,1,1.0,1.0,United Kingdom
+Real Time Strategy (RTS),Music,1,1.0,1.0,South Korea
+Real Time Strategy (RTS),Pinball,1,1.0,1.0,Hungary
+Real Time Strategy (RTS),Strategy,1,1.0,1.0,Canada
+Role-playing (RPG),Adventure,1,1.0,1.0,Slovakia
+Role-playing (RPG),Fighting,1,2.0,2.0,Canada
+Role-playing (RPG),Racing,1,1.0,1.0,Portugal
+Role-playing (RPG),Shooter,1,1.0,1.0,Thailand
+Role-playing (RPG),Sport,1,1.0,1.0,Germany
+Shooter,Fighting,1,2.0,2.0,Canada
+Simulator,MOBA,1,2.0,2.0,Finland
+Sport,Fighting,1,1.0,1.0,India
+Sport,MOBA,1,1.0,1.0,China
+Sport,Pinball,1,1.0,1.0,Canada
+Sport,Real Time Strategy (RTS),1,1.0,1.0,South Korea
+Strategy,Visual Novel,1,1.0,1.0,Malaysia
+Tactical,Fighting,1,1.0,1.0,Belgium
+Tactical,Hack and slash/Beat 'em up,1,1.0,1.0,United Kingdom
+Tactical,Platform,1,1.0,1.0,Belgium
+Tactical,Quiz/Trivia,1,1.0,1.0,Belgium
+Tactical,Racing,1,1.0,1.0,Czechia
+Tactical,Shooter,1,1.0,1.0,Canada
+Tactical,Sport,1,1.0,1.0,United Kingdom
+Turn-based strategy (TBS),Fighting,1,1.0,1.0,Belgium
+Turn-based strategy (TBS),Hack and slash/Beat 'em up,1,2.0,2.0,Austria
+Turn-based strategy (TBS),MOBA,1,1.0,1.0,South Korea
+Turn-based strategy (TBS),Visual Novel,1,1.0,1.0,South Korea
+Visual Novel,Adventure,1,1.0,1.0,Philippines
+Visual Novel,Card & Board Game,1,1.0,1.0,Indonesia
+Visual Novel,Fighting,1,1.0,1.0,Malaysia
+Visual Novel,Hack and slash/Beat 'em up,1,1.0,1.0,Indonesia
+Visual Novel,Music,1,1.0,1.0,Japan
+Visual Novel,Platform,1,1.0,1.0,Argentina
+Visual Novel,Racing,1,1.0,1.0,Argentina
+Visual Novel,Role-playing (RPG),1,1.0,1.0,Philippines
+Visual Novel,Shooter,1,1.0,1.0,Philippines
+Visual Novel,Strategy,1,1.0,1.0,Estonia

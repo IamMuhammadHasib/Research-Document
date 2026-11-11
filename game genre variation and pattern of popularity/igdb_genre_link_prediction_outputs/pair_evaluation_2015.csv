@@ -1,0 +1,5 @@
+model,candidate_count,positive_count,k_used,hits_at_k,precision_at_k,recall_at_k,random_mean_hits,random_95pct,empirical_p_value
+common_neighbors,13,6,10,5,0.5,0.8333333333333334,4.598,6.0,0.5594405594405595
+adamic_adar,13,6,10,5,0.5,0.8333333333333334,4.598,6.0,0.5594405594405595
+jaccard,13,6,10,5,0.5,0.8333333333333334,4.598,6.0,0.5594405594405595
+preferential_attachment,13,6,10,5,0.5,0.8333333333333334,4.598,6.0,0.5594405594405595

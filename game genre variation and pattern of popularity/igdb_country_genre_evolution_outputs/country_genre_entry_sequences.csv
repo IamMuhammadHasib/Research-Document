@@ -1,0 +1,88 @@
+country_id,country_name,number_of_genres_ever_specialized,number_of_distinct_entry_periods,entry_sequence_by_period
+8,Albania,1,1,Indie
+16,American Samoa,2,1,Role-playing (RPG) + Simulator
+32,Argentina,12,5,Shooter → Arcade + Indie + Music + Puzzle + Simulator → Adventure + Point-and-click → Strategy + Visual Novel → Platform + Racing
+36,Australia,19,7,Adventure + Fighting + Sport → Arcade → Card & Board Game + Platform + Shooter + Strategy → Indie + Pinball + Point-and-click + Puzzle + Racing + Real Time Strategy (RTS) → Quiz/Trivia + Simulator + Turn-based strategy (TBS) → Role-playing (RPG) → Hack and slash/Beat 'em up
+40,Austria,14,5,Real Time Strategy (RTS) + Simulator + Strategy → Adventure + Indie + Platform + Shooter → Arcade + Racing + Sport → Card & Board Game + Puzzle + Turn-based strategy (TBS) → Hack and slash/Beat 'em up
+50,Bangladesh,2,1,Simulator + Strategy
+51,Armenia,5,2,Arcade + Shooter → Adventure + Point-and-click + Puzzle
+56,Belgium,16,5,Racing + Shooter → Indie + Point-and-click + Puzzle + Sport → Simulator + Strategy + Tactical + Turn-based strategy (TBS) → Card & Board Game + Fighting + Platform + Quiz/Trivia + Real Time Strategy (RTS) → Arcade
+76,Brazil,16,6,Adventure + Shooter + Strategy → Sport → Platform + Point-and-click + Puzzle + Quiz/Trivia → Simulator → Music + Racing → Arcade + Card & Board Game + Fighting + Indie + Turn-based strategy (TBS)
+100,Bulgaria,9,4,Real Time Strategy (RTS) + Strategy → Adventure + Simulator → Role-playing (RPG) + Turn-based strategy (TBS) → Indie + Puzzle + Tactical
+112,Belarus,7,4,Arcade → Strategy → Indie + Simulator → Puzzle + Role-playing (RPG) + Shooter
+124,Canada,18,6,Arcade + Racing + Simulator + Sport → Adventure + Pinball → Hack and slash/Beat 'em up + Platform + Point-and-click + Quiz/Trivia + Real Time Strategy (RTS) → Indie + Strategy + Tactical + Turn-based strategy (TBS) → Role-playing (RPG) + Shooter → Fighting
+144,Sri Lanka,1,1,Indie
+152,Chile,10,5,Arcade + Shooter → Indie + Sport → Adventure + Platform → Point-and-click + Puzzle + Strategy → Role-playing (RPG)
+156,China,18,6,Platform + Shooter → Arcade + Card & Board Game + Puzzle → Sport → Hack and slash/Beat 'em up + MOBA + Role-playing (RPG) + Tactical → Indie + Music + Real Time Strategy (RTS) + Strategy → Adventure + Fighting + Simulator + Turn-based strategy (TBS)
+158,Taiwan,12,7,Puzzle → Arcade + Card & Board Game + Fighting + Hack and slash/Beat 'em up + Platform → Role-playing (RPG) + Turn-based strategy (TBS) → Strategy → Adventure → Music → Real Time Strategy (RTS)
+170,Colombia,5,2,Adventure + Indie + Strategy → Arcade + Platform
+188,Costa Rica,4,2,Indie → Arcade + Puzzle + Simulator
+191,Croatia,10,4,Shooter → Adventure + Indie → Point-and-click + Puzzle + Racing + Simulator + Strategy → Role-playing (RPG) + Tactical
+196,Cyprus,12,5,Strategy + Turn-based strategy (TBS) → Arcade + Real Time Strategy (RTS) + Simulator → Shooter + Tactical → Adventure + Point-and-click + Puzzle + Role-playing (RPG) → Card & Board Game
+203,Czechia,12,5,Puzzle → Adventure → Point-and-click + Real Time Strategy (RTS) + Shooter + Strategy + Tactical → Indie + Racing + Simulator + Turn-based strategy (TBS) → Music
+208,Denmark,16,6,Point-and-click → Adventure + Quiz/Trivia + Shooter → Simulator → Hack and slash/Beat 'em up + Indie + Platform → Arcade + Role-playing (RPG) + Strategy + Tactical → Card & Board Game + Music + Puzzle + Real Time Strategy (RTS)
+218,Ecuador,1,1,Adventure
+222,El Salvador,2,1,Indie + Racing
+233,Estonia,8,2,Adventure + Indie + Point-and-click + Puzzle + Role-playing (RPG) + Simulator + Visual Novel → Strategy
+246,Finland,15,6,Arcade → Indie + Shooter + Sport → Puzzle + Racing + Turn-based strategy (TBS) → Platform + Real Time Strategy (RTS) + Strategy → Simulator + Tactical → Adventure + MOBA + Point-and-click
+250,France,19,9,Adventure + Puzzle → Arcade + Point-and-click + Racing + Simulator + Strategy → Platform → Hack and slash/Beat 'em up + Real Time Strategy (RTS) → Sport → Card & Board Game + Turn-based strategy (TBS) → Music + Quiz/Trivia → Fighting + Tactical → Indie + MOBA
+268,Georgia,3,2,Indie + Shooter → Simulator
+276,Germany,17,6,Platform + Puzzle + Strategy → Adventure + Point-and-click + Racing + Real Time Strategy (RTS) + Shooter + Simulator + Tactical + Turn-based strategy (TBS) → Arcade → Role-playing (RPG) → Card & Board Game + Indie + Sport → Quiz/Trivia
+300,Greece,10,3,Arcade + Indie + Shooter → Adventure + Puzzle + Role-playing (RPG) → Platform + Point-and-click + Simulator + Visual Novel
+316,Guam,4,1,Adventure + Arcade + Indie + Shooter
+344,Hong Kong,12,7,Arcade → Sport → Adventure + Platform → Role-playing (RPG) → Indie + Puzzle + Simulator + Strategy → Shooter → Card & Board Game + Hack and slash/Beat 'em up
+348,Hungary,13,6,Adventure + Puzzle → Shooter → Real Time Strategy (RTS) + Strategy → Arcade + Pinball + Racing + Role-playing (RPG) → Indie + Simulator + Turn-based strategy (TBS) → Point-and-click
+352,Iceland,7,3,Role-playing (RPG) + Simulator + Strategy → Indie → Arcade + Platform + Shooter
+356,India,10,5,Adventure → Platform + Strategy → Card & Board Game + Indie + Puzzle + Simulator + Sport → Fighting → Shooter
+360,Indonesia,12,4,Indie + Simulator + Strategy + Tactical → Adventure + Role-playing (RPG) → Platform + Point-and-click + Visual Novel → Card & Board Game + Hack and slash/Beat 'em up + Puzzle
+364,Iran,4,2,Shooter → Adventure + Indie + Puzzle
+372,Ireland,9,4,Adventure + Puzzle → Indie + Music + Point-and-click + Shooter + Simulator → Strategy → Tactical
+376,Israel,11,6,Point-and-click + Puzzle → Adventure → Indie → Arcade → Platform + Shooter + Strategy + Turn-based strategy (TBS) → Role-playing (RPG) + Simulator
+380,Italy,11,6,Simulator + Sport → Adventure + Arcade → Platform + Racing → Indie + Shooter → Point-and-click + Puzzle → Quiz/Trivia
+388,Jamaica,2,2,Indie → Puzzle
+392,Japan,16,6,Arcade + Racing + Shooter → Pinball + Platform + Puzzle → Card & Board Game + Fighting + Hack and slash/Beat 'em up + Quiz/Trivia + Role-playing (RPG) + Sport + Visual Novel → Music → Turn-based strategy (TBS) → Tactical
+398,Kazakhstan,9,2,Adventure + Arcade + Indie + Platform + Shooter → Puzzle + Simulator + Sport + Strategy
+400,Jordan,3,2,Strategy → Adventure + Indie
+408,North Korea,3,2,Arcade + Role-playing (RPG) → Simulator
+410,South Korea,17,7,Arcade + Shooter → Platform + Puzzle → Adventure + Role-playing (RPG) + Sport + Strategy → Hack and slash/Beat 'em up + Real Time Strategy (RTS) → Music + Simulator → Card & Board Game + Turn-based strategy (TBS) → MOBA + Tactical + Visual Novel
+428,Latvia,7,2,Platform + Shooter + Strategy → Adventure + Indie + Point-and-click + Puzzle
+440,Lithuania,11,4,Simulator + Sport + Strategy → Adventure → Arcade + Indie + Puzzle + Racing → Role-playing (RPG) + Shooter + Tactical
+442,Luxembourg,6,2,Strategy + Turn-based strategy (TBS) → Arcade + Indie + Platform + Puzzle
+458,Malaysia,9,3,Adventure + Indie + Role-playing (RPG) + Strategy → Simulator + Visual Novel → Arcade + Fighting + Puzzle
+470,Malta,1,1,Shooter
+484,Mexico,12,3,Arcade + Card & Board Game + Indie + Platform + Puzzle + Strategy → Shooter + Simulator + Sport → Adventure + Music + Racing
+498,Moldova,6,3,Adventure + Point-and-click + Puzzle → Indie → Racing + Simulator
+504,Morocco,3,2,Adventure + Platform → Arcade
+528,Netherlands,18,7,Adventure + Role-playing (RPG) → Card & Board Game + Platform + Puzzle + Strategy → Arcade + Racing + Shooter + Sport → Simulator → Hack and slash/Beat 'em up + Indie + Point-and-click → MOBA + Real Time Strategy (RTS) + Turn-based strategy (TBS) → Tactical
+540,New Caledonia,1,1,Adventure
+554,New Zealand,14,5,Arcade + Racing + Sport → Indie + Puzzle + Strategy + Tactical → Simulator → Hack and slash/Beat 'em up + Real Time Strategy (RTS) + Shooter → Adventure + Card & Board Game + Role-playing (RPG)
+558,Nicaragua,2,2,Indie → Adventure
+566,Nigeria,3,1,Adventure + Indie + Puzzle
+578,Norway,12,6,Platform → Adventure + Point-and-click + Puzzle + Racing + Sport → Role-playing (RPG) → Arcade + Indie → Fighting + Strategy → Music
+586,Pakistan,4,1,Arcade + Racing + Simulator + Strategy
+604,Peru,8,2,Adventure + Indie + Point-and-click + Puzzle → Arcade + Racing + Shooter + Sport
+608,Philippines,9,3,Indie + Puzzle → Simulator + Strategy + Visual Novel → Adventure + Arcade + Role-playing (RPG) + Shooter
+616,Poland,16,6,Adventure + Point-and-click + Shooter → Puzzle + Racing + Real Time Strategy (RTS) + Simulator + Strategy → Arcade + Indie + Platform + Quiz/Trivia → Tactical → Card & Board Game → Sport + Turn-based strategy (TBS)
+620,Portugal,11,3,Adventure + Indie + Platform + Puzzle + Role-playing (RPG) → Arcade + Music + Point-and-click + Racing + Simulator → Strategy
+642,Romania,10,5,Shooter + Simulator + Sport → Strategy → Indie → Platform + Point-and-click + Puzzle → Role-playing (RPG) + Tactical
+643,Russia,17,6,Puzzle → Adventure + Point-and-click + Racing + Real Time Strategy (RTS) + Role-playing (RPG) + Shooter + Simulator + Strategy → Arcade + Quiz/Trivia + Tactical + Turn-based strategy (TBS) → Card & Board Game + Indie → Music → Platform
+682,Saudi Arabia,1,1,Indie
+688,Serbia,9,3,Adventure + Point-and-click + Puzzle → Indie + Shooter → Arcade + Platform + Role-playing (RPG) + Strategy
+702,Singapore,12,5,Racing → Adventure + Arcade + Fighting + Indie + Platform → Hack and slash/Beat 'em up + Role-playing (RPG) + Strategy → Simulator → Tactical + Turn-based strategy (TBS)
+703,Slovakia,11,5,Shooter → Simulator + Sport → Arcade + Indie + Puzzle + Strategy → Hack and slash/Beat 'em up + Role-playing (RPG) → Adventure + Quiz/Trivia
+704,Vietnam,7,2,Indie + Platform + Role-playing (RPG) + Simulator → Card & Board Game + Puzzle + Strategy
+705,Slovenia,5,3,Simulator → Indie + Puzzle → Adventure + Platform
+710,South Africa,11,3,Adventure + Indie + Platform + Shooter → Arcade + Simulator + Sport + Strategy → Hack and slash/Beat 'em up + Point-and-click + Puzzle
+724,Spain,14,8,Adventure + Platform → Arcade + Pinball + Racing + Shooter + Sport → Point-and-click + Simulator → Puzzle → Strategy → Hack and slash/Beat 'em up → Indie → Card & Board Game
+752,Sweden,17,6,Arcade + Pinball + Puzzle + Simulator → Adventure + Indie + Point-and-click + Quiz/Trivia + Racing + Turn-based strategy (TBS) → Platform + Real Time Strategy (RTS) + Shooter + Strategy → Tactical → MOBA → Sport
+756,Switzerland,13,5,Arcade + Shooter → Simulator + Sport → Strategy → Fighting + Racing → Card & Board Game + Hack and slash/Beat 'em up + Platform + Point-and-click + Puzzle + Quiz/Trivia
+764,Thailand,10,4,Adventure + Card & Board Game + Platform + Puzzle → Arcade + Strategy → Indie + Role-playing (RPG) → Shooter + Turn-based strategy (TBS)
+784,United Arab Emirates,9,2,Arcade + Indie → Adventure + Platform + Real Time Strategy (RTS) + Role-playing (RPG) + Shooter + Simulator + Strategy
+788,Tunisia,2,1,Indie + Strategy
+792,Türkiye,14,4,Adventure + Indie + Point-and-click + Role-playing (RPG) → Puzzle + Strategy → Arcade + Platform + Racing + Shooter → Card & Board Game + Real Time Strategy (RTS) + Simulator + Tactical
+804,Ukraine,13,4,Shooter + Simulator + Sport → Adventure + Arcade + Point-and-click + Puzzle + Role-playing (RPG) + Tactical → Real Time Strategy (RTS) + Strategy + Turn-based strategy (TBS) → Indie
+818,Egypt,4,2,Adventure + Point-and-click + Strategy → Puzzle
+826,United Kingdom,18,8,Arcade → Adventure + Platform + Puzzle + Shooter + Simulator → Pinball + Quiz/Trivia + Racing + Real Time Strategy (RTS) + Strategy + Tactical → Hack and slash/Beat 'em up + Sport → Indie → Music → Turn-based strategy (TBS) → Card & Board Game
+840,United States,21,9,Adventure + Card & Board Game + Puzzle + Simulator + Sport + Strategy → Quiz/Trivia + Racing + Role-playing (RPG) + Tactical + Turn-based strategy (TBS) → Arcade + Point-and-click + Real Time Strategy (RTS) → Indie → Pinball + Shooter → Hack and slash/Beat 'em up → Platform → MOBA → Fighting
+858,Uruguay,5,4,Platform → Arcade + Indie → Strategy → Role-playing (RPG)
+862,Venezuela,3,1,Adventure + Indie + Visual Novel

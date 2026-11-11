@@ -1,0 +1,18 @@
+Estimated using a binomial GLM with standard errors clustered by country. Observational association only.
+                  Generalized Linear Model Regression Results                  
+===============================================================================
+Dep. Variable:     adopted_next_period   No. Observations:                 4187
+Model:                             GLM   Df Residuals:                     4185
+Model Family:                 Binomial   Df Model:                            1
+Link Function:                   Logit   Scale:                          1.0000
+Method:                           IRLS   Log-Likelihood:                -1860.4
+Date:                 Wed, 11 Nov 2026   Deviance:                       3720.8
+Time:                         08:36:02   Pearson chi2:                 4.12e+03
+No. Iterations:                      5   Pseudo R-squ. (CS):            0.04250
+Covariance Type:               cluster                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+const                -2.7307      0.155    -17.584      0.000      -3.035      -2.426
+relatedness_score     4.7826      0.461     10.364      0.000       3.878       5.687
+=====================================================================================

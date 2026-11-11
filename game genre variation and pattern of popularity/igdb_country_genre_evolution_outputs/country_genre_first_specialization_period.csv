@@ -1,0 +1,819 @@
+country_id,country_name,genre_id,genre,first_specialization_period,global_first_specialization_period,lag_behind_first_country_periods,earliest_country_or_countries
+8,Albania,32,Indie,2017,1987,6,United States
+16,American Samoa,12,Role-playing (RPG),2022,1977,9,United States
+16,American Samoa,13,Simulator,2022,1972,10,United States
+32,Argentina,2,Point-and-click,2012,1982,6,United States
+32,Argentina,5,Shooter,2002,1972,6,Japan
+32,Argentina,7,Music,2007,1987,4,Japan
+32,Argentina,8,Platform,2022,1977,9,Japan
+32,Argentina,9,Puzzle,2007,1972,7,United States
+32,Argentina,10,Racing,2022,1972,10,Japan
+32,Argentina,13,Simulator,2007,1972,7,United States
+32,Argentina,15,Strategy,2017,1972,9,United States
+32,Argentina,31,Adventure,2012,1972,8,United States
+32,Argentina,32,Indie,2007,1987,4,United States
+32,Argentina,33,Arcade,2007,1972,7,Japan
+32,Argentina,34,Visual Novel,2017,1982,7,Japan
+36,Australia,2,Point-and-click,1997,1982,3,United States
+36,Australia,4,Fighting,1982,1982,0,Australia; Japan
+36,Australia,5,Shooter,1992,1972,4,Japan
+36,Australia,8,Platform,1992,1977,3,Japan
+36,Australia,9,Puzzle,1997,1972,5,United States
+36,Australia,10,Racing,1997,1972,5,Japan
+36,Australia,11,Real Time Strategy (RTS),1997,1982,3,United States
+36,Australia,12,Role-playing (RPG),2012,1977,7,United States
+36,Australia,13,Simulator,2007,1972,7,United States
+36,Australia,14,Sport,1982,1972,2,United States
+36,Australia,15,Strategy,1992,1972,4,United States
+36,Australia,16,Turn-based strategy (TBS),2007,1977,6,United States
+36,Australia,25,Hack and slash/Beat 'em up,2022,1982,8,Japan
+36,Australia,26,Quiz/Trivia,2007,1977,6,United States
+36,Australia,30,Pinball,1997,1977,4,Japan
+36,Australia,31,Adventure,1982,1972,2,United States
+36,Australia,32,Indie,1997,1987,2,United States
+36,Australia,33,Arcade,1987,1972,3,Japan
+36,Australia,35,Card & Board Game,1992,1972,4,United States
+40,Austria,5,Shooter,2002,1972,6,Japan
+40,Austria,8,Platform,2002,1977,5,Japan
+40,Austria,9,Puzzle,2012,1972,8,United States
+40,Austria,10,Racing,2007,1972,7,Japan
+40,Austria,11,Real Time Strategy (RTS),1997,1982,3,United States
+40,Austria,13,Simulator,1997,1972,5,United States
+40,Austria,14,Sport,2007,1972,7,United States
+40,Austria,15,Strategy,1997,1972,5,United States
+40,Austria,16,Turn-based strategy (TBS),2012,1977,7,United States
+40,Austria,25,Hack and slash/Beat 'em up,2022,1982,8,Japan
+40,Austria,31,Adventure,2002,1972,6,United States
+40,Austria,32,Indie,2002,1987,3,United States
+40,Austria,33,Arcade,2007,1972,7,Japan
+40,Austria,35,Card & Board Game,2012,1972,8,United States
+50,Bangladesh,13,Simulator,2022,1972,10,United States
+50,Bangladesh,15,Strategy,2022,1972,10,United States
+51,Armenia,2,Point-and-click,2007,1982,5,United States
+51,Armenia,5,Shooter,2002,1972,6,Japan
+51,Armenia,9,Puzzle,2007,1972,7,United States
+51,Armenia,31,Adventure,2007,1972,7,United States
+51,Armenia,33,Arcade,2002,1972,6,Japan
+56,Belgium,2,Point-and-click,2002,1982,4,United States
+56,Belgium,4,Fighting,2017,1982,7,Australia; Japan
+56,Belgium,5,Shooter,1997,1972,5,Japan
+56,Belgium,8,Platform,2017,1977,8,Japan
+56,Belgium,9,Puzzle,2002,1972,6,United States
+56,Belgium,10,Racing,1997,1972,5,Japan
+56,Belgium,11,Real Time Strategy (RTS),2017,1982,7,United States
+56,Belgium,13,Simulator,2012,1972,8,United States
+56,Belgium,14,Sport,2002,1972,6,United States
+56,Belgium,15,Strategy,2012,1972,8,United States
+56,Belgium,16,Turn-based strategy (TBS),2012,1977,7,United States
+56,Belgium,24,Tactical,2012,1977,7,United States
+56,Belgium,26,Quiz/Trivia,2017,1977,8,United States
+56,Belgium,32,Indie,2002,1987,3,United States
+56,Belgium,33,Arcade,2022,1972,10,Japan
+56,Belgium,35,Card & Board Game,2017,1972,9,United States
+76,Brazil,2,Point-and-click,1997,1982,3,United States
+76,Brazil,4,Fighting,2012,1982,6,Australia; Japan
+76,Brazil,5,Shooter,1982,1972,2,Japan
+76,Brazil,7,Music,2007,1987,4,Japan
+76,Brazil,8,Platform,1997,1977,4,Japan
+76,Brazil,9,Puzzle,1997,1972,5,United States
+76,Brazil,10,Racing,2007,1972,7,Japan
+76,Brazil,13,Simulator,2002,1972,6,United States
+76,Brazil,14,Sport,1992,1972,4,United States
+76,Brazil,15,Strategy,1982,1972,2,United States
+76,Brazil,16,Turn-based strategy (TBS),2012,1977,7,United States
+76,Brazil,26,Quiz/Trivia,1997,1977,4,United States
+76,Brazil,31,Adventure,1982,1972,2,United States
+76,Brazil,32,Indie,2012,1987,5,United States
+76,Brazil,33,Arcade,2012,1972,8,Japan
+76,Brazil,35,Card & Board Game,2012,1972,8,United States
+100,Bulgaria,9,Puzzle,2017,1972,9,United States
+100,Bulgaria,11,Real Time Strategy (RTS),2002,1982,4,United States
+100,Bulgaria,12,Role-playing (RPG),2012,1977,7,United States
+100,Bulgaria,13,Simulator,2007,1972,7,United States
+100,Bulgaria,15,Strategy,2002,1972,6,United States
+100,Bulgaria,16,Turn-based strategy (TBS),2012,1977,7,United States
+100,Bulgaria,24,Tactical,2017,1977,8,United States
+100,Bulgaria,31,Adventure,2007,1972,7,United States
+100,Bulgaria,32,Indie,2017,1987,6,United States
+112,Belarus,5,Shooter,2017,1972,9,Japan
+112,Belarus,9,Puzzle,2017,1972,9,United States
+112,Belarus,12,Role-playing (RPG),2017,1977,8,United States
+112,Belarus,13,Simulator,2012,1972,8,United States
+112,Belarus,15,Strategy,2007,1972,7,United States
+112,Belarus,32,Indie,2012,1987,5,United States
+112,Belarus,33,Arcade,2002,1972,6,Japan
+124,Canada,2,Point-and-click,1997,1982,3,United States
+124,Canada,4,Fighting,2017,1982,7,Australia; Japan
+124,Canada,5,Shooter,2007,1972,7,Japan
+124,Canada,8,Platform,1997,1977,4,Japan
+124,Canada,10,Racing,1987,1972,3,Japan
+124,Canada,11,Real Time Strategy (RTS),1997,1982,3,United States
+124,Canada,12,Role-playing (RPG),2007,1977,6,United States
+124,Canada,13,Simulator,1987,1972,3,United States
+124,Canada,14,Sport,1987,1972,3,United States
+124,Canada,15,Strategy,2002,1972,6,United States
+124,Canada,16,Turn-based strategy (TBS),2002,1977,5,United States
+124,Canada,24,Tactical,2002,1977,5,United States
+124,Canada,25,Hack and slash/Beat 'em up,1997,1982,3,Japan
+124,Canada,26,Quiz/Trivia,1997,1977,4,United States
+124,Canada,30,Pinball,1992,1977,3,Japan
+124,Canada,31,Adventure,1992,1972,4,United States
+124,Canada,32,Indie,2002,1987,3,United States
+124,Canada,33,Arcade,1987,1972,3,Japan
+144,Sri Lanka,32,Indie,2012,1987,5,United States
+152,Chile,2,Point-and-click,2017,1982,7,United States
+152,Chile,5,Shooter,2002,1972,6,Japan
+152,Chile,8,Platform,2012,1977,7,Japan
+152,Chile,9,Puzzle,2017,1972,9,United States
+152,Chile,12,Role-playing (RPG),2022,1977,9,United States
+152,Chile,14,Sport,2007,1972,7,United States
+152,Chile,15,Strategy,2017,1972,9,United States
+152,Chile,31,Adventure,2012,1972,8,United States
+152,Chile,32,Indie,2007,1987,4,United States
+152,Chile,33,Arcade,2002,1972,6,Japan
+156,China,4,Fighting,2022,1982,8,Australia; Japan
+156,China,5,Shooter,1997,1972,5,Japan
+156,China,7,Music,2017,1987,6,Japan
+156,China,8,Platform,1997,1977,4,Japan
+156,China,9,Puzzle,2002,1972,6,United States
+156,China,11,Real Time Strategy (RTS),2017,1982,7,United States
+156,China,12,Role-playing (RPG),2012,1977,7,United States
+156,China,13,Simulator,2022,1972,10,United States
+156,China,14,Sport,2007,1972,7,United States
+156,China,15,Strategy,2017,1972,9,United States
+156,China,16,Turn-based strategy (TBS),2022,1977,9,United States
+156,China,24,Tactical,2012,1977,7,United States
+156,China,25,Hack and slash/Beat 'em up,2012,1982,6,Japan
+156,China,31,Adventure,2022,1972,10,United States
+156,China,32,Indie,2017,1987,6,United States
+156,China,33,Arcade,2002,1972,6,Japan
+156,China,35,Card & Board Game,2002,1972,6,United States
+156,China,36,MOBA,2012,2007,1,United States
+158,Taiwan,4,Fighting,1992,1982,2,Australia; Japan
+158,Taiwan,7,Music,2012,1987,5,Japan
+158,Taiwan,8,Platform,1992,1977,3,Japan
+158,Taiwan,9,Puzzle,1987,1972,3,United States
+158,Taiwan,11,Real Time Strategy (RTS),2022,1982,8,United States
+158,Taiwan,12,Role-playing (RPG),1997,1977,4,United States
+158,Taiwan,15,Strategy,2002,1972,6,United States
+158,Taiwan,16,Turn-based strategy (TBS),1997,1977,4,United States
+158,Taiwan,25,Hack and slash/Beat 'em up,1992,1982,2,Japan
+158,Taiwan,31,Adventure,2007,1972,7,United States
+158,Taiwan,33,Arcade,1992,1972,4,Japan
+158,Taiwan,35,Card & Board Game,1992,1972,4,United States
+170,Colombia,8,Platform,2022,1977,9,Japan
+170,Colombia,15,Strategy,2017,1972,9,United States
+170,Colombia,31,Adventure,2017,1972,9,United States
+170,Colombia,32,Indie,2017,1987,6,United States
+170,Colombia,33,Arcade,2022,1972,10,Japan
+188,Costa Rica,9,Puzzle,2022,1972,10,United States
+188,Costa Rica,13,Simulator,2022,1972,10,United States
+188,Costa Rica,32,Indie,2017,1987,6,United States
+188,Costa Rica,33,Arcade,2022,1972,10,Japan
+191,Croatia,2,Point-and-click,2012,1982,6,United States
+191,Croatia,5,Shooter,2002,1972,6,Japan
+191,Croatia,9,Puzzle,2012,1972,8,United States
+191,Croatia,10,Racing,2012,1972,8,Japan
+191,Croatia,12,Role-playing (RPG),2017,1977,8,United States
+191,Croatia,13,Simulator,2012,1972,8,United States
+191,Croatia,15,Strategy,2012,1972,8,United States
+191,Croatia,24,Tactical,2017,1977,8,United States
+191,Croatia,31,Adventure,2007,1972,7,United States
+191,Croatia,32,Indie,2007,1987,4,United States
+196,Cyprus,2,Point-and-click,2017,1982,7,United States
+196,Cyprus,5,Shooter,2012,1972,8,Japan
+196,Cyprus,9,Puzzle,2017,1972,9,United States
+196,Cyprus,11,Real Time Strategy (RTS),2007,1982,5,United States
+196,Cyprus,12,Role-playing (RPG),2017,1977,8,United States
+196,Cyprus,13,Simulator,2007,1972,7,United States
+196,Cyprus,15,Strategy,2002,1972,6,United States
+196,Cyprus,16,Turn-based strategy (TBS),2002,1977,5,United States
+196,Cyprus,24,Tactical,2012,1977,7,United States
+196,Cyprus,31,Adventure,2017,1972,9,United States
+196,Cyprus,33,Arcade,2007,1972,7,Japan
+196,Cyprus,35,Card & Board Game,2022,1972,10,United States
+203,Czechia,2,Point-and-click,1997,1982,3,United States
+203,Czechia,5,Shooter,1997,1972,5,Japan
+203,Czechia,7,Music,2017,1987,6,Japan
+203,Czechia,9,Puzzle,1987,1972,3,United States
+203,Czechia,10,Racing,2002,1972,6,Japan
+203,Czechia,11,Real Time Strategy (RTS),1997,1982,3,United States
+203,Czechia,13,Simulator,2002,1972,6,United States
+203,Czechia,15,Strategy,1997,1972,5,United States
+203,Czechia,16,Turn-based strategy (TBS),2002,1977,5,United States
+203,Czechia,24,Tactical,1997,1977,4,United States
+203,Czechia,31,Adventure,1992,1972,4,United States
+203,Czechia,32,Indie,2002,1987,3,United States
+208,Denmark,2,Point-and-click,1992,1982,2,United States
+208,Denmark,5,Shooter,1997,1972,5,Japan
+208,Denmark,7,Music,2017,1987,6,Japan
+208,Denmark,8,Platform,2007,1977,6,Japan
+208,Denmark,9,Puzzle,2017,1972,9,United States
+208,Denmark,11,Real Time Strategy (RTS),2017,1982,7,United States
+208,Denmark,12,Role-playing (RPG),2012,1977,7,United States
+208,Denmark,13,Simulator,2002,1972,6,United States
+208,Denmark,15,Strategy,2012,1972,8,United States
+208,Denmark,24,Tactical,2012,1977,7,United States
+208,Denmark,25,Hack and slash/Beat 'em up,2007,1982,5,Japan
+208,Denmark,26,Quiz/Trivia,1997,1977,4,United States
+208,Denmark,31,Adventure,1997,1972,5,United States
+208,Denmark,32,Indie,2007,1987,4,United States
+208,Denmark,33,Arcade,2012,1972,8,Japan
+208,Denmark,35,Card & Board Game,2017,1972,9,United States
+218,Ecuador,31,Adventure,2017,1972,9,United States
+222,El Salvador,10,Racing,2017,1972,9,Japan
+222,El Salvador,32,Indie,2017,1987,6,United States
+233,Estonia,2,Point-and-click,2017,1982,7,United States
+233,Estonia,9,Puzzle,2017,1972,9,United States
+233,Estonia,12,Role-playing (RPG),2017,1977,8,United States
+233,Estonia,13,Simulator,2017,1972,9,United States
+233,Estonia,15,Strategy,2022,1972,10,United States
+233,Estonia,31,Adventure,2017,1972,9,United States
+233,Estonia,32,Indie,2017,1987,6,United States
+233,Estonia,34,Visual Novel,2017,1982,7,Japan
+246,Finland,2,Point-and-click,2022,1982,8,United States
+246,Finland,5,Shooter,1997,1972,5,Japan
+246,Finland,8,Platform,2007,1977,6,Japan
+246,Finland,9,Puzzle,2002,1972,6,United States
+246,Finland,10,Racing,2002,1972,6,Japan
+246,Finland,11,Real Time Strategy (RTS),2007,1982,5,United States
+246,Finland,13,Simulator,2012,1972,8,United States
+246,Finland,14,Sport,1997,1972,5,United States
+246,Finland,15,Strategy,2007,1972,7,United States
+246,Finland,16,Turn-based strategy (TBS),2002,1977,5,United States
+246,Finland,24,Tactical,2012,1977,7,United States
+246,Finland,31,Adventure,2022,1972,10,United States
+246,Finland,32,Indie,1997,1987,2,United States
+246,Finland,33,Arcade,1992,1972,4,Japan
+246,Finland,36,MOBA,2022,2007,3,United States
+250,France,2,Point-and-click,1987,1982,1,United States
+250,France,4,Fighting,2017,1982,7,Australia; Japan
+250,France,7,Music,2012,1987,5,Japan
+250,France,8,Platform,1992,1977,3,Japan
+250,France,9,Puzzle,1982,1972,2,United States
+250,France,10,Racing,1987,1972,3,Japan
+250,France,11,Real Time Strategy (RTS),1997,1982,3,United States
+250,France,13,Simulator,1987,1972,3,United States
+250,France,14,Sport,2002,1972,6,United States
+250,France,15,Strategy,1987,1972,3,United States
+250,France,16,Turn-based strategy (TBS),2007,1977,6,United States
+250,France,24,Tactical,2017,1977,8,United States
+250,France,25,Hack and slash/Beat 'em up,1997,1982,3,Japan
+250,France,26,Quiz/Trivia,2012,1977,7,United States
+250,France,31,Adventure,1982,1972,2,United States
+250,France,32,Indie,2022,1987,7,United States
+250,France,33,Arcade,1987,1972,3,Japan
+250,France,35,Card & Board Game,2007,1972,7,United States
+250,France,36,MOBA,2022,2007,3,United States
+268,Georgia,5,Shooter,2017,1972,9,Japan
+268,Georgia,13,Simulator,2022,1972,10,United States
+268,Georgia,32,Indie,2017,1987,6,United States
+276,Germany,2,Point-and-click,1992,1982,2,United States
+276,Germany,5,Shooter,1992,1972,4,Japan
+276,Germany,8,Platform,1987,1977,2,Japan
+276,Germany,9,Puzzle,1987,1972,3,United States
+276,Germany,10,Racing,1992,1972,4,Japan
+276,Germany,11,Real Time Strategy (RTS),1992,1982,2,United States
+276,Germany,12,Role-playing (RPG),2002,1977,5,United States
+276,Germany,13,Simulator,1992,1972,4,United States
+276,Germany,14,Sport,2007,1972,7,United States
+276,Germany,15,Strategy,1987,1972,3,United States
+276,Germany,16,Turn-based strategy (TBS),1992,1977,3,United States
+276,Germany,24,Tactical,1992,1977,3,United States
+276,Germany,26,Quiz/Trivia,2017,1977,8,United States
+276,Germany,31,Adventure,1992,1972,4,United States
+276,Germany,32,Indie,2007,1987,4,United States
+276,Germany,33,Arcade,1997,1972,5,Japan
+276,Germany,35,Card & Board Game,2007,1972,7,United States
+300,Greece,2,Point-and-click,2022,1982,8,United States
+300,Greece,5,Shooter,2002,1972,6,Japan
+300,Greece,8,Platform,2022,1977,9,Japan
+300,Greece,9,Puzzle,2017,1972,9,United States
+300,Greece,12,Role-playing (RPG),2017,1977,8,United States
+300,Greece,13,Simulator,2022,1972,10,United States
+300,Greece,31,Adventure,2017,1972,9,United States
+300,Greece,32,Indie,2002,1987,3,United States
+300,Greece,33,Arcade,2002,1972,6,Japan
+300,Greece,34,Visual Novel,2022,1982,8,Japan
+316,Guam,5,Shooter,2017,1972,9,Japan
+316,Guam,31,Adventure,2017,1972,9,United States
+316,Guam,32,Indie,2017,1987,6,United States
+316,Guam,33,Arcade,2017,1972,9,Japan
+344,Hong Kong,5,Shooter,2017,1972,9,Japan
+344,Hong Kong,8,Platform,2002,1977,5,Japan
+344,Hong Kong,9,Puzzle,2012,1972,8,United States
+344,Hong Kong,12,Role-playing (RPG),2007,1977,6,United States
+344,Hong Kong,13,Simulator,2012,1972,8,United States
+344,Hong Kong,14,Sport,1982,1972,2,United States
+344,Hong Kong,15,Strategy,2012,1972,8,United States
+344,Hong Kong,25,Hack and slash/Beat 'em up,2022,1982,8,Japan
+344,Hong Kong,31,Adventure,2002,1972,6,United States
+344,Hong Kong,32,Indie,2012,1987,5,United States
+344,Hong Kong,33,Arcade,1977,1972,1,Japan
+344,Hong Kong,35,Card & Board Game,2022,1972,10,United States
+348,Hungary,2,Point-and-click,2017,1982,7,United States
+348,Hungary,5,Shooter,1997,1972,5,Japan
+348,Hungary,9,Puzzle,1992,1972,4,United States
+348,Hungary,10,Racing,2007,1972,7,Japan
+348,Hungary,11,Real Time Strategy (RTS),2002,1982,4,United States
+348,Hungary,12,Role-playing (RPG),2007,1977,6,United States
+348,Hungary,13,Simulator,2012,1972,8,United States
+348,Hungary,15,Strategy,2002,1972,6,United States
+348,Hungary,16,Turn-based strategy (TBS),2012,1977,7,United States
+348,Hungary,30,Pinball,2007,1977,6,Japan
+348,Hungary,31,Adventure,1992,1972,4,United States
+348,Hungary,32,Indie,2012,1987,5,United States
+348,Hungary,33,Arcade,2007,1972,7,Japan
+352,Iceland,5,Shooter,2022,1972,10,Japan
+352,Iceland,8,Platform,2022,1977,9,Japan
+352,Iceland,12,Role-playing (RPG),2002,1977,5,United States
+352,Iceland,13,Simulator,2002,1972,6,United States
+352,Iceland,15,Strategy,2002,1972,6,United States
+352,Iceland,32,Indie,2012,1987,5,United States
+352,Iceland,33,Arcade,2022,1972,10,Japan
+356,India,4,Fighting,2017,1982,7,Australia; Japan
+356,India,5,Shooter,2022,1972,10,Japan
+356,India,8,Platform,2007,1977,6,Japan
+356,India,9,Puzzle,2012,1972,8,United States
+356,India,13,Simulator,2012,1972,8,United States
+356,India,14,Sport,2012,1972,8,United States
+356,India,15,Strategy,2007,1972,7,United States
+356,India,31,Adventure,2002,1972,6,United States
+356,India,32,Indie,2012,1987,5,United States
+356,India,35,Card & Board Game,2012,1972,8,United States
+360,Indonesia,2,Point-and-click,2017,1982,7,United States
+360,Indonesia,8,Platform,2017,1977,8,Japan
+360,Indonesia,9,Puzzle,2022,1972,10,United States
+360,Indonesia,12,Role-playing (RPG),2012,1977,7,United States
+360,Indonesia,13,Simulator,2007,1972,7,United States
+360,Indonesia,15,Strategy,2007,1972,7,United States
+360,Indonesia,24,Tactical,2007,1977,6,United States
+360,Indonesia,25,Hack and slash/Beat 'em up,2022,1982,8,Japan
+360,Indonesia,31,Adventure,2012,1972,8,United States
+360,Indonesia,32,Indie,2007,1987,4,United States
+360,Indonesia,34,Visual Novel,2017,1982,7,Japan
+360,Indonesia,35,Card & Board Game,2022,1972,10,United States
+364,Iran,5,Shooter,2012,1972,8,Japan
+364,Iran,9,Puzzle,2017,1972,9,United States
+364,Iran,31,Adventure,2017,1972,9,United States
+364,Iran,32,Indie,2017,1987,6,United States
+372,Ireland,2,Point-and-click,2012,1982,6,United States
+372,Ireland,5,Shooter,2012,1972,8,Japan
+372,Ireland,7,Music,2012,1987,5,Japan
+372,Ireland,9,Puzzle,2007,1972,7,United States
+372,Ireland,13,Simulator,2012,1972,8,United States
+372,Ireland,15,Strategy,2017,1972,9,United States
+372,Ireland,24,Tactical,2022,1977,9,United States
+372,Ireland,31,Adventure,2007,1972,7,United States
+372,Ireland,32,Indie,2012,1987,5,United States
+376,Israel,2,Point-and-click,1992,1982,2,United States
+376,Israel,5,Shooter,2017,1972,9,Japan
+376,Israel,8,Platform,2017,1977,8,Japan
+376,Israel,9,Puzzle,1992,1972,4,United States
+376,Israel,12,Role-playing (RPG),2022,1977,9,United States
+376,Israel,13,Simulator,2022,1972,10,United States
+376,Israel,15,Strategy,2017,1972,9,United States
+376,Israel,16,Turn-based strategy (TBS),2017,1977,8,United States
+376,Israel,31,Adventure,1997,1972,5,United States
+376,Israel,32,Indie,2007,1987,4,United States
+376,Israel,33,Arcade,2012,1972,8,Japan
+380,Italy,2,Point-and-click,2017,1982,7,United States
+380,Italy,5,Shooter,2002,1972,6,Japan
+380,Italy,8,Platform,1997,1977,4,Japan
+380,Italy,9,Puzzle,2017,1972,9,United States
+380,Italy,10,Racing,1997,1972,5,Japan
+380,Italy,13,Simulator,1987,1972,3,United States
+380,Italy,14,Sport,1987,1972,3,United States
+380,Italy,26,Quiz/Trivia,2022,1977,9,United States
+380,Italy,31,Adventure,1992,1972,4,United States
+380,Italy,32,Indie,2002,1987,3,United States
+380,Italy,33,Arcade,1992,1972,4,Japan
+388,Jamaica,9,Puzzle,2022,1972,10,United States
+388,Jamaica,32,Indie,2017,1987,6,United States
+392,Japan,4,Fighting,1982,1982,0,Australia; Japan
+392,Japan,5,Shooter,1972,1972,0,Japan
+392,Japan,7,Music,1987,1987,0,Japan
+392,Japan,8,Platform,1977,1977,0,Japan
+392,Japan,9,Puzzle,1977,1972,1,United States
+392,Japan,10,Racing,1972,1972,0,Japan
+392,Japan,12,Role-playing (RPG),1982,1977,1,United States
+392,Japan,14,Sport,1982,1972,2,United States
+392,Japan,16,Turn-based strategy (TBS),1992,1977,3,United States
+392,Japan,24,Tactical,2007,1977,6,United States
+392,Japan,25,Hack and slash/Beat 'em up,1982,1982,0,Japan
+392,Japan,26,Quiz/Trivia,1982,1977,1,United States
+392,Japan,30,Pinball,1977,1977,0,Japan
+392,Japan,33,Arcade,1972,1972,0,Japan
+392,Japan,34,Visual Novel,1982,1982,0,Japan
+392,Japan,35,Card & Board Game,1982,1972,2,United States
+398,Kazakhstan,5,Shooter,2017,1972,9,Japan
+398,Kazakhstan,8,Platform,2017,1977,8,Japan
+398,Kazakhstan,9,Puzzle,2022,1972,10,United States
+398,Kazakhstan,13,Simulator,2022,1972,10,United States
+398,Kazakhstan,14,Sport,2022,1972,10,United States
+398,Kazakhstan,15,Strategy,2022,1972,10,United States
+398,Kazakhstan,31,Adventure,2017,1972,9,United States
+398,Kazakhstan,32,Indie,2017,1987,6,United States
+398,Kazakhstan,33,Arcade,2017,1972,9,Japan
+400,Jordan,15,Strategy,2007,1972,7,United States
+400,Jordan,31,Adventure,2022,1972,10,United States
+400,Jordan,32,Indie,2022,1987,7,United States
+408,North Korea,12,Role-playing (RPG),2012,1977,7,United States
+408,North Korea,13,Simulator,2017,1972,9,United States
+408,North Korea,33,Arcade,2012,1972,8,Japan
+410,South Korea,5,Shooter,1982,1972,2,Japan
+410,South Korea,7,Music,2007,1987,4,Japan
+410,South Korea,8,Platform,1987,1977,2,Japan
+410,South Korea,9,Puzzle,1987,1972,3,United States
+410,South Korea,11,Real Time Strategy (RTS),2002,1982,4,United States
+410,South Korea,12,Role-playing (RPG),1997,1977,4,United States
+410,South Korea,13,Simulator,2007,1972,7,United States
+410,South Korea,14,Sport,1997,1972,5,United States
+410,South Korea,15,Strategy,1997,1972,5,United States
+410,South Korea,16,Turn-based strategy (TBS),2012,1977,7,United States
+410,South Korea,24,Tactical,2017,1977,8,United States
+410,South Korea,25,Hack and slash/Beat 'em up,2002,1982,4,Japan
+410,South Korea,31,Adventure,1997,1972,5,United States
+410,South Korea,33,Arcade,1982,1972,2,Japan
+410,South Korea,34,Visual Novel,2017,1982,7,Japan
+410,South Korea,35,Card & Board Game,2012,1972,8,United States
+410,South Korea,36,MOBA,2017,2007,2,United States
+428,Latvia,2,Point-and-click,2022,1982,8,United States
+428,Latvia,5,Shooter,2017,1972,9,Japan
+428,Latvia,8,Platform,2017,1977,8,Japan
+428,Latvia,9,Puzzle,2022,1972,10,United States
+428,Latvia,15,Strategy,2017,1972,9,United States
+428,Latvia,31,Adventure,2022,1972,10,United States
+428,Latvia,32,Indie,2022,1987,7,United States
+440,Lithuania,5,Shooter,2022,1972,10,Japan
+440,Lithuania,9,Puzzle,2017,1972,9,United States
+440,Lithuania,10,Racing,2017,1972,9,Japan
+440,Lithuania,12,Role-playing (RPG),2022,1977,9,United States
+440,Lithuania,13,Simulator,2007,1972,7,United States
+440,Lithuania,14,Sport,2007,1972,7,United States
+440,Lithuania,15,Strategy,2007,1972,7,United States
+440,Lithuania,24,Tactical,2022,1977,9,United States
+440,Lithuania,31,Adventure,2012,1972,8,United States
+440,Lithuania,32,Indie,2017,1987,6,United States
+440,Lithuania,33,Arcade,2017,1972,9,Japan
+442,Luxembourg,8,Platform,2022,1977,9,Japan
+442,Luxembourg,9,Puzzle,2022,1972,10,United States
+442,Luxembourg,15,Strategy,2012,1972,8,United States
+442,Luxembourg,16,Turn-based strategy (TBS),2012,1977,7,United States
+442,Luxembourg,32,Indie,2022,1987,7,United States
+442,Luxembourg,33,Arcade,2022,1972,10,Japan
+458,Malaysia,4,Fighting,2022,1982,8,Australia; Japan
+458,Malaysia,9,Puzzle,2022,1972,10,United States
+458,Malaysia,12,Role-playing (RPG),2012,1977,7,United States
+458,Malaysia,13,Simulator,2017,1972,9,United States
+458,Malaysia,15,Strategy,2012,1972,8,United States
+458,Malaysia,31,Adventure,2012,1972,8,United States
+458,Malaysia,32,Indie,2012,1987,5,United States
+458,Malaysia,33,Arcade,2022,1972,10,Japan
+458,Malaysia,34,Visual Novel,2017,1982,7,Japan
+470,Malta,5,Shooter,2017,1972,9,Japan
+484,Mexico,5,Shooter,2017,1972,9,Japan
+484,Mexico,7,Music,2022,1987,7,Japan
+484,Mexico,8,Platform,2012,1977,7,Japan
+484,Mexico,9,Puzzle,2012,1972,8,United States
+484,Mexico,10,Racing,2022,1972,10,Japan
+484,Mexico,13,Simulator,2017,1972,9,United States
+484,Mexico,14,Sport,2017,1972,9,United States
+484,Mexico,15,Strategy,2012,1972,8,United States
+484,Mexico,31,Adventure,2022,1972,10,United States
+484,Mexico,32,Indie,2012,1987,5,United States
+484,Mexico,33,Arcade,2012,1972,8,Japan
+484,Mexico,35,Card & Board Game,2012,1972,8,United States
+498,Moldova,2,Point-and-click,2007,1982,5,United States
+498,Moldova,9,Puzzle,2007,1972,7,United States
+498,Moldova,10,Racing,2022,1972,10,Japan
+498,Moldova,13,Simulator,2022,1972,10,United States
+498,Moldova,31,Adventure,2007,1972,7,United States
+498,Moldova,32,Indie,2017,1987,6,United States
+504,Morocco,8,Platform,2007,1977,6,Japan
+504,Morocco,31,Adventure,2007,1972,7,United States
+504,Morocco,33,Arcade,2022,1972,10,Japan
+528,Netherlands,2,Point-and-click,2007,1982,5,United States
+528,Netherlands,5,Shooter,1997,1972,5,Japan
+528,Netherlands,8,Platform,1992,1977,3,Japan
+528,Netherlands,9,Puzzle,1992,1972,4,United States
+528,Netherlands,10,Racing,1997,1972,5,Japan
+528,Netherlands,11,Real Time Strategy (RTS),2012,1982,6,United States
+528,Netherlands,12,Role-playing (RPG),1987,1977,2,United States
+528,Netherlands,13,Simulator,2002,1972,6,United States
+528,Netherlands,14,Sport,1997,1972,5,United States
+528,Netherlands,15,Strategy,1992,1972,4,United States
+528,Netherlands,16,Turn-based strategy (TBS),2012,1977,7,United States
+528,Netherlands,24,Tactical,2022,1977,9,United States
+528,Netherlands,25,Hack and slash/Beat 'em up,2007,1982,5,Japan
+528,Netherlands,31,Adventure,1987,1972,3,United States
+528,Netherlands,32,Indie,2007,1987,4,United States
+528,Netherlands,33,Arcade,1997,1972,5,Japan
+528,Netherlands,35,Card & Board Game,1992,1972,4,United States
+528,Netherlands,36,MOBA,2012,2007,1,United States
+540,New Caledonia,31,Adventure,2022,1972,10,United States
+554,New Zealand,5,Shooter,2017,1972,9,Japan
+554,New Zealand,9,Puzzle,2007,1972,7,United States
+554,New Zealand,10,Racing,2002,1972,6,Japan
+554,New Zealand,11,Real Time Strategy (RTS),2017,1982,7,United States
+554,New Zealand,12,Role-playing (RPG),2022,1977,9,United States
+554,New Zealand,13,Simulator,2012,1972,8,United States
+554,New Zealand,14,Sport,2002,1972,6,United States
+554,New Zealand,15,Strategy,2007,1972,7,United States
+554,New Zealand,24,Tactical,2007,1977,6,United States
+554,New Zealand,25,Hack and slash/Beat 'em up,2017,1982,7,Japan
+554,New Zealand,31,Adventure,2022,1972,10,United States
+554,New Zealand,32,Indie,2007,1987,4,United States
+554,New Zealand,33,Arcade,2002,1972,6,Japan
+554,New Zealand,35,Card & Board Game,2022,1972,10,United States
+558,Nicaragua,31,Adventure,2022,1972,10,United States
+558,Nicaragua,32,Indie,2017,1987,6,United States
+566,Nigeria,9,Puzzle,2022,1972,10,United States
+566,Nigeria,31,Adventure,2022,1972,10,United States
+566,Nigeria,32,Indie,2022,1987,7,United States
+578,Norway,2,Point-and-click,1997,1982,3,United States
+578,Norway,4,Fighting,2017,1982,7,Australia; Japan
+578,Norway,7,Music,2022,1987,7,Japan
+578,Norway,8,Platform,1992,1977,3,Japan
+578,Norway,9,Puzzle,1997,1972,5,United States
+578,Norway,10,Racing,1997,1972,5,Japan
+578,Norway,12,Role-playing (RPG),2002,1977,5,United States
+578,Norway,14,Sport,1997,1972,5,United States
+578,Norway,15,Strategy,2017,1972,9,United States
+578,Norway,31,Adventure,1997,1972,5,United States
+578,Norway,32,Indie,2012,1987,5,United States
+578,Norway,33,Arcade,2012,1972,8,Japan
+586,Pakistan,10,Racing,2022,1972,10,Japan
+586,Pakistan,13,Simulator,2022,1972,10,United States
+586,Pakistan,15,Strategy,2022,1972,10,United States
+586,Pakistan,33,Arcade,2022,1972,10,Japan
+604,Peru,2,Point-and-click,2017,1982,7,United States
+604,Peru,5,Shooter,2022,1972,10,Japan
+604,Peru,9,Puzzle,2017,1972,9,United States
+604,Peru,10,Racing,2022,1972,10,Japan
+604,Peru,14,Sport,2022,1972,10,United States
+604,Peru,31,Adventure,2017,1972,9,United States
+604,Peru,32,Indie,2017,1987,6,United States
+604,Peru,33,Arcade,2022,1972,10,Japan
+608,Philippines,5,Shooter,2017,1972,9,Japan
+608,Philippines,9,Puzzle,2007,1972,7,United States
+608,Philippines,12,Role-playing (RPG),2017,1977,8,United States
+608,Philippines,13,Simulator,2012,1972,8,United States
+608,Philippines,15,Strategy,2012,1972,8,United States
+608,Philippines,31,Adventure,2017,1972,9,United States
+608,Philippines,32,Indie,2007,1987,4,United States
+608,Philippines,33,Arcade,2017,1972,9,Japan
+608,Philippines,34,Visual Novel,2012,1982,6,Japan
+616,Poland,2,Point-and-click,1992,1982,2,United States
+616,Poland,5,Shooter,1992,1972,4,Japan
+616,Poland,8,Platform,2002,1977,5,Japan
+616,Poland,9,Puzzle,1997,1972,5,United States
+616,Poland,10,Racing,1997,1972,5,Japan
+616,Poland,11,Real Time Strategy (RTS),1997,1982,3,United States
+616,Poland,13,Simulator,1997,1972,5,United States
+616,Poland,14,Sport,2022,1972,10,United States
+616,Poland,15,Strategy,1997,1972,5,United States
+616,Poland,16,Turn-based strategy (TBS),2022,1977,9,United States
+616,Poland,24,Tactical,2012,1977,7,United States
+616,Poland,26,Quiz/Trivia,2002,1977,5,United States
+616,Poland,31,Adventure,1992,1972,4,United States
+616,Poland,32,Indie,2002,1987,3,United States
+616,Poland,33,Arcade,2002,1972,6,Japan
+616,Poland,35,Card & Board Game,2017,1972,9,United States
+620,Portugal,2,Point-and-click,2017,1982,7,United States
+620,Portugal,7,Music,2017,1987,6,Japan
+620,Portugal,8,Platform,2012,1977,7,Japan
+620,Portugal,9,Puzzle,2012,1972,8,United States
+620,Portugal,10,Racing,2017,1972,9,Japan
+620,Portugal,12,Role-playing (RPG),2012,1977,7,United States
+620,Portugal,13,Simulator,2017,1972,9,United States
+620,Portugal,15,Strategy,2022,1972,10,United States
+620,Portugal,31,Adventure,2012,1972,8,United States
+620,Portugal,32,Indie,2012,1987,5,United States
+620,Portugal,33,Arcade,2017,1972,9,Japan
+642,Romania,2,Point-and-click,2017,1982,7,United States
+642,Romania,5,Shooter,2002,1972,6,Japan
+642,Romania,8,Platform,2017,1977,8,Japan
+642,Romania,9,Puzzle,2017,1972,9,United States
+642,Romania,12,Role-playing (RPG),2022,1977,9,United States
+642,Romania,13,Simulator,2002,1972,6,United States
+642,Romania,14,Sport,2002,1972,6,United States
+642,Romania,15,Strategy,2007,1972,7,United States
+642,Romania,24,Tactical,2022,1977,9,United States
+642,Romania,32,Indie,2012,1987,5,United States
+643,Russia,2,Point-and-click,1997,1982,3,United States
+643,Russia,5,Shooter,1997,1972,5,Japan
+643,Russia,7,Music,2017,1987,6,Japan
+643,Russia,8,Platform,2022,1977,9,Japan
+643,Russia,9,Puzzle,1992,1972,4,United States
+643,Russia,10,Racing,1997,1972,5,Japan
+643,Russia,11,Real Time Strategy (RTS),1997,1982,3,United States
+643,Russia,12,Role-playing (RPG),1997,1977,4,United States
+643,Russia,13,Simulator,1997,1972,5,United States
+643,Russia,15,Strategy,1997,1972,5,United States
+643,Russia,16,Turn-based strategy (TBS),2002,1977,5,United States
+643,Russia,24,Tactical,2002,1977,5,United States
+643,Russia,26,Quiz/Trivia,2002,1977,5,United States
+643,Russia,31,Adventure,1997,1972,5,United States
+643,Russia,32,Indie,2012,1987,5,United States
+643,Russia,33,Arcade,2002,1972,6,Japan
+643,Russia,35,Card & Board Game,2012,1972,8,United States
+682,Saudi Arabia,32,Indie,2022,1987,7,United States
+688,Serbia,2,Point-and-click,2007,1982,5,United States
+688,Serbia,5,Shooter,2012,1972,8,Japan
+688,Serbia,8,Platform,2022,1977,9,Japan
+688,Serbia,9,Puzzle,2007,1972,7,United States
+688,Serbia,12,Role-playing (RPG),2022,1977,9,United States
+688,Serbia,15,Strategy,2022,1972,10,United States
+688,Serbia,31,Adventure,2007,1972,7,United States
+688,Serbia,32,Indie,2012,1987,5,United States
+688,Serbia,33,Arcade,2022,1972,10,Japan
+702,Singapore,4,Fighting,2007,1982,5,Australia; Japan
+702,Singapore,8,Platform,2007,1977,6,Japan
+702,Singapore,10,Racing,2002,1972,6,Japan
+702,Singapore,12,Role-playing (RPG),2012,1977,7,United States
+702,Singapore,13,Simulator,2017,1972,9,United States
+702,Singapore,15,Strategy,2012,1972,8,United States
+702,Singapore,16,Turn-based strategy (TBS),2022,1977,9,United States
+702,Singapore,24,Tactical,2022,1977,9,United States
+702,Singapore,25,Hack and slash/Beat 'em up,2012,1982,6,Japan
+702,Singapore,31,Adventure,2007,1972,7,United States
+702,Singapore,32,Indie,2007,1987,4,United States
+702,Singapore,33,Arcade,2007,1972,7,Japan
+703,Slovakia,5,Shooter,2002,1972,6,Japan
+703,Slovakia,9,Puzzle,2012,1972,8,United States
+703,Slovakia,12,Role-playing (RPG),2017,1977,8,United States
+703,Slovakia,13,Simulator,2007,1972,7,United States
+703,Slovakia,14,Sport,2007,1972,7,United States
+703,Slovakia,15,Strategy,2012,1972,8,United States
+703,Slovakia,25,Hack and slash/Beat 'em up,2017,1982,7,Japan
+703,Slovakia,26,Quiz/Trivia,2022,1977,9,United States
+703,Slovakia,31,Adventure,2022,1972,10,United States
+703,Slovakia,32,Indie,2012,1987,5,United States
+703,Slovakia,33,Arcade,2012,1972,8,Japan
+704,Vietnam,8,Platform,2017,1977,8,Japan
+704,Vietnam,9,Puzzle,2022,1972,10,United States
+704,Vietnam,12,Role-playing (RPG),2017,1977,8,United States
+704,Vietnam,13,Simulator,2017,1972,9,United States
+704,Vietnam,15,Strategy,2022,1972,10,United States
+704,Vietnam,32,Indie,2017,1987,6,United States
+704,Vietnam,35,Card & Board Game,2022,1972,10,United States
+705,Slovenia,8,Platform,2017,1977,8,Japan
+705,Slovenia,9,Puzzle,2012,1972,8,United States
+705,Slovenia,13,Simulator,2007,1972,7,United States
+705,Slovenia,31,Adventure,2017,1972,9,United States
+705,Slovenia,32,Indie,2012,1987,5,United States
+710,South Africa,2,Point-and-click,2022,1982,8,United States
+710,South Africa,5,Shooter,2012,1972,8,Japan
+710,South Africa,8,Platform,2012,1977,7,Japan
+710,South Africa,9,Puzzle,2022,1972,10,United States
+710,South Africa,13,Simulator,2017,1972,9,United States
+710,South Africa,14,Sport,2017,1972,9,United States
+710,South Africa,15,Strategy,2017,1972,9,United States
+710,South Africa,25,Hack and slash/Beat 'em up,2022,1982,8,Japan
+710,South Africa,31,Adventure,2012,1972,8,United States
+710,South Africa,32,Indie,2012,1987,5,United States
+710,South Africa,33,Arcade,2017,1972,9,Japan
+724,Spain,2,Point-and-click,1992,1982,2,United States
+724,Spain,5,Shooter,1987,1972,3,Japan
+724,Spain,8,Platform,1982,1977,1,Japan
+724,Spain,9,Puzzle,1997,1972,5,United States
+724,Spain,10,Racing,1987,1972,3,Japan
+724,Spain,13,Simulator,1992,1972,4,United States
+724,Spain,14,Sport,1987,1972,3,United States
+724,Spain,15,Strategy,2002,1972,6,United States
+724,Spain,25,Hack and slash/Beat 'em up,2007,1982,5,Japan
+724,Spain,30,Pinball,1987,1977,2,Japan
+724,Spain,31,Adventure,1982,1972,2,United States
+724,Spain,32,Indie,2012,1987,5,United States
+724,Spain,33,Arcade,1987,1972,3,Japan
+724,Spain,35,Card & Board Game,2017,1972,9,United States
+752,Sweden,2,Point-and-click,1997,1982,3,United States
+752,Sweden,5,Shooter,2002,1972,6,Japan
+752,Sweden,8,Platform,2002,1977,5,Japan
+752,Sweden,9,Puzzle,1992,1972,4,United States
+752,Sweden,10,Racing,1997,1972,5,Japan
+752,Sweden,11,Real Time Strategy (RTS),2002,1982,4,United States
+752,Sweden,13,Simulator,1992,1972,4,United States
+752,Sweden,14,Sport,2017,1972,9,United States
+752,Sweden,15,Strategy,2002,1972,6,United States
+752,Sweden,16,Turn-based strategy (TBS),1997,1977,4,United States
+752,Sweden,24,Tactical,2007,1977,6,United States
+752,Sweden,26,Quiz/Trivia,1997,1977,4,United States
+752,Sweden,30,Pinball,1992,1977,3,Japan
+752,Sweden,31,Adventure,1997,1972,5,United States
+752,Sweden,32,Indie,1997,1987,2,United States
+752,Sweden,33,Arcade,1992,1972,4,Japan
+752,Sweden,36,MOBA,2012,2007,1,United States
+756,Switzerland,2,Point-and-click,2022,1982,8,United States
+756,Switzerland,4,Fighting,2017,1982,7,Australia; Japan
+756,Switzerland,5,Shooter,2002,1972,6,Japan
+756,Switzerland,8,Platform,2022,1977,9,Japan
+756,Switzerland,9,Puzzle,2022,1972,10,United States
+756,Switzerland,10,Racing,2017,1972,9,Japan
+756,Switzerland,13,Simulator,2007,1972,7,United States
+756,Switzerland,14,Sport,2007,1972,7,United States
+756,Switzerland,15,Strategy,2012,1972,8,United States
+756,Switzerland,25,Hack and slash/Beat 'em up,2022,1982,8,Japan
+756,Switzerland,26,Quiz/Trivia,2022,1977,9,United States
+756,Switzerland,33,Arcade,2002,1972,6,Japan
+756,Switzerland,35,Card & Board Game,2022,1972,10,United States
+764,Thailand,5,Shooter,2022,1972,10,Japan
+764,Thailand,8,Platform,2007,1977,6,Japan
+764,Thailand,9,Puzzle,2007,1972,7,United States
+764,Thailand,12,Role-playing (RPG),2017,1977,8,United States
+764,Thailand,15,Strategy,2012,1972,8,United States
+764,Thailand,16,Turn-based strategy (TBS),2022,1977,9,United States
+764,Thailand,31,Adventure,2007,1972,7,United States
+764,Thailand,32,Indie,2017,1987,6,United States
+764,Thailand,33,Arcade,2012,1972,8,Japan
+764,Thailand,35,Card & Board Game,2007,1972,7,United States
+784,United Arab Emirates,5,Shooter,2022,1972,10,Japan
+784,United Arab Emirates,8,Platform,2022,1977,9,Japan
+784,United Arab Emirates,11,Real Time Strategy (RTS),2022,1982,8,United States
+784,United Arab Emirates,12,Role-playing (RPG),2022,1977,9,United States
+784,United Arab Emirates,13,Simulator,2022,1972,10,United States
+784,United Arab Emirates,15,Strategy,2022,1972,10,United States
+784,United Arab Emirates,31,Adventure,2022,1972,10,United States
+784,United Arab Emirates,32,Indie,2017,1987,6,United States
+784,United Arab Emirates,33,Arcade,2017,1972,9,Japan
+788,Tunisia,15,Strategy,2022,1972,10,United States
+788,Tunisia,32,Indie,2022,1987,7,United States
+792,Türkiye,2,Point-and-click,2007,1982,5,United States
+792,Türkiye,5,Shooter,2017,1972,9,Japan
+792,Türkiye,8,Platform,2017,1977,8,Japan
+792,Türkiye,9,Puzzle,2012,1972,8,United States
+792,Türkiye,10,Racing,2017,1972,9,Japan
+792,Türkiye,11,Real Time Strategy (RTS),2022,1982,8,United States
+792,Türkiye,12,Role-playing (RPG),2007,1977,6,United States
+792,Türkiye,13,Simulator,2022,1972,10,United States
+792,Türkiye,15,Strategy,2012,1972,8,United States
+792,Türkiye,24,Tactical,2022,1977,9,United States
+792,Türkiye,31,Adventure,2007,1972,7,United States
+792,Türkiye,32,Indie,2007,1987,4,United States
+792,Türkiye,33,Arcade,2017,1972,9,Japan
+792,Türkiye,35,Card & Board Game,2022,1972,10,United States
+804,Ukraine,2,Point-and-click,2002,1982,4,United States
+804,Ukraine,5,Shooter,1997,1972,5,Japan
+804,Ukraine,9,Puzzle,2002,1972,6,United States
+804,Ukraine,11,Real Time Strategy (RTS),2007,1982,5,United States
+804,Ukraine,12,Role-playing (RPG),2002,1977,5,United States
+804,Ukraine,13,Simulator,1997,1972,5,United States
+804,Ukraine,14,Sport,1997,1972,5,United States
+804,Ukraine,15,Strategy,2007,1972,7,United States
+804,Ukraine,16,Turn-based strategy (TBS),2007,1977,6,United States
+804,Ukraine,24,Tactical,2002,1977,5,United States
+804,Ukraine,31,Adventure,2002,1972,6,United States
+804,Ukraine,32,Indie,2012,1987,5,United States
+804,Ukraine,33,Arcade,2002,1972,6,Japan
+818,Egypt,2,Point-and-click,2017,1982,7,United States
+818,Egypt,9,Puzzle,2022,1972,10,United States
+818,Egypt,15,Strategy,2017,1972,9,United States
+818,Egypt,31,Adventure,2017,1972,9,United States
+826,United Kingdom,5,Shooter,1982,1972,2,Japan
+826,United Kingdom,7,Music,2002,1987,3,Japan
+826,United Kingdom,8,Platform,1982,1977,1,Japan
+826,United Kingdom,9,Puzzle,1982,1972,2,United States
+826,United Kingdom,10,Racing,1987,1972,3,Japan
+826,United Kingdom,11,Real Time Strategy (RTS),1987,1982,1,United States
+826,United Kingdom,13,Simulator,1982,1972,2,United States
+826,United Kingdom,14,Sport,1992,1972,4,United States
+826,United Kingdom,15,Strategy,1987,1972,3,United States
+826,United Kingdom,16,Turn-based strategy (TBS),2007,1977,6,United States
+826,United Kingdom,24,Tactical,1987,1977,2,United States
+826,United Kingdom,25,Hack and slash/Beat 'em up,1992,1982,2,Japan
+826,United Kingdom,26,Quiz/Trivia,1987,1977,2,United States
+826,United Kingdom,30,Pinball,1987,1977,2,Japan
+826,United Kingdom,31,Adventure,1982,1972,2,United States
+826,United Kingdom,32,Indie,1997,1987,2,United States
+826,United Kingdom,33,Arcade,1977,1972,1,Japan
+826,United Kingdom,35,Card & Board Game,2012,1972,8,United States
+840,United States,2,Point-and-click,1982,1982,0,United States
+840,United States,4,Fighting,2012,1982,6,Australia; Japan
+840,United States,5,Shooter,1992,1972,4,Japan
+840,United States,8,Platform,2002,1977,5,Japan
+840,United States,9,Puzzle,1972,1972,0,United States
+840,United States,10,Racing,1977,1972,1,Japan
+840,United States,11,Real Time Strategy (RTS),1982,1982,0,United States
+840,United States,12,Role-playing (RPG),1977,1977,0,United States
+840,United States,13,Simulator,1972,1972,0,United States
+840,United States,14,Sport,1972,1972,0,United States
+840,United States,15,Strategy,1972,1972,0,United States
+840,United States,16,Turn-based strategy (TBS),1977,1977,0,United States
+840,United States,24,Tactical,1977,1977,0,United States
+840,United States,25,Hack and slash/Beat 'em up,1997,1982,3,Japan
+840,United States,26,Quiz/Trivia,1977,1977,0,United States
+840,United States,30,Pinball,1992,1977,3,Japan
+840,United States,31,Adventure,1972,1972,0,United States
+840,United States,32,Indie,1987,1987,0,United States
+840,United States,33,Arcade,1982,1972,2,Japan
+840,United States,35,Card & Board Game,1972,1972,0,United States
+840,United States,36,MOBA,2007,2007,0,United States
+858,Uruguay,8,Platform,2007,1977,6,Japan
+858,Uruguay,12,Role-playing (RPG),2022,1977,9,United States
+858,Uruguay,15,Strategy,2017,1972,9,United States
+858,Uruguay,32,Indie,2012,1987,5,United States
+858,Uruguay,33,Arcade,2012,1972,8,Japan
+862,Venezuela,31,Adventure,2012,1972,8,United States
+862,Venezuela,32,Indie,2012,1987,5,United States
+862,Venezuela,34,Visual Novel,2012,1982,6,Japan

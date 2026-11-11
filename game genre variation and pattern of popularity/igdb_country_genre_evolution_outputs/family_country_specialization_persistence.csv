@@ -1,0 +1,134 @@
+country_id,country_name,data_family_id,first_specialization_period,number_of_periods_specialized,longest_consecutive_specialization_run_periods,longest_consecutive_run_approx_years
+8,Albania,Family 1,2017,1,1,5
+16,American Samoa,Family 1,2022,1,1,5
+32,Argentina,Family 1,2002,5,5,25
+32,Argentina,Family 2,2007,1,1,5
+36,Australia,Family 1,1982,9,9,45
+36,Australia,Family 3,2007,1,1,5
+36,Australia,Family 4,1997,1,1,5
+40,Austria,Family 1,1997,6,6,30
+50,Bangladesh,Family 1,2022,1,1,5
+51,Armenia,Family 1,2002,5,5,25
+56,Belgium,Family 1,1997,6,6,30
+56,Belgium,Family 3,2017,2,2,10
+76,Brazil,Family 1,1982,9,9,45
+76,Brazil,Family 2,2007,1,1,5
+76,Brazil,Family 3,1997,6,6,30
+100,Bulgaria,Family 1,2002,5,5,25
+112,Belarus,Family 1,2002,5,5,25
+124,Canada,Family 1,1987,8,8,40
+124,Canada,Family 3,1997,3,1,5
+124,Canada,Family 4,1992,1,1,5
+144,Sri Lanka,Family 1,2012,1,1,5
+152,Chile,Family 1,2002,5,5,25
+156,China,Family 1,1997,6,6,30
+156,China,Family 2,2017,1,1,5
+156,China,Family 5,2012,2,2,10
+158,Taiwan,Family 1,1987,8,8,40
+158,Taiwan,Family 2,2012,1,1,5
+170,Colombia,Family 1,2017,2,2,10
+188,Costa Rica,Family 1,2017,2,2,10
+191,Croatia,Family 1,2002,5,5,25
+196,Cyprus,Family 1,2002,5,5,25
+203,Czechia,Family 1,1987,8,8,40
+203,Czechia,Family 2,2017,2,2,10
+208,Denmark,Family 1,1992,7,7,35
+208,Denmark,Family 2,2017,1,1,5
+208,Denmark,Family 3,1997,2,2,10
+218,Ecuador,Family 1,2017,1,1,5
+222,El Salvador,Family 1,2017,1,1,5
+233,Estonia,Family 1,2017,2,2,10
+246,Finland,Family 1,1992,7,7,35
+246,Finland,Family 5,2022,1,1,5
+250,France,Family 1,1982,9,9,45
+250,France,Family 2,2012,3,3,15
+250,France,Family 3,2012,3,3,15
+250,France,Family 5,2022,1,1,5
+268,Georgia,Family 1,2017,2,2,10
+276,Germany,Family 1,1987,8,8,40
+276,Germany,Family 3,2017,1,1,5
+300,Greece,Family 1,2002,5,5,25
+316,Guam,Family 1,2017,1,1,5
+344,Hong Kong,Family 1,1977,7,5,25
+348,Hungary,Family 1,1992,7,7,35
+348,Hungary,Family 4,2007,4,4,20
+352,Iceland,Family 1,2002,5,5,25
+356,India,Family 1,2002,5,5,25
+360,Indonesia,Family 1,2007,4,4,20
+364,Iran,Family 1,2012,3,3,15
+372,Ireland,Family 1,2007,4,4,20
+372,Ireland,Family 2,2012,1,1,5
+376,Israel,Family 1,1992,6,4,20
+380,Italy,Family 1,1987,8,8,40
+380,Italy,Family 3,2022,1,1,5
+388,Jamaica,Family 1,2017,2,2,10
+392,Japan,Family 1,1972,11,11,55
+392,Japan,Family 2,1987,8,8,40
+392,Japan,Family 3,1982,4,3,15
+392,Japan,Family 4,1977,2,2,10
+398,Kazakhstan,Family 1,2017,2,2,10
+400,Jordan,Family 1,2007,2,1,5
+408,North Korea,Family 1,2012,3,3,15
+410,South Korea,Family 1,1982,9,9,45
+410,South Korea,Family 2,2007,4,4,20
+410,South Korea,Family 5,2017,2,2,10
+428,Latvia,Family 1,2017,2,2,10
+440,Lithuania,Family 1,2007,4,4,20
+442,Luxembourg,Family 1,2012,2,1,5
+458,Malaysia,Family 1,2012,3,3,15
+470,Malta,Family 1,2017,1,1,5
+484,Mexico,Family 1,2012,3,3,15
+484,Mexico,Family 2,2022,1,1,5
+498,Moldova,Family 1,2007,3,2,10
+504,Morocco,Family 1,2007,2,1,5
+528,Netherlands,Family 1,1987,8,8,40
+528,Netherlands,Family 5,2012,2,2,10
+540,New Caledonia,Family 1,2022,1,1,5
+554,New Zealand,Family 1,2002,5,5,25
+558,Nicaragua,Family 1,2017,2,2,10
+566,Nigeria,Family 1,2022,1,1,5
+578,Norway,Family 1,1992,7,7,35
+578,Norway,Family 2,2022,1,1,5
+586,Pakistan,Family 1,2022,1,1,5
+604,Peru,Family 1,2017,2,2,10
+608,Philippines,Family 1,2007,4,4,20
+616,Poland,Family 1,1992,7,7,35
+616,Poland,Family 3,2002,3,1,5
+620,Portugal,Family 1,2012,3,3,15
+620,Portugal,Family 2,2017,1,1,5
+642,Romania,Family 1,2002,5,5,25
+643,Russia,Family 1,1992,7,7,35
+643,Russia,Family 2,2017,1,1,5
+643,Russia,Family 3,2002,2,2,10
+682,Saudi Arabia,Family 1,2022,1,1,5
+688,Serbia,Family 1,2007,4,4,20
+702,Singapore,Family 1,2002,5,5,25
+703,Slovakia,Family 1,2002,5,5,25
+703,Slovakia,Family 3,2022,1,1,5
+704,Vietnam,Family 1,2017,2,2,10
+705,Slovenia,Family 1,2007,4,4,20
+710,South Africa,Family 1,2012,3,3,15
+724,Spain,Family 1,1982,9,9,45
+724,Spain,Family 4,1987,1,1,5
+752,Sweden,Family 1,1992,7,7,35
+752,Sweden,Family 3,1997,2,1,5
+752,Sweden,Family 4,1992,1,1,5
+752,Sweden,Family 5,2012,1,1,5
+756,Switzerland,Family 1,2002,5,5,25
+756,Switzerland,Family 3,2022,1,1,5
+764,Thailand,Family 1,2007,4,4,20
+784,United Arab Emirates,Family 1,2017,2,2,10
+788,Tunisia,Family 1,2022,1,1,5
+792,Türkiye,Family 1,2007,4,4,20
+804,Ukraine,Family 1,1997,6,6,30
+818,Egypt,Family 1,2017,2,2,10
+826,United Kingdom,Family 1,1977,10,10,50
+826,United Kingdom,Family 2,2002,2,2,10
+826,United Kingdom,Family 3,1987,4,3,15
+826,United Kingdom,Family 4,1987,3,2,10
+840,United States,Family 1,1972,11,11,55
+840,United States,Family 3,1977,6,2,10
+840,United States,Family 4,1992,5,3,15
+840,United States,Family 5,2007,3,2,10
+858,Uruguay,Family 1,2007,4,4,20
+862,Venezuela,Family 1,2012,3,3,15

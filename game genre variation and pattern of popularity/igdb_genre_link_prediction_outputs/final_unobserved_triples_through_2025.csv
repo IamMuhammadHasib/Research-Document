@@ -1,0 +1,465 @@
+rank,genre_a_id,genre_a,genre_b_id,genre_b,genre_c_id,genre_c,pair_support,triple_common_neighbor_sum,triple_adamic_adar_sum,triple_score
+1,4,Fighting,12,Role-playing (RPG),26,Quiz/Trivia,3,63,20.607098157632755,363
+2,4,Fighting,15,Strategy,26,Quiz/Trivia,3,63,20.607098157632755,363
+3,4,Fighting,16,Turn-based strategy (TBS),26,Quiz/Trivia,3,63,20.607098157632755,363
+4,5,Shooter,14,Sport,16,Turn-based strategy (TBS),3,63,20.607098157632755,363
+5,5,Shooter,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,3,63,20.607098157632755,363
+6,5,Shooter,16,Turn-based strategy (TBS),26,Quiz/Trivia,3,63,20.607098157632755,363
+7,9,Puzzle,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,3,63,20.607098157632755,363
+8,13,Simulator,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,3,63,20.607098157632755,363
+9,14,Sport,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,3,63,20.607098157632755,363
+10,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,26,Quiz/Trivia,3,63,20.607098157632755,363
+11,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,33,Arcade,3,63,20.607098157632755,363
+12,16,Turn-based strategy (TBS),26,Quiz/Trivia,33,Arcade,3,63,20.607098157632755,363
+13,2,Point-and-click,4,Fighting,15,Strategy,3,61,19.91796504263378,361
+14,2,Point-and-click,4,Fighting,16,Turn-based strategy (TBS),3,61,19.91796504263378,361
+15,2,Point-and-click,5,Shooter,16,Turn-based strategy (TBS),3,61,19.91796504263378,361
+16,2,Point-and-click,8,Platform,14,Sport,3,61,19.91796504263378,361
+17,2,Point-and-click,8,Platform,16,Turn-based strategy (TBS),3,61,19.91796504263378,361
+18,2,Point-and-click,12,Role-playing (RPG),26,Quiz/Trivia,3,61,19.91796504263378,361
+19,2,Point-and-click,13,Simulator,25,Hack and slash/Beat 'em up,3,61,19.91796504263378,361
+20,2,Point-and-click,14,Sport,26,Quiz/Trivia,3,61,19.91796504263378,361
+21,2,Point-and-click,14,Sport,35,Card & Board Game,3,61,19.91796504263378,361
+22,2,Point-and-click,15,Strategy,25,Hack and slash/Beat 'em up,3,61,19.91796504263378,361
+23,2,Point-and-click,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,3,61,19.91796504263378,361
+24,2,Point-and-click,16,Turn-based strategy (TBS),26,Quiz/Trivia,3,61,19.91796504263378,361
+25,2,Point-and-click,16,Turn-based strategy (TBS),33,Arcade,3,61,19.91796504263378,361
+26,2,Point-and-click,16,Turn-based strategy (TBS),35,Card & Board Game,3,61,19.91796504263378,361
+27,4,Fighting,10,Racing,16,Turn-based strategy (TBS),3,61,19.91796504263378,361
+28,8,Platform,10,Racing,16,Turn-based strategy (TBS),3,61,19.91796504263378,361
+29,10,Racing,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,3,61,19.91796504263378,361
+30,10,Racing,16,Turn-based strategy (TBS),26,Quiz/Trivia,3,61,19.91796504263378,361
+31,10,Racing,16,Turn-based strategy (TBS),33,Arcade,3,61,19.91796504263378,361
+32,4,Fighting,7,Music,26,Quiz/Trivia,3,61,19.891299338694477,361
+33,4,Fighting,8,Platform,24,Tactical,3,61,19.891299338694477,361
+34,4,Fighting,8,Platform,34,Visual Novel,3,61,19.891299338694477,361
+35,4,Fighting,9,Puzzle,11,Real Time Strategy (RTS),3,61,19.891299338694477,361
+36,4,Fighting,11,Real Time Strategy (RTS),26,Quiz/Trivia,3,61,19.891299338694477,361
+37,4,Fighting,11,Real Time Strategy (RTS),35,Card & Board Game,3,61,19.891299338694477,361
+38,4,Fighting,14,Sport,34,Visual Novel,3,61,19.891299338694477,361
+39,4,Fighting,16,Turn-based strategy (TBS),34,Visual Novel,3,61,19.891299338694477,361
+40,4,Fighting,24,Tactical,26,Quiz/Trivia,3,61,19.891299338694477,361
+41,4,Fighting,26,Quiz/Trivia,34,Visual Novel,3,61,19.891299338694477,361
+42,5,Shooter,7,Music,16,Turn-based strategy (TBS),3,61,19.891299338694477,361
+43,5,Shooter,7,Music,26,Quiz/Trivia,3,61,19.891299338694477,361
+44,5,Shooter,7,Music,35,Card & Board Game,3,61,19.891299338694477,361
+45,5,Shooter,11,Real Time Strategy (RTS),26,Quiz/Trivia,3,61,19.891299338694477,361
+46,5,Shooter,11,Real Time Strategy (RTS),35,Card & Board Game,3,61,19.891299338694477,361
+47,5,Shooter,14,Sport,34,Visual Novel,3,61,19.891299338694477,361
+48,5,Shooter,16,Turn-based strategy (TBS),34,Visual Novel,3,61,19.891299338694477,361
+49,5,Shooter,24,Tactical,26,Quiz/Trivia,3,61,19.891299338694477,361
+50,5,Shooter,24,Tactical,35,Card & Board Game,3,61,19.891299338694477,361
+51,5,Shooter,26,Quiz/Trivia,34,Visual Novel,3,61,19.891299338694477,361
+52,5,Shooter,34,Visual Novel,35,Card & Board Game,3,61,19.891299338694477,361
+53,7,Music,8,Platform,26,Quiz/Trivia,3,61,19.891299338694477,361
+54,7,Music,9,Puzzle,25,Hack and slash/Beat 'em up,3,61,19.891299338694477,361
+55,7,Music,12,Role-playing (RPG),26,Quiz/Trivia,3,61,19.891299338694477,361
+56,7,Music,13,Simulator,16,Turn-based strategy (TBS),3,61,19.891299338694477,361
+57,7,Music,13,Simulator,25,Hack and slash/Beat 'em up,3,61,19.891299338694477,361
+58,7,Music,13,Simulator,26,Quiz/Trivia,3,61,19.891299338694477,361
+59,7,Music,14,Sport,16,Turn-based strategy (TBS),3,61,19.891299338694477,361
+60,7,Music,14,Sport,25,Hack and slash/Beat 'em up,3,61,19.891299338694477,361
+61,7,Music,14,Sport,26,Quiz/Trivia,3,61,19.891299338694477,361
+62,7,Music,14,Sport,35,Card & Board Game,3,61,19.891299338694477,361
+63,7,Music,16,Turn-based strategy (TBS),26,Quiz/Trivia,3,61,19.891299338694477,361
+64,7,Music,16,Turn-based strategy (TBS),33,Arcade,3,61,19.891299338694477,361
+65,7,Music,25,Hack and slash/Beat 'em up,26,Quiz/Trivia,3,61,19.891299338694477,361
+66,7,Music,26,Quiz/Trivia,31,Adventure,3,61,19.891299338694477,361
+67,7,Music,26,Quiz/Trivia,33,Arcade,3,61,19.891299338694477,361
+68,7,Music,26,Quiz/Trivia,35,Card & Board Game,3,61,19.891299338694477,361
+69,8,Platform,11,Real Time Strategy (RTS),14,Sport,3,61,19.891299338694477,361
+70,8,Platform,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),3,61,19.891299338694477,361
+71,8,Platform,11,Real Time Strategy (RTS),26,Quiz/Trivia,3,61,19.891299338694477,361
+72,8,Platform,14,Sport,34,Visual Novel,3,61,19.891299338694477,361
+73,8,Platform,15,Strategy,34,Visual Novel,3,61,19.891299338694477,361
+74,8,Platform,16,Turn-based strategy (TBS),34,Visual Novel,3,61,19.891299338694477,361
+75,8,Platform,24,Tactical,25,Hack and slash/Beat 'em up,3,61,19.891299338694477,361
+76,8,Platform,24,Tactical,26,Quiz/Trivia,3,61,19.891299338694477,361
+77,8,Platform,24,Tactical,35,Card & Board Game,3,61,19.891299338694477,361
+78,8,Platform,26,Quiz/Trivia,34,Visual Novel,3,61,19.891299338694477,361
+79,8,Platform,33,Arcade,34,Visual Novel,3,61,19.891299338694477,361
+80,8,Platform,34,Visual Novel,35,Card & Board Game,3,61,19.891299338694477,361
+81,9,Puzzle,11,Real Time Strategy (RTS),25,Hack and slash/Beat 'em up,3,61,19.891299338694477,361
+82,9,Puzzle,11,Real Time Strategy (RTS),26,Quiz/Trivia,3,61,19.891299338694477,361
+83,9,Puzzle,25,Hack and slash/Beat 'em up,34,Visual Novel,3,61,19.891299338694477,361
+84,11,Real Time Strategy (RTS),12,Role-playing (RPG),26,Quiz/Trivia,3,61,19.891299338694477,361
+85,11,Real Time Strategy (RTS),14,Sport,25,Hack and slash/Beat 'em up,3,61,19.891299338694477,361
+86,11,Real Time Strategy (RTS),14,Sport,26,Quiz/Trivia,3,61,19.891299338694477,361
+87,11,Real Time Strategy (RTS),14,Sport,31,Adventure,3,61,19.891299338694477,361
+88,11,Real Time Strategy (RTS),14,Sport,35,Card & Board Game,3,61,19.891299338694477,361
+89,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,3,61,19.891299338694477,361
+90,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),26,Quiz/Trivia,3,61,19.891299338694477,361
+91,11,Real Time Strategy (RTS),25,Hack and slash/Beat 'em up,26,Quiz/Trivia,3,61,19.891299338694477,361
+92,11,Real Time Strategy (RTS),26,Quiz/Trivia,31,Adventure,3,61,19.891299338694477,361
+93,11,Real Time Strategy (RTS),26,Quiz/Trivia,33,Arcade,3,61,19.891299338694477,361
+94,11,Real Time Strategy (RTS),26,Quiz/Trivia,35,Card & Board Game,3,61,19.891299338694477,361
+95,12,Role-playing (RPG),24,Tactical,26,Quiz/Trivia,3,61,19.891299338694477,361
+96,12,Role-playing (RPG),26,Quiz/Trivia,34,Visual Novel,3,61,19.891299338694477,361
+97,13,Simulator,24,Tactical,26,Quiz/Trivia,3,61,19.891299338694477,361
+98,14,Sport,24,Tactical,26,Quiz/Trivia,3,61,19.891299338694477,361
+99,14,Sport,25,Hack and slash/Beat 'em up,34,Visual Novel,3,61,19.891299338694477,361
+100,14,Sport,26,Quiz/Trivia,34,Visual Novel,3,61,19.891299338694477,361
+101,15,Strategy,26,Quiz/Trivia,34,Visual Novel,3,61,19.891299338694477,361
+102,16,Turn-based strategy (TBS),26,Quiz/Trivia,34,Visual Novel,3,61,19.891299338694477,361
+103,16,Turn-based strategy (TBS),33,Arcade,34,Visual Novel,3,61,19.891299338694477,361
+104,24,Tactical,25,Hack and slash/Beat 'em up,26,Quiz/Trivia,3,61,19.891299338694477,361
+105,24,Tactical,25,Hack and slash/Beat 'em up,33,Arcade,3,61,19.891299338694477,361
+106,24,Tactical,25,Hack and slash/Beat 'em up,35,Card & Board Game,3,61,19.891299338694477,361
+107,24,Tactical,26,Quiz/Trivia,31,Adventure,3,61,19.891299338694477,361
+108,24,Tactical,26,Quiz/Trivia,32,Indie,3,61,19.891299338694477,361
+109,24,Tactical,26,Quiz/Trivia,33,Arcade,3,61,19.891299338694477,361
+110,25,Hack and slash/Beat 'em up,26,Quiz/Trivia,34,Visual Novel,3,61,19.891299338694477,361
+111,25,Hack and slash/Beat 'em up,34,Visual Novel,35,Card & Board Game,3,61,19.891299338694477,361
+112,26,Quiz/Trivia,33,Arcade,34,Visual Novel,3,61,19.891299338694477,361
+113,26,Quiz/Trivia,34,Visual Novel,35,Card & Board Game,3,61,19.891299338694477,361
+114,33,Arcade,34,Visual Novel,35,Card & Board Game,3,61,19.891299338694477,361
+115,2,Point-and-click,10,Racing,25,Hack and slash/Beat 'em up,3,60,19.568455199529915,360
+116,2,Point-and-click,10,Racing,26,Quiz/Trivia,3,60,19.568455199529915,360
+117,2,Point-and-click,10,Racing,33,Arcade,3,60,19.568455199529915,360
+118,2,Point-and-click,10,Racing,35,Card & Board Game,3,60,19.568455199529915,360
+119,4,Fighting,7,Music,11,Real Time Strategy (RTS),3,60,19.528456643620956,360
+120,4,Fighting,7,Music,24,Tactical,3,60,19.528456643620956,360
+121,4,Fighting,11,Real Time Strategy (RTS),34,Visual Novel,3,60,19.528456643620956,360
+122,4,Fighting,24,Tactical,34,Visual Novel,3,60,19.528456643620956,360
+123,5,Shooter,7,Music,11,Real Time Strategy (RTS),3,60,19.528456643620956,360
+124,5,Shooter,7,Music,24,Tactical,3,60,19.528456643620956,360
+125,5,Shooter,11,Real Time Strategy (RTS),34,Visual Novel,3,60,19.528456643620956,360
+126,7,Music,8,Platform,24,Tactical,3,60,19.528456643620956,360
+127,7,Music,8,Platform,34,Visual Novel,3,60,19.528456643620956,360
+128,7,Music,11,Real Time Strategy (RTS),12,Role-playing (RPG),3,60,19.528456643620956,360
+129,7,Music,11,Real Time Strategy (RTS),14,Sport,3,60,19.528456643620956,360
+130,7,Music,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),3,60,19.528456643620956,360
+131,7,Music,11,Real Time Strategy (RTS),25,Hack and slash/Beat 'em up,3,60,19.528456643620956,360
+132,7,Music,11,Real Time Strategy (RTS),26,Quiz/Trivia,3,60,19.528456643620956,360
+133,7,Music,11,Real Time Strategy (RTS),33,Arcade,3,60,19.528456643620956,360
+134,7,Music,11,Real Time Strategy (RTS),35,Card & Board Game,3,60,19.528456643620956,360
+135,7,Music,13,Simulator,24,Tactical,3,60,19.528456643620956,360
+136,7,Music,14,Sport,24,Tactical,3,60,19.528456643620956,360
+137,7,Music,16,Turn-based strategy (TBS),24,Tactical,3,60,19.528456643620956,360
+138,7,Music,16,Turn-based strategy (TBS),34,Visual Novel,3,60,19.528456643620956,360
+139,7,Music,24,Tactical,25,Hack and slash/Beat 'em up,3,60,19.528456643620956,360
+140,7,Music,24,Tactical,26,Quiz/Trivia,3,60,19.528456643620956,360
+141,7,Music,24,Tactical,31,Adventure,3,60,19.528456643620956,360
+142,7,Music,24,Tactical,33,Arcade,3,60,19.528456643620956,360
+143,7,Music,24,Tactical,35,Card & Board Game,3,60,19.528456643620956,360
+144,7,Music,25,Hack and slash/Beat 'em up,34,Visual Novel,3,60,19.528456643620956,360
+145,7,Music,26,Quiz/Trivia,34,Visual Novel,3,60,19.528456643620956,360
+146,7,Music,34,Visual Novel,35,Card & Board Game,3,60,19.528456643620956,360
+147,8,Platform,11,Real Time Strategy (RTS),34,Visual Novel,3,60,19.528456643620956,360
+148,8,Platform,24,Tactical,34,Visual Novel,3,60,19.528456643620956,360
+149,9,Puzzle,11,Real Time Strategy (RTS),34,Visual Novel,3,60,19.528456643620956,360
+150,9,Puzzle,24,Tactical,34,Visual Novel,3,60,19.528456643620956,360
+151,11,Real Time Strategy (RTS),14,Sport,34,Visual Novel,3,60,19.528456643620956,360
+152,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),34,Visual Novel,3,60,19.528456643620956,360
+153,11,Real Time Strategy (RTS),24,Tactical,25,Hack and slash/Beat 'em up,3,60,19.528456643620956,360
+154,11,Real Time Strategy (RTS),24,Tactical,26,Quiz/Trivia,3,60,19.528456643620956,360
+155,11,Real Time Strategy (RTS),25,Hack and slash/Beat 'em up,34,Visual Novel,3,60,19.528456643620956,360
+156,11,Real Time Strategy (RTS),26,Quiz/Trivia,34,Visual Novel,3,60,19.528456643620956,360
+157,11,Real Time Strategy (RTS),33,Arcade,34,Visual Novel,3,60,19.528456643620956,360
+158,11,Real Time Strategy (RTS),34,Visual Novel,35,Card & Board Game,3,60,19.528456643620956,360
+159,14,Sport,24,Tactical,34,Visual Novel,3,60,19.528456643620956,360
+160,24,Tactical,25,Hack and slash/Beat 'em up,34,Visual Novel,3,60,19.528456643620956,360
+161,24,Tactical,26,Quiz/Trivia,34,Visual Novel,3,60,19.528456643620956,360
+162,24,Tactical,33,Arcade,34,Visual Novel,3,60,19.528456643620956,360
+163,24,Tactical,34,Visual Novel,35,Card & Board Game,3,60,19.528456643620956,360
+164,7,Music,11,Real Time Strategy (RTS),24,Tactical,3,60,19.5185700724122,360
+165,7,Music,11,Real Time Strategy (RTS),34,Visual Novel,3,60,19.5185700724122,360
+166,7,Music,24,Tactical,34,Visual Novel,3,60,19.5185700724122,360
+167,2,Point-and-click,4,Fighting,11,Real Time Strategy (RTS),3,59,19.2021662236955,359
+168,2,Point-and-click,4,Fighting,24,Tactical,3,59,19.2021662236955,359
+169,2,Point-and-click,5,Shooter,11,Real Time Strategy (RTS),3,59,19.2021662236955,359
+170,2,Point-and-click,7,Music,14,Sport,3,59,19.2021662236955,359
+171,2,Point-and-click,7,Music,16,Turn-based strategy (TBS),3,59,19.2021662236955,359
+172,2,Point-and-click,7,Music,25,Hack and slash/Beat 'em up,3,59,19.2021662236955,359
+173,2,Point-and-click,8,Platform,11,Real Time Strategy (RTS),3,59,19.2021662236955,359
+174,2,Point-and-click,8,Platform,24,Tactical,3,59,19.2021662236955,359
+175,2,Point-and-click,11,Real Time Strategy (RTS),14,Sport,3,59,19.2021662236955,359
+176,2,Point-and-click,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),3,59,19.2021662236955,359
+177,2,Point-and-click,11,Real Time Strategy (RTS),25,Hack and slash/Beat 'em up,3,59,19.2021662236955,359
+178,2,Point-and-click,11,Real Time Strategy (RTS),26,Quiz/Trivia,3,59,19.2021662236955,359
+179,2,Point-and-click,11,Real Time Strategy (RTS),35,Card & Board Game,3,59,19.2021662236955,359
+180,2,Point-and-click,14,Sport,24,Tactical,3,59,19.2021662236955,359
+181,2,Point-and-click,14,Sport,34,Visual Novel,3,59,19.2021662236955,359
+182,2,Point-and-click,24,Tactical,25,Hack and slash/Beat 'em up,3,59,19.2021662236955,359
+183,2,Point-and-click,24,Tactical,26,Quiz/Trivia,3,59,19.2021662236955,359
+184,4,Fighting,10,Racing,34,Visual Novel,3,59,19.2021662236955,359
+185,5,Shooter,10,Racing,34,Visual Novel,3,59,19.2021662236955,359
+186,7,Music,10,Racing,16,Turn-based strategy (TBS),3,59,19.2021662236955,359
+187,7,Music,10,Racing,25,Hack and slash/Beat 'em up,3,59,19.2021662236955,359
+188,7,Music,10,Racing,26,Quiz/Trivia,3,59,19.2021662236955,359
+189,7,Music,10,Racing,35,Card & Board Game,3,59,19.2021662236955,359
+190,8,Platform,10,Racing,24,Tactical,3,59,19.2021662236955,359
+191,8,Platform,10,Racing,34,Visual Novel,3,59,19.2021662236955,359
+192,9,Puzzle,10,Racing,11,Real Time Strategy (RTS),3,59,19.2021662236955,359
+193,9,Puzzle,10,Racing,24,Tactical,3,59,19.2021662236955,359
+194,10,Racing,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),3,59,19.2021662236955,359
+195,10,Racing,11,Real Time Strategy (RTS),26,Quiz/Trivia,3,59,19.2021662236955,359
+196,10,Racing,11,Real Time Strategy (RTS),35,Card & Board Game,3,59,19.2021662236955,359
+197,10,Racing,14,Sport,34,Visual Novel,3,59,19.2021662236955,359
+198,10,Racing,15,Strategy,34,Visual Novel,3,59,19.2021662236955,359
+199,10,Racing,16,Turn-based strategy (TBS),24,Tactical,3,59,19.2021662236955,359
+200,10,Racing,16,Turn-based strategy (TBS),34,Visual Novel,3,59,19.2021662236955,359
+201,10,Racing,24,Tactical,25,Hack and slash/Beat 'em up,3,59,19.2021662236955,359
+202,10,Racing,24,Tactical,26,Quiz/Trivia,3,59,19.2021662236955,359
+203,10,Racing,25,Hack and slash/Beat 'em up,34,Visual Novel,3,59,19.2021662236955,359
+204,10,Racing,26,Quiz/Trivia,34,Visual Novel,3,59,19.2021662236955,359
+205,10,Racing,33,Arcade,34,Visual Novel,3,59,19.2021662236955,359
+206,2,Point-and-click,7,Music,10,Racing,3,58,18.852656380591636,358
+207,2,Point-and-click,10,Racing,11,Real Time Strategy (RTS),3,58,18.852656380591636,358
+208,2,Point-and-click,10,Racing,24,Tactical,3,58,18.852656380591636,358
+209,2,Point-and-click,10,Racing,34,Visual Novel,3,58,18.852656380591636,358
+210,2,Point-and-click,7,Music,11,Real Time Strategy (RTS),3,58,18.839323528621982,358
+211,2,Point-and-click,7,Music,24,Tactical,3,58,18.839323528621982,358
+212,2,Point-and-click,11,Real Time Strategy (RTS),34,Visual Novel,3,58,18.839323528621982,358
+213,7,Music,10,Racing,11,Real Time Strategy (RTS),3,58,18.839323528621982,358
+214,7,Music,10,Racing,24,Tactical,3,58,18.839323528621982,358
+215,7,Music,10,Racing,34,Visual Novel,3,58,18.839323528621982,358
+216,10,Racing,11,Real Time Strategy (RTS),24,Tactical,3,58,18.839323528621982,358
+217,10,Racing,11,Real Time Strategy (RTS),34,Visual Novel,3,58,18.839323528621982,358
+218,10,Racing,24,Tactical,34,Visual Novel,3,58,18.839323528621982,358
+219,4,Fighting,9,Puzzle,36,MOBA,3,57,18.555135317398157,357
+220,4,Fighting,13,Simulator,36,MOBA,3,57,18.555135317398157,357
+221,4,Fighting,14,Sport,36,MOBA,3,57,18.555135317398157,357
+222,4,Fighting,16,Turn-based strategy (TBS),36,MOBA,3,57,18.555135317398157,357
+223,4,Fighting,26,Quiz/Trivia,36,MOBA,3,57,18.555135317398157,357
+224,4,Fighting,33,Arcade,36,MOBA,3,57,18.555135317398157,357
+225,5,Shooter,16,Turn-based strategy (TBS),36,MOBA,3,57,18.555135317398157,357
+226,5,Shooter,26,Quiz/Trivia,36,MOBA,3,57,18.555135317398157,357
+227,5,Shooter,35,Card & Board Game,36,MOBA,3,57,18.555135317398157,357
+228,8,Platform,12,Role-playing (RPG),36,MOBA,3,57,18.555135317398157,357
+229,8,Platform,13,Simulator,36,MOBA,3,57,18.555135317398157,357
+230,8,Platform,14,Sport,36,MOBA,3,57,18.555135317398157,357
+231,8,Platform,16,Turn-based strategy (TBS),36,MOBA,3,57,18.555135317398157,357
+232,8,Platform,25,Hack and slash/Beat 'em up,36,MOBA,3,57,18.555135317398157,357
+233,8,Platform,26,Quiz/Trivia,36,MOBA,3,57,18.555135317398157,357
+234,8,Platform,33,Arcade,36,MOBA,3,57,18.555135317398157,357
+235,8,Platform,35,Card & Board Game,36,MOBA,3,57,18.555135317398157,357
+236,9,Puzzle,12,Role-playing (RPG),36,MOBA,3,57,18.555135317398157,357
+237,9,Puzzle,14,Sport,36,MOBA,3,57,18.555135317398157,357
+238,9,Puzzle,16,Turn-based strategy (TBS),36,MOBA,3,57,18.555135317398157,357
+239,9,Puzzle,25,Hack and slash/Beat 'em up,36,MOBA,3,57,18.555135317398157,357
+240,9,Puzzle,26,Quiz/Trivia,36,MOBA,3,57,18.555135317398157,357
+241,9,Puzzle,32,Indie,36,MOBA,3,57,18.555135317398157,357
+242,9,Puzzle,33,Arcade,36,MOBA,3,57,18.555135317398157,357
+243,9,Puzzle,35,Card & Board Game,36,MOBA,3,57,18.555135317398157,357
+244,13,Simulator,16,Turn-based strategy (TBS),36,MOBA,3,57,18.555135317398157,357
+245,13,Simulator,25,Hack and slash/Beat 'em up,36,MOBA,3,57,18.555135317398157,357
+246,13,Simulator,26,Quiz/Trivia,36,MOBA,3,57,18.555135317398157,357
+247,13,Simulator,31,Adventure,36,MOBA,3,57,18.555135317398157,357
+248,13,Simulator,35,Card & Board Game,36,MOBA,3,57,18.555135317398157,357
+249,14,Sport,16,Turn-based strategy (TBS),36,MOBA,3,57,18.555135317398157,357
+250,14,Sport,25,Hack and slash/Beat 'em up,36,MOBA,3,57,18.555135317398157,357
+251,14,Sport,26,Quiz/Trivia,36,MOBA,3,57,18.555135317398157,357
+252,14,Sport,33,Arcade,36,MOBA,3,57,18.555135317398157,357
+253,14,Sport,35,Card & Board Game,36,MOBA,3,57,18.555135317398157,357
+254,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,36,MOBA,3,57,18.555135317398157,357
+255,16,Turn-based strategy (TBS),31,Adventure,36,MOBA,3,57,18.555135317398157,357
+256,16,Turn-based strategy (TBS),32,Indie,36,MOBA,3,57,18.555135317398157,357
+257,16,Turn-based strategy (TBS),33,Arcade,36,MOBA,3,57,18.555135317398157,357
+258,16,Turn-based strategy (TBS),35,Card & Board Game,36,MOBA,3,57,18.555135317398157,357
+259,25,Hack and slash/Beat 'em up,26,Quiz/Trivia,36,MOBA,3,57,18.555135317398157,357
+260,26,Quiz/Trivia,31,Adventure,36,MOBA,3,57,18.555135317398157,357
+261,26,Quiz/Trivia,32,Indie,36,MOBA,3,57,18.555135317398157,357
+262,26,Quiz/Trivia,33,Arcade,36,MOBA,3,57,18.555135317398157,357
+263,26,Quiz/Trivia,35,Card & Board Game,36,MOBA,3,57,18.555135317398157,357
+264,31,Adventure,33,Arcade,36,MOBA,3,57,18.555135317398157,357
+265,32,Indie,33,Arcade,36,MOBA,3,57,18.555135317398157,357
+266,33,Arcade,35,Card & Board Game,36,MOBA,3,57,18.555135317398157,357
+267,4,Fighting,24,Tactical,36,MOBA,3,56,18.192292622324636,356
+268,5,Shooter,7,Music,36,MOBA,3,56,18.192292622324636,356
+269,5,Shooter,11,Real Time Strategy (RTS),36,MOBA,3,56,18.192292622324636,356
+270,5,Shooter,34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+271,7,Music,8,Platform,36,MOBA,3,56,18.192292622324636,356
+272,7,Music,9,Puzzle,36,MOBA,3,56,18.192292622324636,356
+273,7,Music,13,Simulator,36,MOBA,3,56,18.192292622324636,356
+274,7,Music,14,Sport,36,MOBA,3,56,18.192292622324636,356
+275,7,Music,16,Turn-based strategy (TBS),36,MOBA,3,56,18.192292622324636,356
+276,7,Music,25,Hack and slash/Beat 'em up,36,MOBA,3,56,18.192292622324636,356
+277,7,Music,26,Quiz/Trivia,36,MOBA,3,56,18.192292622324636,356
+278,7,Music,31,Adventure,36,MOBA,3,56,18.192292622324636,356
+279,7,Music,32,Indie,36,MOBA,3,56,18.192292622324636,356
+280,7,Music,33,Arcade,36,MOBA,3,56,18.192292622324636,356
+281,7,Music,35,Card & Board Game,36,MOBA,3,56,18.192292622324636,356
+282,8,Platform,34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+283,9,Puzzle,11,Real Time Strategy (RTS),36,MOBA,3,56,18.192292622324636,356
+284,9,Puzzle,34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+285,11,Real Time Strategy (RTS),14,Sport,36,MOBA,3,56,18.192292622324636,356
+286,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),36,MOBA,3,56,18.192292622324636,356
+287,11,Real Time Strategy (RTS),26,Quiz/Trivia,36,MOBA,3,56,18.192292622324636,356
+288,12,Role-playing (RPG),34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+289,13,Simulator,24,Tactical,36,MOBA,3,56,18.192292622324636,356
+290,13,Simulator,34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+291,14,Sport,24,Tactical,36,MOBA,3,56,18.192292622324636,356
+292,14,Sport,34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+293,15,Strategy,34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+294,16,Turn-based strategy (TBS),24,Tactical,36,MOBA,3,56,18.192292622324636,356
+295,16,Turn-based strategy (TBS),34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+296,24,Tactical,26,Quiz/Trivia,36,MOBA,3,56,18.192292622324636,356
+297,24,Tactical,33,Arcade,36,MOBA,3,56,18.192292622324636,356
+298,25,Hack and slash/Beat 'em up,34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+299,26,Quiz/Trivia,34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+300,32,Indie,34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+301,33,Arcade,34,Visual Novel,36,MOBA,3,56,18.192292622324636,356
+302,34,Visual Novel,35,Card & Board Game,36,MOBA,3,56,18.192292622324636,356
+303,7,Music,11,Real Time Strategy (RTS),36,MOBA,3,56,18.18240605111588,356
+304,7,Music,24,Tactical,36,MOBA,3,56,18.18240605111588,356
+305,7,Music,34,Visual Novel,36,MOBA,3,56,18.18240605111588,356
+306,11,Real Time Strategy (RTS),34,Visual Novel,36,MOBA,3,56,18.18240605111588,356
+307,24,Tactical,34,Visual Novel,36,MOBA,3,56,18.18240605111588,356
+308,4,Fighting,15,Strategy,30,Pinball,3,53,17.241300362385953,353
+309,4,Fighting,16,Turn-based strategy (TBS),30,Pinball,3,53,17.241300362385953,353
+310,5,Shooter,16,Turn-based strategy (TBS),30,Pinball,3,53,17.241300362385953,353
+311,8,Platform,16,Turn-based strategy (TBS),30,Pinball,3,53,17.241300362385953,353
+312,13,Simulator,16,Turn-based strategy (TBS),30,Pinball,3,53,17.241300362385953,353
+313,13,Simulator,26,Quiz/Trivia,30,Pinball,3,53,17.241300362385953,353
+314,14,Sport,16,Turn-based strategy (TBS),30,Pinball,3,53,17.241300362385953,353
+315,15,Strategy,25,Hack and slash/Beat 'em up,30,Pinball,3,53,17.241300362385953,353
+316,15,Strategy,26,Quiz/Trivia,30,Pinball,3,53,17.241300362385953,353
+317,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,30,Pinball,3,53,17.241300362385953,353
+318,16,Turn-based strategy (TBS),26,Quiz/Trivia,30,Pinball,3,53,17.241300362385953,353
+319,16,Turn-based strategy (TBS),30,Pinball,33,Arcade,3,53,17.241300362385953,353
+320,16,Turn-based strategy (TBS),30,Pinball,35,Card & Board Game,3,53,17.241300362385953,353
+321,26,Quiz/Trivia,30,Pinball,31,Adventure,3,53,17.241300362385953,353
+322,2,Point-and-click,12,Role-playing (RPG),30,Pinball,3,52,16.891790519282086,352
+323,2,Point-and-click,13,Simulator,30,Pinball,3,52,16.891790519282086,352
+324,2,Point-and-click,14,Sport,30,Pinball,3,52,16.891790519282086,352
+325,2,Point-and-click,15,Strategy,30,Pinball,3,52,16.891790519282086,352
+326,2,Point-and-click,16,Turn-based strategy (TBS),30,Pinball,3,52,16.891790519282086,352
+327,2,Point-and-click,30,Pinball,31,Adventure,3,52,16.891790519282086,352
+328,10,Racing,16,Turn-based strategy (TBS),30,Pinball,3,52,16.891790519282086,352
+329,10,Racing,30,Pinball,32,Indie,3,52,16.891790519282086,352
+330,2,Point-and-click,10,Racing,30,Pinball,3,52,16.88190394807333,352
+331,2,Point-and-click,4,Fighting,36,MOBA,2,57,18.534084213047343,257
+332,2,Point-and-click,5,Shooter,36,MOBA,2,57,18.534084213047343,257
+333,2,Point-and-click,8,Platform,36,MOBA,2,57,18.534084213047343,257
+334,2,Point-and-click,9,Puzzle,36,MOBA,2,57,18.534084213047343,257
+335,2,Point-and-click,12,Role-playing (RPG),36,MOBA,2,57,18.534084213047343,257
+336,2,Point-and-click,13,Simulator,36,MOBA,2,57,18.534084213047343,257
+337,2,Point-and-click,14,Sport,36,MOBA,2,57,18.534084213047343,257
+338,2,Point-and-click,15,Strategy,36,MOBA,2,57,18.534084213047343,257
+339,2,Point-and-click,16,Turn-based strategy (TBS),36,MOBA,2,57,18.534084213047343,257
+340,2,Point-and-click,25,Hack and slash/Beat 'em up,36,MOBA,2,57,18.534084213047343,257
+341,2,Point-and-click,26,Quiz/Trivia,36,MOBA,2,57,18.534084213047343,257
+342,2,Point-and-click,31,Adventure,36,MOBA,2,57,18.534084213047343,257
+343,2,Point-and-click,32,Indie,36,MOBA,2,57,18.534084213047343,257
+344,2,Point-and-click,33,Arcade,36,MOBA,2,57,18.534084213047343,257
+345,2,Point-and-click,35,Card & Board Game,36,MOBA,2,57,18.534084213047343,257
+346,4,Fighting,10,Racing,36,MOBA,2,57,18.534084213047343,257
+347,5,Shooter,10,Racing,36,MOBA,2,57,18.534084213047343,257
+348,8,Platform,10,Racing,36,MOBA,2,57,18.534084213047343,257
+349,9,Puzzle,10,Racing,36,MOBA,2,57,18.534084213047343,257
+350,10,Racing,12,Role-playing (RPG),36,MOBA,2,57,18.534084213047343,257
+351,10,Racing,13,Simulator,36,MOBA,2,57,18.534084213047343,257
+352,10,Racing,14,Sport,36,MOBA,2,57,18.534084213047343,257
+353,10,Racing,15,Strategy,36,MOBA,2,57,18.534084213047343,257
+354,10,Racing,16,Turn-based strategy (TBS),36,MOBA,2,57,18.534084213047343,257
+355,10,Racing,25,Hack and slash/Beat 'em up,36,MOBA,2,57,18.534084213047343,257
+356,10,Racing,26,Quiz/Trivia,36,MOBA,2,57,18.534084213047343,257
+357,10,Racing,31,Adventure,36,MOBA,2,57,18.534084213047343,257
+358,10,Racing,32,Indie,36,MOBA,2,57,18.534084213047343,257
+359,10,Racing,33,Arcade,36,MOBA,2,57,18.534084213047343,257
+360,10,Racing,35,Card & Board Game,36,MOBA,2,57,18.534084213047343,257
+361,2,Point-and-click,7,Music,36,MOBA,2,56,18.171241517973822,256
+362,2,Point-and-click,11,Real Time Strategy (RTS),36,MOBA,2,56,18.171241517973822,256
+363,2,Point-and-click,24,Tactical,36,MOBA,2,56,18.171241517973822,256
+364,2,Point-and-click,34,Visual Novel,36,MOBA,2,56,18.171241517973822,256
+365,7,Music,10,Racing,36,MOBA,2,56,18.171241517973822,256
+366,10,Racing,11,Real Time Strategy (RTS),36,MOBA,2,56,18.171241517973822,256
+367,10,Racing,24,Tactical,36,MOBA,2,56,18.171241517973822,256
+368,10,Racing,34,Visual Novel,36,MOBA,2,56,18.171241517973822,256
+369,4,Fighting,7,Music,30,Pinball,2,53,17.206916406065485,253
+370,4,Fighting,11,Real Time Strategy (RTS),30,Pinball,2,53,17.206916406065485,253
+371,4,Fighting,24,Tactical,30,Pinball,2,53,17.206916406065485,253
+372,4,Fighting,30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+373,5,Shooter,7,Music,30,Pinball,2,53,17.206916406065485,253
+374,5,Shooter,11,Real Time Strategy (RTS),30,Pinball,2,53,17.206916406065485,253
+375,5,Shooter,24,Tactical,30,Pinball,2,53,17.206916406065485,253
+376,5,Shooter,30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+377,7,Music,8,Platform,30,Pinball,2,53,17.206916406065485,253
+378,7,Music,9,Puzzle,30,Pinball,2,53,17.206916406065485,253
+379,7,Music,12,Role-playing (RPG),30,Pinball,2,53,17.206916406065485,253
+380,7,Music,13,Simulator,30,Pinball,2,53,17.206916406065485,253
+381,7,Music,14,Sport,30,Pinball,2,53,17.206916406065485,253
+382,7,Music,15,Strategy,30,Pinball,2,53,17.206916406065485,253
+383,7,Music,16,Turn-based strategy (TBS),30,Pinball,2,53,17.206916406065485,253
+384,7,Music,25,Hack and slash/Beat 'em up,30,Pinball,2,53,17.206916406065485,253
+385,7,Music,26,Quiz/Trivia,30,Pinball,2,53,17.206916406065485,253
+386,7,Music,30,Pinball,31,Adventure,2,53,17.206916406065485,253
+387,7,Music,30,Pinball,32,Indie,2,53,17.206916406065485,253
+388,7,Music,30,Pinball,33,Arcade,2,53,17.206916406065485,253
+389,7,Music,30,Pinball,35,Card & Board Game,2,53,17.206916406065485,253
+390,8,Platform,11,Real Time Strategy (RTS),30,Pinball,2,53,17.206916406065485,253
+391,8,Platform,24,Tactical,30,Pinball,2,53,17.206916406065485,253
+392,8,Platform,30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+393,9,Puzzle,11,Real Time Strategy (RTS),30,Pinball,2,53,17.206916406065485,253
+394,9,Puzzle,24,Tactical,30,Pinball,2,53,17.206916406065485,253
+395,9,Puzzle,30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+396,11,Real Time Strategy (RTS),12,Role-playing (RPG),30,Pinball,2,53,17.206916406065485,253
+397,11,Real Time Strategy (RTS),13,Simulator,30,Pinball,2,53,17.206916406065485,253
+398,11,Real Time Strategy (RTS),14,Sport,30,Pinball,2,53,17.206916406065485,253
+399,11,Real Time Strategy (RTS),15,Strategy,30,Pinball,2,53,17.206916406065485,253
+400,11,Real Time Strategy (RTS),16,Turn-based strategy (TBS),30,Pinball,2,53,17.206916406065485,253
+401,11,Real Time Strategy (RTS),25,Hack and slash/Beat 'em up,30,Pinball,2,53,17.206916406065485,253
+402,11,Real Time Strategy (RTS),26,Quiz/Trivia,30,Pinball,2,53,17.206916406065485,253
+403,11,Real Time Strategy (RTS),30,Pinball,31,Adventure,2,53,17.206916406065485,253
+404,11,Real Time Strategy (RTS),30,Pinball,32,Indie,2,53,17.206916406065485,253
+405,11,Real Time Strategy (RTS),30,Pinball,33,Arcade,2,53,17.206916406065485,253
+406,11,Real Time Strategy (RTS),30,Pinball,35,Card & Board Game,2,53,17.206916406065485,253
+407,12,Role-playing (RPG),24,Tactical,30,Pinball,2,53,17.206916406065485,253
+408,12,Role-playing (RPG),30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+409,13,Simulator,24,Tactical,30,Pinball,2,53,17.206916406065485,253
+410,13,Simulator,30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+411,14,Sport,24,Tactical,30,Pinball,2,53,17.206916406065485,253
+412,14,Sport,30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+413,15,Strategy,24,Tactical,30,Pinball,2,53,17.206916406065485,253
+414,15,Strategy,30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+415,16,Turn-based strategy (TBS),24,Tactical,30,Pinball,2,53,17.206916406065485,253
+416,16,Turn-based strategy (TBS),30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+417,24,Tactical,25,Hack and slash/Beat 'em up,30,Pinball,2,53,17.206916406065485,253
+418,24,Tactical,26,Quiz/Trivia,30,Pinball,2,53,17.206916406065485,253
+419,24,Tactical,30,Pinball,31,Adventure,2,53,17.206916406065485,253
+420,24,Tactical,30,Pinball,32,Indie,2,53,17.206916406065485,253
+421,24,Tactical,30,Pinball,33,Arcade,2,53,17.206916406065485,253
+422,24,Tactical,30,Pinball,35,Card & Board Game,2,53,17.206916406065485,253
+423,25,Hack and slash/Beat 'em up,30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+424,26,Quiz/Trivia,30,Pinball,34,Visual Novel,2,53,17.206916406065485,253
+425,30,Pinball,31,Adventure,34,Visual Novel,2,53,17.206916406065485,253
+426,30,Pinball,32,Indie,34,Visual Novel,2,53,17.206916406065485,253
+427,30,Pinball,33,Arcade,34,Visual Novel,2,53,17.206916406065485,253
+428,30,Pinball,34,Visual Novel,35,Card & Board Game,2,53,17.206916406065485,253
+429,2,Point-and-click,7,Music,30,Pinball,2,52,16.857406562961618,252
+430,2,Point-and-click,11,Real Time Strategy (RTS),30,Pinball,2,52,16.857406562961618,252
+431,2,Point-and-click,24,Tactical,30,Pinball,2,52,16.857406562961618,252
+432,2,Point-and-click,30,Pinball,34,Visual Novel,2,52,16.857406562961618,252
+433,7,Music,10,Racing,30,Pinball,2,52,16.857406562961618,252
+434,10,Racing,11,Real Time Strategy (RTS),30,Pinball,2,52,16.857406562961618,252
+435,10,Racing,24,Tactical,30,Pinball,2,52,16.857406562961618,252
+436,10,Racing,30,Pinball,34,Visual Novel,2,52,16.857406562961618,252
+437,4,Fighting,30,Pinball,36,MOBA,2,49,15.881916917911223,249
+438,5,Shooter,30,Pinball,36,MOBA,2,49,15.881916917911223,249
+439,8,Platform,30,Pinball,36,MOBA,2,49,15.881916917911223,249
+440,9,Puzzle,30,Pinball,36,MOBA,2,49,15.881916917911223,249
+441,12,Role-playing (RPG),30,Pinball,36,MOBA,2,49,15.881916917911223,249
+442,13,Simulator,30,Pinball,36,MOBA,2,49,15.881916917911223,249
+443,14,Sport,30,Pinball,36,MOBA,2,49,15.881916917911223,249
+444,15,Strategy,30,Pinball,36,MOBA,2,49,15.881916917911223,249
+445,16,Turn-based strategy (TBS),30,Pinball,36,MOBA,2,49,15.881916917911223,249
+446,25,Hack and slash/Beat 'em up,30,Pinball,36,MOBA,2,49,15.881916917911223,249
+447,26,Quiz/Trivia,30,Pinball,36,MOBA,2,49,15.881916917911223,249
+448,30,Pinball,31,Adventure,36,MOBA,2,49,15.881916917911223,249
+449,30,Pinball,32,Indie,36,MOBA,2,49,15.881916917911223,249
+450,30,Pinball,33,Arcade,36,MOBA,2,49,15.881916917911223,249
+451,30,Pinball,35,Card & Board Game,36,MOBA,2,49,15.881916917911223,249
+452,2,Point-and-click,10,Racing,36,MOBA,1,58,18.852656380591636,158
+453,7,Music,11,Real Time Strategy (RTS),30,Pinball,1,54,17.525488573609778,154
+454,7,Music,24,Tactical,30,Pinball,1,54,17.525488573609778,154
+455,7,Music,30,Pinball,34,Visual Novel,1,54,17.525488573609778,154
+456,11,Real Time Strategy (RTS),24,Tactical,30,Pinball,1,54,17.525488573609778,154
+457,11,Real Time Strategy (RTS),30,Pinball,34,Visual Novel,1,54,17.525488573609778,154
+458,24,Tactical,30,Pinball,34,Visual Novel,1,54,17.525488573609778,154
+459,2,Point-and-click,30,Pinball,36,MOBA,1,50,16.200489085455516,150
+460,7,Music,30,Pinball,36,MOBA,1,50,16.200489085455516,150
+461,10,Racing,30,Pinball,36,MOBA,1,50,16.200489085455516,150
+462,11,Real Time Strategy (RTS),30,Pinball,36,MOBA,1,50,16.200489085455516,150
+463,24,Tactical,30,Pinball,36,MOBA,1,50,16.200489085455516,150
+464,30,Pinball,34,Visual Novel,36,MOBA,1,50,16.200489085455516,150

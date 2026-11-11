@@ -1,0 +1,247 @@
+genre_1_id,genre_2_id,n_games,genre_1,genre_2
+2,4,9,Point-and-click,Fighting
+2,5,40,Point-and-click,Shooter
+2,7,28,Point-and-click,Music
+2,8,40,Point-and-click,Platform
+2,9,1468,Point-and-click,Puzzle
+2,10,8,Point-and-click,Racing
+2,11,14,Point-and-click,Real Time Strategy (RTS)
+2,12,191,Point-and-click,Role-playing (RPG)
+2,13,197,Point-and-click,Simulator
+2,14,9,Point-and-click,Sport
+2,15,146,Point-and-click,Strategy
+2,16,17,Point-and-click,Turn-based strategy (TBS)
+2,24,17,Point-and-click,Tactical
+2,25,9,Point-and-click,Hack and slash/Beat 'em up
+2,26,33,Point-and-click,Quiz/Trivia
+2,30,1,Point-and-click,Pinball
+2,31,2155,Point-and-click,Adventure
+2,32,1064,Point-and-click,Indie
+2,33,68,Point-and-click,Arcade
+2,34,215,Point-and-click,Visual Novel
+2,35,34,Point-and-click,Card & Board Game
+4,5,230,Fighting,Shooter
+4,7,18,Fighting,Music
+4,8,256,Fighting,Platform
+4,9,87,Fighting,Puzzle
+4,10,77,Fighting,Racing
+4,11,22,Fighting,Real Time Strategy (RTS)
+4,12,333,Fighting,Role-playing (RPG)
+4,13,155,Fighting,Simulator
+4,14,371,Fighting,Sport
+4,15,190,Fighting,Strategy
+4,16,39,Fighting,Turn-based strategy (TBS)
+4,24,44,Fighting,Tactical
+4,25,547,Fighting,Hack and slash/Beat 'em up
+4,26,6,Fighting,Quiz/Trivia
+4,30,4,Fighting,Pinball
+4,31,602,Fighting,Adventure
+4,32,523,Fighting,Indie
+4,33,783,Fighting,Arcade
+4,34,29,Fighting,Visual Novel
+4,35,36,Fighting,Card & Board Game
+4,36,10,Fighting,MOBA
+5,7,106,Shooter,Music
+5,8,1041,Shooter,Platform
+5,9,518,Shooter,Puzzle
+5,10,322,Shooter,Racing
+5,11,77,Shooter,Real Time Strategy (RTS)
+5,12,1057,Shooter,Role-playing (RPG)
+5,13,854,Shooter,Simulator
+5,14,221,Shooter,Sport
+5,15,789,Shooter,Strategy
+5,16,33,Shooter,Turn-based strategy (TBS)
+5,24,597,Shooter,Tactical
+5,25,271,Shooter,Hack and slash/Beat 'em up
+5,26,14,Shooter,Quiz/Trivia
+5,30,14,Shooter,Pinball
+5,31,2800,Shooter,Adventure
+5,32,2085,Shooter,Indie
+5,33,2696,Shooter,Arcade
+5,34,16,Shooter,Visual Novel
+5,35,18,Shooter,Card & Board Game
+5,36,25,Shooter,MOBA
+7,8,97,Music,Platform
+7,9,217,Music,Puzzle
+7,10,30,Music,Racing
+7,11,9,Music,Real Time Strategy (RTS)
+7,12,84,Music,Role-playing (RPG)
+7,13,192,Music,Simulator
+7,14,69,Music,Sport
+7,15,84,Music,Strategy
+7,16,4,Music,Turn-based strategy (TBS)
+7,24,3,Music,Tactical
+7,25,17,Music,Hack and slash/Beat 'em up
+7,26,15,Music,Quiz/Trivia
+7,31,239,Music,Adventure
+7,32,686,Music,Indie
+7,33,369,Music,Arcade
+7,34,91,Music,Visual Novel
+7,35,11,Music,Card & Board Game
+7,36,1,Music,MOBA
+8,9,1572,Platform,Puzzle
+8,10,275,Platform,Racing
+8,11,14,Platform,Real Time Strategy (RTS)
+8,12,475,Platform,Role-playing (RPG)
+8,13,211,Platform,Simulator
+8,14,126,Platform,Sport
+8,15,317,Platform,Strategy
+8,16,22,Platform,Turn-based strategy (TBS)
+8,24,15,Platform,Tactical
+8,25,445,Platform,Hack and slash/Beat 'em up
+8,26,23,Platform,Quiz/Trivia
+8,30,19,Platform,Pinball
+8,31,3528,Platform,Adventure
+8,32,2396,Platform,Indie
+8,33,1550,Platform,Arcade
+8,34,13,Platform,Visual Novel
+8,35,21,Platform,Card & Board Game
+8,36,5,Platform,MOBA
+9,10,134,Puzzle,Racing
+9,11,41,Puzzle,Real Time Strategy (RTS)
+9,12,680,Puzzle,Role-playing (RPG)
+9,13,814,Puzzle,Simulator
+9,14,130,Puzzle,Sport
+9,15,1496,Puzzle,Strategy
+9,16,133,Puzzle,Turn-based strategy (TBS)
+9,24,110,Puzzle,Tactical
+9,25,139,Puzzle,Hack and slash/Beat 'em up
+9,26,166,Puzzle,Quiz/Trivia
+9,30,25,Puzzle,Pinball
+9,31,4527,Puzzle,Adventure
+9,32,3680,Puzzle,Indie
+9,33,1250,Puzzle,Arcade
+9,34,212,Puzzle,Visual Novel
+9,35,451,Puzzle,Card & Board Game
+9,36,2,Puzzle,MOBA
+10,11,15,Racing,Real Time Strategy (RTS)
+10,12,85,Racing,Role-playing (RPG)
+10,13,1035,Racing,Simulator
+10,14,1158,Racing,Sport
+10,15,136,Racing,Strategy
+10,16,8,Racing,Turn-based strategy (TBS)
+10,24,11,Racing,Tactical
+10,25,50,Racing,Hack and slash/Beat 'em up
+10,26,10,Racing,Quiz/Trivia
+10,30,6,Racing,Pinball
+10,31,441,Racing,Adventure
+10,32,583,Racing,Indie
+10,33,900,Racing,Arcade
+10,34,7,Racing,Visual Novel
+10,35,17,Racing,Card & Board Game
+11,12,267,Real Time Strategy (RTS),Role-playing (RPG)
+11,13,522,Real Time Strategy (RTS),Simulator
+11,14,19,Real Time Strategy (RTS),Sport
+11,15,1442,Real Time Strategy (RTS),Strategy
+11,16,89,Real Time Strategy (RTS),Turn-based strategy (TBS)
+11,24,229,Real Time Strategy (RTS),Tactical
+11,25,21,Real Time Strategy (RTS),Hack and slash/Beat 'em up
+11,26,2,Real Time Strategy (RTS),Quiz/Trivia
+11,31,173,Real Time Strategy (RTS),Adventure
+11,32,350,Real Time Strategy (RTS),Indie
+11,33,40,Real Time Strategy (RTS),Arcade
+11,34,10,Real Time Strategy (RTS),Visual Novel
+11,35,48,Real Time Strategy (RTS),Card & Board Game
+11,36,17,Real Time Strategy (RTS),MOBA
+12,13,1758,Role-playing (RPG),Simulator
+12,14,162,Role-playing (RPG),Sport
+12,15,2765,Role-playing (RPG),Strategy
+12,16,1283,Role-playing (RPG),Turn-based strategy (TBS)
+12,24,723,Role-playing (RPG),Tactical
+12,25,876,Role-playing (RPG),Hack and slash/Beat 'em up
+12,26,24,Role-playing (RPG),Quiz/Trivia
+12,30,16,Role-playing (RPG),Pinball
+12,31,6756,Role-playing (RPG),Adventure
+12,32,3643,Role-playing (RPG),Indie
+12,33,411,Role-playing (RPG),Arcade
+12,34,456,Role-playing (RPG),Visual Novel
+12,35,336,Role-playing (RPG),Card & Board Game
+12,36,25,Role-playing (RPG),MOBA
+13,14,1861,Simulator,Sport
+13,15,3904,Simulator,Strategy
+13,16,335,Simulator,Turn-based strategy (TBS)
+13,24,383,Simulator,Tactical
+13,25,66,Simulator,Hack and slash/Beat 'em up
+13,26,53,Simulator,Quiz/Trivia
+13,30,134,Simulator,Pinball
+13,31,3030,Simulator,Adventure
+13,32,3862,Simulator,Indie
+13,33,736,Simulator,Arcade
+13,34,601,Simulator,Visual Novel
+13,35,214,Simulator,Card & Board Game
+13,36,5,Simulator,MOBA
+14,15,410,Sport,Strategy
+14,16,32,Sport,Turn-based strategy (TBS)
+14,24,38,Sport,Tactical
+14,25,51,Sport,Hack and slash/Beat 'em up
+14,26,31,Sport,Quiz/Trivia
+14,30,13,Sport,Pinball
+14,31,370,Sport,Adventure
+14,32,746,Sport,Indie
+14,33,767,Sport,Arcade
+14,34,23,Sport,Visual Novel
+14,35,68,Sport,Card & Board Game
+14,36,3,Sport,MOBA
+15,16,1611,Strategy,Turn-based strategy (TBS)
+15,24,1257,Strategy,Tactical
+15,25,150,Strategy,Hack and slash/Beat 'em up
+15,26,94,Strategy,Quiz/Trivia
+15,30,9,Strategy,Pinball
+15,31,2671,Strategy,Adventure
+15,32,3870,Strategy,Indie
+15,33,611,Strategy,Arcade
+15,34,152,Strategy,Visual Novel
+15,35,1020,Strategy,Card & Board Game
+15,36,64,Strategy,MOBA
+16,24,576,Turn-based strategy (TBS),Tactical
+16,25,11,Turn-based strategy (TBS),Hack and slash/Beat 'em up
+16,26,19,Turn-based strategy (TBS),Quiz/Trivia
+16,30,1,Turn-based strategy (TBS),Pinball
+16,31,713,Turn-based strategy (TBS),Adventure
+16,32,632,Turn-based strategy (TBS),Indie
+16,33,38,Turn-based strategy (TBS),Arcade
+16,34,63,Turn-based strategy (TBS),Visual Novel
+16,35,442,Turn-based strategy (TBS),Card & Board Game
+16,36,1,Turn-based strategy (TBS),MOBA
+24,25,37,Tactical,Hack and slash/Beat 'em up
+24,26,4,Tactical,Quiz/Trivia
+24,31,527,Tactical,Adventure
+24,32,501,Tactical,Indie
+24,33,74,Tactical,Arcade
+24,34,24,Tactical,Visual Novel
+24,35,103,Tactical,Card & Board Game
+24,36,12,Tactical,MOBA
+25,26,6,Hack and slash/Beat 'em up,Quiz/Trivia
+25,30,7,Hack and slash/Beat 'em up,Pinball
+25,31,1379,Hack and slash/Beat 'em up,Adventure
+25,32,523,Hack and slash/Beat 'em up,Indie
+25,33,439,Hack and slash/Beat 'em up,Arcade
+25,34,19,Hack and slash/Beat 'em up,Visual Novel
+25,35,16,Hack and slash/Beat 'em up,Card & Board Game
+25,36,13,Hack and slash/Beat 'em up,MOBA
+26,30,2,Quiz/Trivia,Pinball
+26,31,74,Quiz/Trivia,Adventure
+26,32,83,Quiz/Trivia,Indie
+26,33,30,Quiz/Trivia,Arcade
+26,34,21,Quiz/Trivia,Visual Novel
+26,35,98,Quiz/Trivia,Card & Board Game
+26,36,1,Quiz/Trivia,MOBA
+30,31,27,Pinball,Adventure
+30,32,19,Pinball,Indie
+30,33,113,Pinball,Arcade
+30,35,4,Pinball,Card & Board Game
+31,32,8749,Adventure,Indie
+31,33,1462,Adventure,Arcade
+31,34,2074,Adventure,Visual Novel
+31,35,318,Adventure,Card & Board Game
+31,36,15,Adventure,MOBA
+32,33,2430,Indie,Arcade
+32,34,1078,Indie,Visual Novel
+32,35,583,Indie,Card & Board Game
+32,36,20,Indie,MOBA
+33,34,30,Arcade,Visual Novel
+33,35,120,Arcade,Card & Board Game
+33,36,5,Arcade,MOBA
+34,35,32,Visual Novel,Card & Board Game
+34,36,2,Visual Novel,MOBA
+35,36,3,Card & Board Game,MOBA

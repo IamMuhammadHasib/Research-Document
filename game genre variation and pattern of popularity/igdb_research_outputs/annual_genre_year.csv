@@ -1,0 +1,1091 @@
+genre,year,weighted_games,game_count
+Adventure,1972,1.0,1
+Adventure,1974,1.0,1
+Adventure,1976,1.0,1
+Adventure,1979,1.0,1
+Adventure,1980,5.0,5
+Adventure,1981,5.0,5
+Adventure,1982,32.0,32
+Adventure,1983,33.0,33
+Adventure,1984,60.0,60
+Adventure,1985,61.0,61
+Adventure,1986,111.0,111
+Adventure,1987,143.0,143
+Adventure,1988,124.0,124
+Adventure,1989,134.0,134
+Adventure,1990,141.0,141
+Adventure,1991,151.0,151
+Adventure,1992,165.0,165
+Adventure,1993,142.0,142
+Adventure,1994,174.0,174
+Adventure,1995,187.0,187
+Adventure,1996,211.0,211
+Adventure,1997,195.0,195
+Adventure,1998,231.0,231
+Adventure,1999,226.0,226
+Adventure,2000,218.0,218
+Adventure,2001,237.0,237
+Adventure,2002,306.0,306
+Adventure,2003,250.0,250
+Adventure,2004,279.0,279
+Adventure,2005,302.0,302
+Adventure,2006,346.0,346
+Adventure,2007,354.0,354
+Adventure,2008,395.0,395
+Adventure,2009,454.0,454
+Adventure,2010,512.0,512
+Adventure,2011,519.0,519
+Adventure,2012,595.0,595
+Adventure,2013,682.0,682
+Adventure,2014,823.0,823
+Adventure,2015,976.0,976
+Adventure,2016,1067.0,1067
+Adventure,2017,1232.0,1232
+Adventure,2018,1301.0,1301
+Adventure,2019,1235.0,1235
+Adventure,2020,1207.0,1207
+Adventure,2021,1430.0,1430
+Adventure,2022,1474.0,1474
+Adventure,2023,1713.0,1713
+Adventure,2024,2054.0,2054
+Adventure,2025,1965.0,1965
+Arcade,1969,1.0,1
+Arcade,1971,1.0,1
+Arcade,1972,4.0,4
+Arcade,1973,7.0,7
+Arcade,1974,11.0,11
+Arcade,1975,15.0,15
+Arcade,1976,16.0,16
+Arcade,1977,29.0,29
+Arcade,1978,30.0,30
+Arcade,1979,37.0,37
+Arcade,1980,57.0,57
+Arcade,1981,114.0,114
+Arcade,1982,187.0,187
+Arcade,1983,278.0,278
+Arcade,1984,204.0,204
+Arcade,1985,113.0,113
+Arcade,1986,135.0,135
+Arcade,1987,191.0,191
+Arcade,1988,198.0,198
+Arcade,1989,157.0,157
+Arcade,1990,133.0,133
+Arcade,1991,136.0,136
+Arcade,1992,116.0,116
+Arcade,1993,88.0,88
+Arcade,1994,97.0,97
+Arcade,1995,94.0,94
+Arcade,1996,123.0,123
+Arcade,1997,98.0,98
+Arcade,1998,126.0,126
+Arcade,1999,109.0,109
+Arcade,2000,113.0,113
+Arcade,2001,102.0,102
+Arcade,2002,114.0,114
+Arcade,2003,116.0,116
+Arcade,2004,136.0,136
+Arcade,2005,154.0,154
+Arcade,2006,155.0,155
+Arcade,2007,175.0,175
+Arcade,2008,148.0,148
+Arcade,2009,213.0,213
+Arcade,2010,203.0,203
+Arcade,2011,212.0,212
+Arcade,2012,223.0,223
+Arcade,2013,180.0,180
+Arcade,2014,301.0,301
+Arcade,2015,328.0,328
+Arcade,2016,314.0,314
+Arcade,2017,378.0,378
+Arcade,2018,433.0,433
+Arcade,2019,430.0,430
+Arcade,2020,412.0,412
+Arcade,2021,443.0,443
+Arcade,2022,505.0,505
+Arcade,2023,502.0,502
+Arcade,2024,551.0,551
+Arcade,2025,526.0,526
+Card & Board Game,1952,1.0,1
+Card & Board Game,1972,2.0,2
+Card & Board Game,1973,2.0,2
+Card & Board Game,1976,1.0,1
+Card & Board Game,1977,1.0,1
+Card & Board Game,1978,3.0,3
+Card & Board Game,1979,3.0,3
+Card & Board Game,1980,3.0,3
+Card & Board Game,1981,1.0,1
+Card & Board Game,1982,3.0,3
+Card & Board Game,1983,7.0,7
+Card & Board Game,1984,7.0,7
+Card & Board Game,1985,6.0,6
+Card & Board Game,1986,4.0,4
+Card & Board Game,1987,8.0,8
+Card & Board Game,1988,8.0,8
+Card & Board Game,1989,16.0,16
+Card & Board Game,1990,16.0,16
+Card & Board Game,1991,35.0,35
+Card & Board Game,1992,31.0,31
+Card & Board Game,1993,27.0,27
+Card & Board Game,1994,28.0,28
+Card & Board Game,1995,54.0,54
+Card & Board Game,1996,32.0,32
+Card & Board Game,1997,38.0,38
+Card & Board Game,1998,47.0,47
+Card & Board Game,1999,38.0,38
+Card & Board Game,2000,43.0,43
+Card & Board Game,2001,31.0,31
+Card & Board Game,2002,39.0,39
+Card & Board Game,2003,36.0,36
+Card & Board Game,2004,41.0,41
+Card & Board Game,2005,30.0,30
+Card & Board Game,2006,27.0,27
+Card & Board Game,2007,39.0,39
+Card & Board Game,2008,53.0,53
+Card & Board Game,2009,60.0,60
+Card & Board Game,2010,41.0,41
+Card & Board Game,2011,30.0,30
+Card & Board Game,2012,52.0,52
+Card & Board Game,2013,58.0,58
+Card & Board Game,2014,62.0,62
+Card & Board Game,2015,60.0,60
+Card & Board Game,2016,72.0,72
+Card & Board Game,2017,65.0,65
+Card & Board Game,2018,78.0,78
+Card & Board Game,2019,95.0,95
+Card & Board Game,2020,135.0,135
+Card & Board Game,2021,123.0,123
+Card & Board Game,2022,134.0,134
+Card & Board Game,2023,124.0,124
+Card & Board Game,2024,138.0,138
+Card & Board Game,2025,181.0,181
+Fighting,1976,1.0,1
+Fighting,1980,1.0,1
+Fighting,1982,1.0,1
+Fighting,1983,3.0,3
+Fighting,1984,9.0,9
+Fighting,1985,12.0,12
+Fighting,1986,17.0,17
+Fighting,1987,22.0,22
+Fighting,1988,22.0,22
+Fighting,1989,25.0,25
+Fighting,1990,23.0,23
+Fighting,1991,33.0,33
+Fighting,1992,57.0,57
+Fighting,1993,74.0,74
+Fighting,1994,145.0,145
+Fighting,1995,88.0,88
+Fighting,1996,79.0,79
+Fighting,1997,62.0,62
+Fighting,1998,74.0,74
+Fighting,1999,58.0,58
+Fighting,2000,45.0,45
+Fighting,2001,43.0,43
+Fighting,2002,70.0,70
+Fighting,2003,69.0,69
+Fighting,2004,59.0,59
+Fighting,2005,98.0,98
+Fighting,2006,78.0,78
+Fighting,2007,57.0,57
+Fighting,2008,76.0,76
+Fighting,2009,78.0,78
+Fighting,2010,66.0,66
+Fighting,2011,77.0,77
+Fighting,2012,79.0,79
+Fighting,2013,85.0,85
+Fighting,2014,95.0,95
+Fighting,2015,108.0,108
+Fighting,2016,107.0,107
+Fighting,2017,156.0,156
+Fighting,2018,155.0,155
+Fighting,2019,150.0,150
+Fighting,2020,135.0,135
+Fighting,2021,145.0,145
+Fighting,2022,143.0,143
+Fighting,2023,162.0,162
+Fighting,2024,209.0,209
+Fighting,2025,148.0,148
+Hack and slash/Beat 'em up,1983,1.0,1
+Hack and slash/Beat 'em up,1984,3.0,3
+Hack and slash/Beat 'em up,1985,9.0,9
+Hack and slash/Beat 'em up,1986,25.0,25
+Hack and slash/Beat 'em up,1987,25.0,25
+Hack and slash/Beat 'em up,1988,35.0,35
+Hack and slash/Beat 'em up,1989,68.0,68
+Hack and slash/Beat 'em up,1990,52.0,52
+Hack and slash/Beat 'em up,1991,53.0,53
+Hack and slash/Beat 'em up,1992,41.0,41
+Hack and slash/Beat 'em up,1993,58.0,58
+Hack and slash/Beat 'em up,1994,45.0,45
+Hack and slash/Beat 'em up,1995,22.0,22
+Hack and slash/Beat 'em up,1996,24.0,24
+Hack and slash/Beat 'em up,1997,15.0,15
+Hack and slash/Beat 'em up,1998,18.0,18
+Hack and slash/Beat 'em up,1999,27.0,27
+Hack and slash/Beat 'em up,2000,31.0,31
+Hack and slash/Beat 'em up,2001,33.0,33
+Hack and slash/Beat 'em up,2002,55.0,55
+Hack and slash/Beat 'em up,2003,57.0,57
+Hack and slash/Beat 'em up,2004,51.0,51
+Hack and slash/Beat 'em up,2005,78.0,78
+Hack and slash/Beat 'em up,2006,55.0,55
+Hack and slash/Beat 'em up,2007,70.0,70
+Hack and slash/Beat 'em up,2008,51.0,51
+Hack and slash/Beat 'em up,2009,75.0,75
+Hack and slash/Beat 'em up,2010,84.0,84
+Hack and slash/Beat 'em up,2011,87.0,87
+Hack and slash/Beat 'em up,2012,109.0,109
+Hack and slash/Beat 'em up,2013,117.0,117
+Hack and slash/Beat 'em up,2014,113.0,113
+Hack and slash/Beat 'em up,2015,139.0,139
+Hack and slash/Beat 'em up,2016,107.0,107
+Hack and slash/Beat 'em up,2017,123.0,123
+Hack and slash/Beat 'em up,2018,146.0,146
+Hack and slash/Beat 'em up,2019,101.0,101
+Hack and slash/Beat 'em up,2020,114.0,114
+Hack and slash/Beat 'em up,2021,166.0,166
+Hack and slash/Beat 'em up,2022,123.0,123
+Hack and slash/Beat 'em up,2023,138.0,138
+Hack and slash/Beat 'em up,2024,163.0,163
+Hack and slash/Beat 'em up,2025,145.0,145
+Indie,1974,1.0,1
+Indie,1983,1.0,1
+Indie,1984,1.0,1
+Indie,1986,1.0,1
+Indie,1987,2.0,2
+Indie,1988,1.0,1
+Indie,1989,3.0,3
+Indie,1990,2.0,2
+Indie,1991,4.0,4
+Indie,1992,3.0,3
+Indie,1993,1.0,1
+Indie,1994,4.0,4
+Indie,1995,4.0,4
+Indie,1996,7.0,7
+Indie,1997,11.0,11
+Indie,1998,13.0,13
+Indie,1999,11.0,11
+Indie,2000,11.0,11
+Indie,2001,17.0,17
+Indie,2002,18.0,18
+Indie,2003,40.0,40
+Indie,2004,52.0,52
+Indie,2005,58.0,58
+Indie,2006,71.0,71
+Indie,2007,90.0,90
+Indie,2008,142.0,142
+Indie,2009,162.0,162
+Indie,2010,211.0,211
+Indie,2011,256.0,256
+Indie,2012,340.0,340
+Indie,2013,403.0,403
+Indie,2014,644.0,644
+Indie,2015,783.0,783
+Indie,2016,937.0,937
+Indie,2017,1102.0,1102
+Indie,2018,1181.0,1181
+Indie,2019,1152.0,1152
+Indie,2020,1243.0,1243
+Indie,2021,1392.0,1392
+Indie,2022,1603.0,1603
+Indie,2023,1717.0,1717
+Indie,2024,2352.0,2352
+Indie,2025,2470.0,2470
+MOBA,2007,1.0,1
+MOBA,2009,2.0,2
+MOBA,2010,1.0,1
+MOBA,2011,3.0,3
+MOBA,2012,4.0,4
+MOBA,2013,2.0,2
+MOBA,2014,6.0,6
+MOBA,2015,10.0,10
+MOBA,2016,6.0,6
+MOBA,2017,3.0,3
+MOBA,2018,9.0,9
+MOBA,2019,4.0,4
+MOBA,2020,4.0,4
+MOBA,2021,5.0,5
+MOBA,2022,11.0,11
+MOBA,2023,7.0,7
+MOBA,2024,11.0,11
+MOBA,2025,18.0,18
+Music,1978,1.0,1
+Music,1985,2.0,2
+Music,1987,5.0,5
+Music,1990,1.0,1
+Music,1991,1.0,1
+Music,1992,1.0,1
+Music,1993,2.0,2
+Music,1994,4.0,4
+Music,1995,7.0,7
+Music,1996,8.0,8
+Music,1997,6.0,6
+Music,1998,15.0,15
+Music,1999,36.0,36
+Music,2000,58.0,58
+Music,2001,34.0,34
+Music,2002,32.0,32
+Music,2003,25.0,25
+Music,2004,32.0,32
+Music,2005,29.0,29
+Music,2006,39.0,39
+Music,2007,60.0,60
+Music,2008,88.0,88
+Music,2009,87.0,87
+Music,2010,71.0,71
+Music,2011,81.0,81
+Music,2012,79.0,79
+Music,2013,59.0,59
+Music,2014,71.0,71
+Music,2015,73.0,73
+Music,2016,79.0,79
+Music,2017,63.0,63
+Music,2018,76.0,76
+Music,2019,108.0,108
+Music,2020,114.0,114
+Music,2021,138.0,138
+Music,2022,147.0,147
+Music,2023,133.0,133
+Music,2024,154.0,154
+Music,2025,121.0,121
+Pinball,1974,2.0,2
+Pinball,1978,2.0,2
+Pinball,1979,5.0,5
+Pinball,1981,2.0,2
+Pinball,1982,2.0,2
+Pinball,1983,2.0,2
+Pinball,1984,3.0,3
+Pinball,1985,1.0,1
+Pinball,1987,3.0,3
+Pinball,1988,5.0,5
+Pinball,1989,5.0,5
+Pinball,1990,4.0,4
+Pinball,1991,4.0,4
+Pinball,1992,4.0,4
+Pinball,1993,12.0,12
+Pinball,1994,12.0,12
+Pinball,1995,12.0,12
+Pinball,1996,8.0,8
+Pinball,1997,3.0,3
+Pinball,1998,10.0,10
+Pinball,1999,6.0,6
+Pinball,2000,3.0,3
+Pinball,2001,7.0,7
+Pinball,2002,10.0,10
+Pinball,2003,10.0,10
+Pinball,2004,6.0,6
+Pinball,2005,8.0,8
+Pinball,2006,1.0,1
+Pinball,2007,3.0,3
+Pinball,2008,7.0,7
+Pinball,2009,10.0,10
+Pinball,2010,13.0,13
+Pinball,2011,10.0,10
+Pinball,2012,10.0,10
+Pinball,2013,4.0,4
+Pinball,2014,10.0,10
+Pinball,2015,13.0,13
+Pinball,2016,22.0,22
+Pinball,2017,24.0,24
+Pinball,2018,14.0,14
+Pinball,2019,5.0,5
+Pinball,2020,4.0,4
+Pinball,2021,7.0,7
+Pinball,2022,4.0,4
+Pinball,2023,24.0,24
+Pinball,2024,34.0,34
+Pinball,2025,53.0,53
+Platform,1978,1.0,1
+Platform,1980,1.0,1
+Platform,1981,8.0,8
+Platform,1982,29.0,29
+Platform,1983,85.0,85
+Platform,1984,63.0,63
+Platform,1985,62.0,62
+Platform,1986,90.0,90
+Platform,1987,104.0,104
+Platform,1988,97.0,97
+Platform,1989,112.0,112
+Platform,1990,150.0,150
+Platform,1991,168.0,168
+Platform,1992,173.0,173
+Platform,1993,182.0,182
+Platform,1994,173.0,173
+Platform,1995,107.0,107
+Platform,1996,88.0,88
+Platform,1997,88.0,88
+Platform,1998,80.0,80
+Platform,1999,90.0,90
+Platform,2000,95.0,95
+Platform,2001,113.0,113
+Platform,2002,123.0,123
+Platform,2003,129.0,129
+Platform,2004,129.0,129
+Platform,2005,137.0,137
+Platform,2006,134.0,134
+Platform,2007,128.0,128
+Platform,2008,143.0,143
+Platform,2009,162.0,162
+Platform,2010,192.0,192
+Platform,2011,207.0,207
+Platform,2012,215.0,215
+Platform,2013,216.0,216
+Platform,2014,248.0,248
+Platform,2015,222.0,222
+Platform,2016,228.0,228
+Platform,2017,272.0,272
+Platform,2018,286.0,286
+Platform,2019,277.0,277
+Platform,2020,311.0,311
+Platform,2021,381.0,381
+Platform,2022,382.0,382
+Platform,2023,391.0,391
+Platform,2024,446.0,446
+Platform,2025,417.0,417
+Point-and-click,1972,2.0,2
+Point-and-click,1983,3.0,3
+Point-and-click,1984,1.0,1
+Point-and-click,1985,7.0,7
+Point-and-click,1986,9.0,9
+Point-and-click,1987,13.0,13
+Point-and-click,1988,15.0,15
+Point-and-click,1989,19.0,19
+Point-and-click,1990,13.0,13
+Point-and-click,1991,26.0,26
+Point-and-click,1992,24.0,24
+Point-and-click,1993,41.0,41
+Point-and-click,1994,31.0,31
+Point-and-click,1995,64.0,64
+Point-and-click,1996,68.0,68
+Point-and-click,1997,82.0,82
+Point-and-click,1998,67.0,67
+Point-and-click,1999,53.0,53
+Point-and-click,2000,41.0,41
+Point-and-click,2001,46.0,46
+Point-and-click,2002,44.0,44
+Point-and-click,2003,36.0,36
+Point-and-click,2004,49.0,49
+Point-and-click,2005,56.0,56
+Point-and-click,2006,68.0,68
+Point-and-click,2007,79.0,79
+Point-and-click,2008,95.0,95
+Point-and-click,2009,104.0,104
+Point-and-click,2010,104.0,104
+Point-and-click,2011,84.0,84
+Point-and-click,2012,100.0,100
+Point-and-click,2013,99.0,99
+Point-and-click,2014,121.0,121
+Point-and-click,2015,119.0,119
+Point-and-click,2016,128.0,128
+Point-and-click,2017,137.0,137
+Point-and-click,2018,105.0,105
+Point-and-click,2019,94.0,94
+Point-and-click,2020,111.0,111
+Point-and-click,2021,131.0,131
+Point-and-click,2022,129.0,129
+Point-and-click,2023,123.0,123
+Point-and-click,2024,150.0,150
+Point-and-click,2025,176.0,176
+Puzzle,1972,2.0,2
+Puzzle,1973,1.0,1
+Puzzle,1976,3.0,3
+Puzzle,1977,1.0,1
+Puzzle,1978,8.0,8
+Puzzle,1979,5.0,5
+Puzzle,1980,5.0,5
+Puzzle,1981,9.0,9
+Puzzle,1982,28.0,28
+Puzzle,1983,43.0,43
+Puzzle,1984,43.0,43
+Puzzle,1985,42.0,42
+Puzzle,1986,45.0,45
+Puzzle,1987,59.0,59
+Puzzle,1988,43.0,43
+Puzzle,1989,62.0,62
+Puzzle,1990,122.0,122
+Puzzle,1991,98.0,98
+Puzzle,1992,88.0,88
+Puzzle,1993,100.0,100
+Puzzle,1994,111.0,111
+Puzzle,1995,140.0,140
+Puzzle,1996,134.0,134
+Puzzle,1997,114.0,114
+Puzzle,1998,97.0,97
+Puzzle,1999,132.0,132
+Puzzle,2000,142.0,142
+Puzzle,2001,126.0,126
+Puzzle,2002,116.0,116
+Puzzle,2003,115.0,115
+Puzzle,2004,126.0,126
+Puzzle,2005,133.0,133
+Puzzle,2006,192.0,192
+Puzzle,2007,199.0,199
+Puzzle,2008,245.0,245
+Puzzle,2009,303.0,303
+Puzzle,2010,282.0,282
+Puzzle,2011,278.0,278
+Puzzle,2012,311.0,311
+Puzzle,2013,300.0,300
+Puzzle,2014,369.0,369
+Puzzle,2015,361.0,361
+Puzzle,2016,408.0,408
+Puzzle,2017,409.0,409
+Puzzle,2018,444.0,444
+Puzzle,2019,463.0,463
+Puzzle,2020,512.0,512
+Puzzle,2021,524.0,524
+Puzzle,2022,573.0,573
+Puzzle,2023,551.0,551
+Puzzle,2024,733.0,733
+Puzzle,2025,671.0,671
+Quiz/Trivia,1972,1.0,1
+Quiz/Trivia,1978,2.0,2
+Quiz/Trivia,1979,1.0,1
+Quiz/Trivia,1981,1.0,1
+Quiz/Trivia,1982,1.0,1
+Quiz/Trivia,1983,2.0,2
+Quiz/Trivia,1984,1.0,1
+Quiz/Trivia,1985,3.0,3
+Quiz/Trivia,1986,1.0,1
+Quiz/Trivia,1987,3.0,3
+Quiz/Trivia,1988,13.0,13
+Quiz/Trivia,1989,12.0,12
+Quiz/Trivia,1990,16.0,16
+Quiz/Trivia,1991,18.0,18
+Quiz/Trivia,1992,15.0,15
+Quiz/Trivia,1993,12.0,12
+Quiz/Trivia,1994,18.0,18
+Quiz/Trivia,1995,47.0,47
+Quiz/Trivia,1996,38.0,38
+Quiz/Trivia,1997,37.0,37
+Quiz/Trivia,1998,26.0,26
+Quiz/Trivia,1999,23.0,23
+Quiz/Trivia,2000,29.0,29
+Quiz/Trivia,2001,24.0,24
+Quiz/Trivia,2002,19.0,19
+Quiz/Trivia,2003,24.0,24
+Quiz/Trivia,2004,9.0,9
+Quiz/Trivia,2005,23.0,23
+Quiz/Trivia,2006,17.0,17
+Quiz/Trivia,2007,27.0,27
+Quiz/Trivia,2008,30.0,30
+Quiz/Trivia,2009,33.0,33
+Quiz/Trivia,2010,26.0,26
+Quiz/Trivia,2011,16.0,16
+Quiz/Trivia,2012,28.0,28
+Quiz/Trivia,2013,13.0,13
+Quiz/Trivia,2014,11.0,11
+Quiz/Trivia,2015,11.0,11
+Quiz/Trivia,2016,14.0,14
+Quiz/Trivia,2017,20.0,20
+Quiz/Trivia,2018,13.0,13
+Quiz/Trivia,2019,12.0,12
+Quiz/Trivia,2020,13.0,13
+Quiz/Trivia,2021,14.0,14
+Quiz/Trivia,2022,41.0,41
+Quiz/Trivia,2023,40.0,40
+Quiz/Trivia,2024,43.0,43
+Quiz/Trivia,2025,32.0,32
+Racing,1972,2.0,2
+Racing,1973,2.0,2
+Racing,1974,3.0,3
+Racing,1975,7.0,7
+Racing,1976,12.0,12
+Racing,1977,9.0,9
+Racing,1978,8.0,8
+Racing,1979,4.0,4
+Racing,1980,6.0,6
+Racing,1981,8.0,8
+Racing,1982,11.0,11
+Racing,1983,19.0,19
+Racing,1984,20.0,20
+Racing,1985,22.0,22
+Racing,1986,28.0,28
+Racing,1987,36.0,36
+Racing,1988,43.0,43
+Racing,1989,53.0,53
+Racing,1990,49.0,49
+Racing,1991,46.0,46
+Racing,1992,44.0,44
+Racing,1993,44.0,44
+Racing,1994,49.0,49
+Racing,1995,51.0,51
+Racing,1996,66.0,66
+Racing,1997,91.0,91
+Racing,1998,91.0,91
+Racing,1999,94.0,94
+Racing,2000,112.0,112
+Racing,2001,104.0,104
+Racing,2002,97.0,97
+Racing,2003,107.0,107
+Racing,2004,76.0,76
+Racing,2005,110.0,110
+Racing,2006,119.0,119
+Racing,2007,84.0,84
+Racing,2008,86.0,86
+Racing,2009,114.0,114
+Racing,2010,111.0,111
+Racing,2011,98.0,98
+Racing,2012,80.0,80
+Racing,2013,92.0,92
+Racing,2014,85.0,85
+Racing,2015,108.0,108
+Racing,2016,104.0,104
+Racing,2017,155.0,155
+Racing,2018,162.0,162
+Racing,2019,154.0,154
+Racing,2020,127.0,127
+Racing,2021,180.0,180
+Racing,2022,144.0,144
+Racing,2023,145.0,145
+Racing,2024,202.0,202
+Racing,2025,177.0,177
+Real Time Strategy (RTS),1982,2.0,2
+Real Time Strategy (RTS),1983,2.0,2
+Real Time Strategy (RTS),1984,4.0,4
+Real Time Strategy (RTS),1985,2.0,2
+Real Time Strategy (RTS),1986,1.0,1
+Real Time Strategy (RTS),1987,4.0,4
+Real Time Strategy (RTS),1988,3.0,3
+Real Time Strategy (RTS),1989,5.0,5
+Real Time Strategy (RTS),1990,6.0,6
+Real Time Strategy (RTS),1991,8.0,8
+Real Time Strategy (RTS),1992,9.0,9
+Real Time Strategy (RTS),1993,7.0,7
+Real Time Strategy (RTS),1994,6.0,6
+Real Time Strategy (RTS),1995,7.0,7
+Real Time Strategy (RTS),1996,16.0,16
+Real Time Strategy (RTS),1997,30.0,30
+Real Time Strategy (RTS),1998,45.0,45
+Real Time Strategy (RTS),1999,41.0,41
+Real Time Strategy (RTS),2000,31.0,31
+Real Time Strategy (RTS),2001,53.0,53
+Real Time Strategy (RTS),2002,38.0,38
+Real Time Strategy (RTS),2003,42.0,42
+Real Time Strategy (RTS),2004,39.0,39
+Real Time Strategy (RTS),2005,50.0,50
+Real Time Strategy (RTS),2006,55.0,55
+Real Time Strategy (RTS),2007,52.0,52
+Real Time Strategy (RTS),2008,46.0,46
+Real Time Strategy (RTS),2009,60.0,60
+Real Time Strategy (RTS),2010,33.0,33
+Real Time Strategy (RTS),2011,54.0,54
+Real Time Strategy (RTS),2012,53.0,53
+Real Time Strategy (RTS),2013,72.0,72
+Real Time Strategy (RTS),2014,62.0,62
+Real Time Strategy (RTS),2015,65.0,65
+Real Time Strategy (RTS),2016,69.0,69
+Real Time Strategy (RTS),2017,81.0,81
+Real Time Strategy (RTS),2018,62.0,62
+Real Time Strategy (RTS),2019,71.0,71
+Real Time Strategy (RTS),2020,68.0,68
+Real Time Strategy (RTS),2021,52.0,52
+Real Time Strategy (RTS),2022,61.0,61
+Real Time Strategy (RTS),2023,63.0,63
+Real Time Strategy (RTS),2024,87.0,87
+Real Time Strategy (RTS),2025,80.0,80
+Role-playing (RPG),1979,4.0,4
+Role-playing (RPG),1980,3.0,3
+Role-playing (RPG),1981,4.0,4
+Role-playing (RPG),1982,7.0,7
+Role-playing (RPG),1983,13.0,13
+Role-playing (RPG),1984,17.0,17
+Role-playing (RPG),1985,28.0,28
+Role-playing (RPG),1986,33.0,33
+Role-playing (RPG),1987,72.0,72
+Role-playing (RPG),1988,56.0,56
+Role-playing (RPG),1989,76.0,76
+Role-playing (RPG),1990,101.0,101
+Role-playing (RPG),1991,87.0,87
+Role-playing (RPG),1992,98.0,98
+Role-playing (RPG),1993,91.0,91
+Role-playing (RPG),1994,93.0,93
+Role-playing (RPG),1995,98.0,98
+Role-playing (RPG),1996,104.0,104
+Role-playing (RPG),1997,93.0,93
+Role-playing (RPG),1998,112.0,112
+Role-playing (RPG),1999,160.0,160
+Role-playing (RPG),2000,137.0,137
+Role-playing (RPG),2001,153.0,153
+Role-playing (RPG),2002,173.0,173
+Role-playing (RPG),2003,146.0,146
+Role-playing (RPG),2004,157.0,157
+Role-playing (RPG),2005,200.0,200
+Role-playing (RPG),2006,231.0,231
+Role-playing (RPG),2007,205.0,205
+Role-playing (RPG),2008,214.0,214
+Role-playing (RPG),2009,226.0,226
+Role-playing (RPG),2010,245.0,245
+Role-playing (RPG),2011,289.0,289
+Role-playing (RPG),2012,315.0,315
+Role-playing (RPG),2013,339.0,339
+Role-playing (RPG),2014,451.0,451
+Role-playing (RPG),2015,505.0,505
+Role-playing (RPG),2016,509.0,509
+Role-playing (RPG),2017,609.0,609
+Role-playing (RPG),2018,659.0,659
+Role-playing (RPG),2019,626.0,626
+Role-playing (RPG),2020,576.0,576
+Role-playing (RPG),2021,747.0,747
+Role-playing (RPG),2022,709.0,709
+Role-playing (RPG),2023,835.0,835
+Role-playing (RPG),2024,1018.0,1018
+Role-playing (RPG),2025,1078.0,1078
+Shooter,1970,1.0,1
+Shooter,1971,1.0,1
+Shooter,1972,4.0,4
+Shooter,1973,1.0,1
+Shooter,1974,4.0,4
+Shooter,1975,7.0,7
+Shooter,1976,9.0,9
+Shooter,1977,12.0,12
+Shooter,1978,9.0,9
+Shooter,1979,16.0,16
+Shooter,1980,42.0,42
+Shooter,1981,60.0,60
+Shooter,1982,103.0,103
+Shooter,1983,122.0,122
+Shooter,1984,99.0,99
+Shooter,1985,74.0,74
+Shooter,1986,134.0,134
+Shooter,1987,173.0,173
+Shooter,1988,180.0,180
+Shooter,1989,137.0,137
+Shooter,1990,146.0,146
+Shooter,1991,167.0,167
+Shooter,1992,144.0,144
+Shooter,1993,113.0,113
+Shooter,1994,118.0,118
+Shooter,1995,134.0,134
+Shooter,1996,171.0,171
+Shooter,1997,125.0,125
+Shooter,1998,137.0,137
+Shooter,1999,134.0,134
+Shooter,2000,135.0,135
+Shooter,2001,120.0,120
+Shooter,2002,162.0,162
+Shooter,2003,177.0,177
+Shooter,2004,198.0,198
+Shooter,2005,207.0,207
+Shooter,2006,205.0,205
+Shooter,2007,200.0,200
+Shooter,2008,202.0,202
+Shooter,2009,252.0,252
+Shooter,2010,285.0,285
+Shooter,2011,276.0,276
+Shooter,2012,297.0,297
+Shooter,2013,316.0,316
+Shooter,2014,308.0,308
+Shooter,2015,326.0,326
+Shooter,2016,358.0,358
+Shooter,2017,403.0,403
+Shooter,2018,401.0,401
+Shooter,2019,412.0,412
+Shooter,2020,455.0,455
+Shooter,2021,470.0,470
+Shooter,2022,508.0,508
+Shooter,2023,550.0,550
+Shooter,2024,583.0,583
+Shooter,2025,528.0,528
+Simulator,1970,1.0,1
+Simulator,1971,1.0,1
+Simulator,1972,4.0,4
+Simulator,1974,1.0,1
+Simulator,1976,2.0,2
+Simulator,1977,1.0,1
+Simulator,1978,5.0,5
+Simulator,1979,5.0,5
+Simulator,1980,9.0,9
+Simulator,1981,10.0,10
+Simulator,1982,15.0,15
+Simulator,1983,21.0,21
+Simulator,1984,26.0,26
+Simulator,1985,35.0,35
+Simulator,1986,27.0,27
+Simulator,1987,40.0,40
+Simulator,1988,42.0,42
+Simulator,1989,56.0,56
+Simulator,1990,60.0,60
+Simulator,1991,84.0,84
+Simulator,1992,64.0,64
+Simulator,1993,71.0,71
+Simulator,1994,99.0,99
+Simulator,1995,108.0,108
+Simulator,1996,105.0,105
+Simulator,1997,130.0,130
+Simulator,1998,181.0,181
+Simulator,1999,169.0,169
+Simulator,2000,165.0,165
+Simulator,2001,143.0,143
+Simulator,2002,153.0,153
+Simulator,2003,155.0,155
+Simulator,2004,126.0,126
+Simulator,2005,168.0,168
+Simulator,2006,219.0,219
+Simulator,2007,191.0,191
+Simulator,2008,230.0,230
+Simulator,2009,255.0,255
+Simulator,2010,236.0,236
+Simulator,2011,237.0,237
+Simulator,2012,255.0,255
+Simulator,2013,303.0,303
+Simulator,2014,371.0,371
+Simulator,2015,437.0,437
+Simulator,2016,497.0,497
+Simulator,2017,583.0,583
+Simulator,2018,621.0,621
+Simulator,2019,764.0,764
+Simulator,2020,672.0,672
+Simulator,2021,697.0,697
+Simulator,2022,862.0,862
+Simulator,2023,885.0,885
+Simulator,2024,1205.0,1205
+Simulator,2025,1167.0,1167
+Sport,1969,1.0,1
+Sport,1972,10.0,10
+Sport,1973,10.0,10
+Sport,1974,5.0,5
+Sport,1975,1.0,1
+Sport,1976,4.0,4
+Sport,1977,15.0,15
+Sport,1978,16.0,16
+Sport,1979,10.0,10
+Sport,1980,15.0,15
+Sport,1981,12.0,12
+Sport,1982,17.0,17
+Sport,1983,32.0,32
+Sport,1984,50.0,50
+Sport,1985,49.0,49
+Sport,1986,49.0,49
+Sport,1987,81.0,81
+Sport,1988,86.0,86
+Sport,1989,85.0,85
+Sport,1990,85.0,85
+Sport,1991,91.0,91
+Sport,1992,127.0,127
+Sport,1993,99.0,99
+Sport,1994,132.0,132
+Sport,1995,145.0,145
+Sport,1996,120.0,120
+Sport,1997,120.0,120
+Sport,1998,135.0,135
+Sport,1999,141.0,141
+Sport,2000,158.0,158
+Sport,2001,143.0,143
+Sport,2002,213.0,213
+Sport,2003,141.0,141
+Sport,2004,134.0,134
+Sport,2005,127.0,127
+Sport,2006,159.0,159
+Sport,2007,145.0,145
+Sport,2008,135.0,135
+Sport,2009,152.0,152
+Sport,2010,162.0,162
+Sport,2011,137.0,137
+Sport,2012,107.0,107
+Sport,2013,119.0,119
+Sport,2014,117.0,117
+Sport,2015,126.0,126
+Sport,2016,149.0,149
+Sport,2017,200.0,200
+Sport,2018,243.0,243
+Sport,2019,214.0,214
+Sport,2020,200.0,200
+Sport,2021,191.0,191
+Sport,2022,204.0,204
+Sport,2023,195.0,195
+Sport,2024,238.0,238
+Sport,2025,233.0,233
+Strategy,1964,1.0,1
+Strategy,1972,1.0,1
+Strategy,1973,2.0,2
+Strategy,1976,4.0,4
+Strategy,1977,4.0,4
+Strategy,1978,7.0,7
+Strategy,1979,7.0,7
+Strategy,1980,9.0,9
+Strategy,1981,15.0,15
+Strategy,1982,18.0,18
+Strategy,1983,19.0,19
+Strategy,1984,27.0,27
+Strategy,1985,30.0,30
+Strategy,1986,26.0,26
+Strategy,1987,38.0,38
+Strategy,1988,48.0,48
+Strategy,1989,58.0,58
+Strategy,1990,91.0,91
+Strategy,1991,96.0,96
+Strategy,1992,82.0,82
+Strategy,1993,76.0,76
+Strategy,1994,101.0,101
+Strategy,1995,96.0,96
+Strategy,1996,103.0,103
+Strategy,1997,113.0,113
+Strategy,1998,160.0,160
+Strategy,1999,164.0,164
+Strategy,2000,143.0,143
+Strategy,2001,136.0,136
+Strategy,2002,150.0,150
+Strategy,2003,155.0,155
+Strategy,2004,123.0,123
+Strategy,2005,173.0,173
+Strategy,2006,188.0,188
+Strategy,2007,188.0,188
+Strategy,2008,185.0,185
+Strategy,2009,192.0,192
+Strategy,2010,194.0,194
+Strategy,2011,261.0,261
+Strategy,2012,312.0,312
+Strategy,2013,332.0,332
+Strategy,2014,446.0,446
+Strategy,2015,470.0,470
+Strategy,2016,505.0,505
+Strategy,2017,501.0,501
+Strategy,2018,504.0,504
+Strategy,2019,507.0,507
+Strategy,2020,559.0,559
+Strategy,2021,557.0,557
+Strategy,2022,617.0,617
+Strategy,2023,644.0,644
+Strategy,2024,944.0,944
+Strategy,2025,924.0,924
+Tactical,1972,1.0,1
+Tactical,1973,1.0,1
+Tactical,1980,2.0,2
+Tactical,1981,2.0,2
+Tactical,1982,1.0,1
+Tactical,1983,5.0,5
+Tactical,1984,9.0,9
+Tactical,1985,3.0,3
+Tactical,1986,11.0,11
+Tactical,1987,9.0,9
+Tactical,1988,8.0,8
+Tactical,1989,6.0,6
+Tactical,1990,10.0,10
+Tactical,1991,11.0,11
+Tactical,1992,5.0,5
+Tactical,1993,8.0,8
+Tactical,1994,16.0,16
+Tactical,1995,23.0,23
+Tactical,1996,17.0,17
+Tactical,1997,25.0,25
+Tactical,1998,35.0,35
+Tactical,1999,33.0,33
+Tactical,2000,31.0,31
+Tactical,2001,26.0,26
+Tactical,2002,46.0,46
+Tactical,2003,44.0,44
+Tactical,2004,43.0,43
+Tactical,2005,62.0,62
+Tactical,2006,41.0,41
+Tactical,2007,37.0,37
+Tactical,2008,39.0,39
+Tactical,2009,30.0,30
+Tactical,2010,35.0,35
+Tactical,2011,67.0,67
+Tactical,2012,53.0,53
+Tactical,2013,49.0,49
+Tactical,2014,42.0,42
+Tactical,2015,72.0,72
+Tactical,2016,70.0,70
+Tactical,2017,67.0,67
+Tactical,2018,91.0,91
+Tactical,2019,97.0,97
+Tactical,2020,105.0,105
+Tactical,2021,79.0,79
+Tactical,2022,124.0,124
+Tactical,2023,149.0,149
+Tactical,2024,156.0,156
+Tactical,2025,154.0,154
+Turn-based strategy (TBS),1972,1.0,1
+Turn-based strategy (TBS),1976,1.0,1
+Turn-based strategy (TBS),1978,2.0,2
+Turn-based strategy (TBS),1979,2.0,2
+Turn-based strategy (TBS),1980,7.0,7
+Turn-based strategy (TBS),1981,6.0,6
+Turn-based strategy (TBS),1982,4.0,4
+Turn-based strategy (TBS),1983,4.0,4
+Turn-based strategy (TBS),1984,7.0,7
+Turn-based strategy (TBS),1985,9.0,9
+Turn-based strategy (TBS),1986,9.0,9
+Turn-based strategy (TBS),1987,7.0,7
+Turn-based strategy (TBS),1988,13.0,13
+Turn-based strategy (TBS),1989,8.0,8
+Turn-based strategy (TBS),1990,11.0,11
+Turn-based strategy (TBS),1991,18.0,18
+Turn-based strategy (TBS),1992,14.0,14
+Turn-based strategy (TBS),1993,9.0,9
+Turn-based strategy (TBS),1994,23.0,23
+Turn-based strategy (TBS),1995,27.0,27
+Turn-based strategy (TBS),1996,34.0,34
+Turn-based strategy (TBS),1997,29.0,29
+Turn-based strategy (TBS),1998,33.0,33
+Turn-based strategy (TBS),1999,41.0,41
+Turn-based strategy (TBS),2000,36.0,36
+Turn-based strategy (TBS),2001,35.0,35
+Turn-based strategy (TBS),2002,36.0,36
+Turn-based strategy (TBS),2003,45.0,45
+Turn-based strategy (TBS),2004,46.0,46
+Turn-based strategy (TBS),2005,32.0,32
+Turn-based strategy (TBS),2006,49.0,49
+Turn-based strategy (TBS),2007,50.0,50
+Turn-based strategy (TBS),2008,41.0,41
+Turn-based strategy (TBS),2009,43.0,43
+Turn-based strategy (TBS),2010,44.0,44
+Turn-based strategy (TBS),2011,61.0,61
+Turn-based strategy (TBS),2012,63.0,63
+Turn-based strategy (TBS),2013,90.0,90
+Turn-based strategy (TBS),2014,100.0,100
+Turn-based strategy (TBS),2015,96.0,96
+Turn-based strategy (TBS),2016,115.0,115
+Turn-based strategy (TBS),2017,94.0,94
+Turn-based strategy (TBS),2018,109.0,109
+Turn-based strategy (TBS),2019,96.0,96
+Turn-based strategy (TBS),2020,112.0,112
+Turn-based strategy (TBS),2021,119.0,119
+Turn-based strategy (TBS),2022,118.0,118
+Turn-based strategy (TBS),2023,156.0,156
+Turn-based strategy (TBS),2024,165.0,165
+Turn-based strategy (TBS),2025,186.0,186
+Visual Novel,1983,4.0,4
+Visual Novel,1984,4.0,4
+Visual Novel,1985,2.0,2
+Visual Novel,1986,6.0,6
+Visual Novel,1987,8.0,8
+Visual Novel,1988,16.0,16
+Visual Novel,1989,15.0,15
+Visual Novel,1990,11.0,11
+Visual Novel,1991,5.0,5
+Visual Novel,1992,11.0,11
+Visual Novel,1993,12.0,12
+Visual Novel,1994,16.0,16
+Visual Novel,1995,28.0,28
+Visual Novel,1996,31.0,31
+Visual Novel,1997,38.0,38
+Visual Novel,1998,49.0,49
+Visual Novel,1999,45.0,45
+Visual Novel,2000,42.0,42
+Visual Novel,2001,47.0,47
+Visual Novel,2002,56.0,56
+Visual Novel,2003,48.0,48
+Visual Novel,2004,54.0,54
+Visual Novel,2005,76.0,76
+Visual Novel,2006,76.0,76
+Visual Novel,2007,107.0,107
+Visual Novel,2008,121.0,121
+Visual Novel,2009,128.0,128
+Visual Novel,2010,140.0,140
+Visual Novel,2011,155.0,155
+Visual Novel,2012,151.0,151
+Visual Novel,2013,144.0,144
+Visual Novel,2014,169.0,169
+Visual Novel,2015,211.0,211
+Visual Novel,2016,194.0,194
+Visual Novel,2017,226.0,226
+Visual Novel,2018,225.0,225
+Visual Novel,2019,253.0,253
+Visual Novel,2020,286.0,286
+Visual Novel,2021,361.0,361
+Visual Novel,2022,348.0,348
+Visual Novel,2023,399.0,399
+Visual Novel,2024,368.0,368
+Visual Novel,2025,328.0,328

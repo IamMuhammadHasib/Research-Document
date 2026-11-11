@@ -1,0 +1,1611 @@
+country_id,country_name,from_genre,to_genre,from_period_start,to_period_start,lag_five_year_periods
+32,Argentina,Shooter,Arcade,2002,2007,1
+32,Argentina,Shooter,Indie,2002,2007,1
+32,Argentina,Shooter,Music,2002,2007,1
+32,Argentina,Shooter,Puzzle,2002,2007,1
+32,Argentina,Shooter,Simulator,2002,2007,1
+32,Argentina,Arcade,Adventure,2007,2012,1
+32,Argentina,Arcade,Point-and-click,2007,2012,1
+32,Argentina,Indie,Adventure,2007,2012,1
+32,Argentina,Indie,Point-and-click,2007,2012,1
+32,Argentina,Music,Adventure,2007,2012,1
+32,Argentina,Music,Point-and-click,2007,2012,1
+32,Argentina,Puzzle,Adventure,2007,2012,1
+32,Argentina,Puzzle,Point-and-click,2007,2012,1
+32,Argentina,Simulator,Adventure,2007,2012,1
+32,Argentina,Simulator,Point-and-click,2007,2012,1
+32,Argentina,Adventure,Strategy,2012,2017,1
+32,Argentina,Adventure,Visual Novel,2012,2017,1
+32,Argentina,Point-and-click,Strategy,2012,2017,1
+32,Argentina,Point-and-click,Visual Novel,2012,2017,1
+32,Argentina,Strategy,Platform,2017,2022,1
+32,Argentina,Strategy,Racing,2017,2022,1
+32,Argentina,Visual Novel,Platform,2017,2022,1
+32,Argentina,Visual Novel,Racing,2017,2022,1
+36,Australia,Adventure,Arcade,1982,1987,1
+36,Australia,Fighting,Arcade,1982,1987,1
+36,Australia,Sport,Arcade,1982,1987,1
+36,Australia,Arcade,Card & Board Game,1987,1992,1
+36,Australia,Arcade,Platform,1987,1992,1
+36,Australia,Arcade,Shooter,1987,1992,1
+36,Australia,Arcade,Strategy,1987,1992,1
+36,Australia,Card & Board Game,Indie,1992,1997,1
+36,Australia,Card & Board Game,Pinball,1992,1997,1
+36,Australia,Card & Board Game,Point-and-click,1992,1997,1
+36,Australia,Card & Board Game,Puzzle,1992,1997,1
+36,Australia,Card & Board Game,Racing,1992,1997,1
+36,Australia,Card & Board Game,Real Time Strategy (RTS),1992,1997,1
+36,Australia,Platform,Indie,1992,1997,1
+36,Australia,Platform,Pinball,1992,1997,1
+36,Australia,Platform,Point-and-click,1992,1997,1
+36,Australia,Platform,Puzzle,1992,1997,1
+36,Australia,Platform,Racing,1992,1997,1
+36,Australia,Platform,Real Time Strategy (RTS),1992,1997,1
+36,Australia,Shooter,Indie,1992,1997,1
+36,Australia,Shooter,Pinball,1992,1997,1
+36,Australia,Shooter,Point-and-click,1992,1997,1
+36,Australia,Shooter,Puzzle,1992,1997,1
+36,Australia,Shooter,Racing,1992,1997,1
+36,Australia,Shooter,Real Time Strategy (RTS),1992,1997,1
+36,Australia,Strategy,Indie,1992,1997,1
+36,Australia,Strategy,Pinball,1992,1997,1
+36,Australia,Strategy,Point-and-click,1992,1997,1
+36,Australia,Strategy,Puzzle,1992,1997,1
+36,Australia,Strategy,Racing,1992,1997,1
+36,Australia,Strategy,Real Time Strategy (RTS),1992,1997,1
+36,Australia,Indie,Quiz/Trivia,1997,2007,2
+36,Australia,Indie,Simulator,1997,2007,2
+36,Australia,Indie,Turn-based strategy (TBS),1997,2007,2
+36,Australia,Pinball,Quiz/Trivia,1997,2007,2
+36,Australia,Pinball,Simulator,1997,2007,2
+36,Australia,Pinball,Turn-based strategy (TBS),1997,2007,2
+36,Australia,Point-and-click,Quiz/Trivia,1997,2007,2
+36,Australia,Point-and-click,Simulator,1997,2007,2
+36,Australia,Point-and-click,Turn-based strategy (TBS),1997,2007,2
+36,Australia,Puzzle,Quiz/Trivia,1997,2007,2
+36,Australia,Puzzle,Simulator,1997,2007,2
+36,Australia,Puzzle,Turn-based strategy (TBS),1997,2007,2
+36,Australia,Racing,Quiz/Trivia,1997,2007,2
+36,Australia,Racing,Simulator,1997,2007,2
+36,Australia,Racing,Turn-based strategy (TBS),1997,2007,2
+36,Australia,Real Time Strategy (RTS),Quiz/Trivia,1997,2007,2
+36,Australia,Real Time Strategy (RTS),Simulator,1997,2007,2
+36,Australia,Real Time Strategy (RTS),Turn-based strategy (TBS),1997,2007,2
+36,Australia,Quiz/Trivia,Role-playing (RPG),2007,2012,1
+36,Australia,Simulator,Role-playing (RPG),2007,2012,1
+36,Australia,Turn-based strategy (TBS),Role-playing (RPG),2007,2012,1
+36,Australia,Role-playing (RPG),Hack and slash/Beat 'em up,2012,2022,2
+40,Austria,Real Time Strategy (RTS),Adventure,1997,2002,1
+40,Austria,Real Time Strategy (RTS),Indie,1997,2002,1
+40,Austria,Real Time Strategy (RTS),Platform,1997,2002,1
+40,Austria,Real Time Strategy (RTS),Shooter,1997,2002,1
+40,Austria,Simulator,Adventure,1997,2002,1
+40,Austria,Simulator,Indie,1997,2002,1
+40,Austria,Simulator,Platform,1997,2002,1
+40,Austria,Simulator,Shooter,1997,2002,1
+40,Austria,Strategy,Adventure,1997,2002,1
+40,Austria,Strategy,Indie,1997,2002,1
+40,Austria,Strategy,Platform,1997,2002,1
+40,Austria,Strategy,Shooter,1997,2002,1
+40,Austria,Adventure,Arcade,2002,2007,1
+40,Austria,Adventure,Racing,2002,2007,1
+40,Austria,Adventure,Sport,2002,2007,1
+40,Austria,Indie,Arcade,2002,2007,1
+40,Austria,Indie,Racing,2002,2007,1
+40,Austria,Indie,Sport,2002,2007,1
+40,Austria,Platform,Arcade,2002,2007,1
+40,Austria,Platform,Racing,2002,2007,1
+40,Austria,Platform,Sport,2002,2007,1
+40,Austria,Shooter,Arcade,2002,2007,1
+40,Austria,Shooter,Racing,2002,2007,1
+40,Austria,Shooter,Sport,2002,2007,1
+40,Austria,Arcade,Card & Board Game,2007,2012,1
+40,Austria,Arcade,Puzzle,2007,2012,1
+40,Austria,Arcade,Turn-based strategy (TBS),2007,2012,1
+40,Austria,Racing,Card & Board Game,2007,2012,1
+40,Austria,Racing,Puzzle,2007,2012,1
+40,Austria,Racing,Turn-based strategy (TBS),2007,2012,1
+40,Austria,Sport,Card & Board Game,2007,2012,1
+40,Austria,Sport,Puzzle,2007,2012,1
+40,Austria,Sport,Turn-based strategy (TBS),2007,2012,1
+40,Austria,Card & Board Game,Hack and slash/Beat 'em up,2012,2022,2
+40,Austria,Puzzle,Hack and slash/Beat 'em up,2012,2022,2
+40,Austria,Turn-based strategy (TBS),Hack and slash/Beat 'em up,2012,2022,2
+51,Armenia,Arcade,Adventure,2002,2007,1
+51,Armenia,Arcade,Point-and-click,2002,2007,1
+51,Armenia,Arcade,Puzzle,2002,2007,1
+51,Armenia,Shooter,Adventure,2002,2007,1
+51,Armenia,Shooter,Point-and-click,2002,2007,1
+51,Armenia,Shooter,Puzzle,2002,2007,1
+56,Belgium,Racing,Indie,1997,2002,1
+56,Belgium,Racing,Point-and-click,1997,2002,1
+56,Belgium,Racing,Puzzle,1997,2002,1
+56,Belgium,Racing,Sport,1997,2002,1
+56,Belgium,Shooter,Indie,1997,2002,1
+56,Belgium,Shooter,Point-and-click,1997,2002,1
+56,Belgium,Shooter,Puzzle,1997,2002,1
+56,Belgium,Shooter,Sport,1997,2002,1
+56,Belgium,Indie,Simulator,2002,2012,2
+56,Belgium,Indie,Strategy,2002,2012,2
+56,Belgium,Indie,Tactical,2002,2012,2
+56,Belgium,Indie,Turn-based strategy (TBS),2002,2012,2
+56,Belgium,Point-and-click,Simulator,2002,2012,2
+56,Belgium,Point-and-click,Strategy,2002,2012,2
+56,Belgium,Point-and-click,Tactical,2002,2012,2
+56,Belgium,Point-and-click,Turn-based strategy (TBS),2002,2012,2
+56,Belgium,Puzzle,Simulator,2002,2012,2
+56,Belgium,Puzzle,Strategy,2002,2012,2
+56,Belgium,Puzzle,Tactical,2002,2012,2
+56,Belgium,Puzzle,Turn-based strategy (TBS),2002,2012,2
+56,Belgium,Sport,Simulator,2002,2012,2
+56,Belgium,Sport,Strategy,2002,2012,2
+56,Belgium,Sport,Tactical,2002,2012,2
+56,Belgium,Sport,Turn-based strategy (TBS),2002,2012,2
+56,Belgium,Simulator,Card & Board Game,2012,2017,1
+56,Belgium,Simulator,Fighting,2012,2017,1
+56,Belgium,Simulator,Platform,2012,2017,1
+56,Belgium,Simulator,Quiz/Trivia,2012,2017,1
+56,Belgium,Simulator,Real Time Strategy (RTS),2012,2017,1
+56,Belgium,Strategy,Card & Board Game,2012,2017,1
+56,Belgium,Strategy,Fighting,2012,2017,1
+56,Belgium,Strategy,Platform,2012,2017,1
+56,Belgium,Strategy,Quiz/Trivia,2012,2017,1
+56,Belgium,Strategy,Real Time Strategy (RTS),2012,2017,1
+56,Belgium,Tactical,Card & Board Game,2012,2017,1
+56,Belgium,Tactical,Fighting,2012,2017,1
+56,Belgium,Tactical,Platform,2012,2017,1
+56,Belgium,Tactical,Quiz/Trivia,2012,2017,1
+56,Belgium,Tactical,Real Time Strategy (RTS),2012,2017,1
+56,Belgium,Turn-based strategy (TBS),Card & Board Game,2012,2017,1
+56,Belgium,Turn-based strategy (TBS),Fighting,2012,2017,1
+56,Belgium,Turn-based strategy (TBS),Platform,2012,2017,1
+56,Belgium,Turn-based strategy (TBS),Quiz/Trivia,2012,2017,1
+56,Belgium,Turn-based strategy (TBS),Real Time Strategy (RTS),2012,2017,1
+56,Belgium,Card & Board Game,Arcade,2017,2022,1
+56,Belgium,Fighting,Arcade,2017,2022,1
+56,Belgium,Platform,Arcade,2017,2022,1
+56,Belgium,Quiz/Trivia,Arcade,2017,2022,1
+56,Belgium,Real Time Strategy (RTS),Arcade,2017,2022,1
+76,Brazil,Adventure,Sport,1982,1992,2
+76,Brazil,Shooter,Sport,1982,1992,2
+76,Brazil,Strategy,Sport,1982,1992,2
+76,Brazil,Sport,Platform,1992,1997,1
+76,Brazil,Sport,Point-and-click,1992,1997,1
+76,Brazil,Sport,Puzzle,1992,1997,1
+76,Brazil,Sport,Quiz/Trivia,1992,1997,1
+76,Brazil,Platform,Simulator,1997,2002,1
+76,Brazil,Point-and-click,Simulator,1997,2002,1
+76,Brazil,Puzzle,Simulator,1997,2002,1
+76,Brazil,Quiz/Trivia,Simulator,1997,2002,1
+76,Brazil,Simulator,Music,2002,2007,1
+76,Brazil,Simulator,Racing,2002,2007,1
+76,Brazil,Music,Arcade,2007,2012,1
+76,Brazil,Music,Card & Board Game,2007,2012,1
+76,Brazil,Music,Fighting,2007,2012,1
+76,Brazil,Music,Indie,2007,2012,1
+76,Brazil,Music,Turn-based strategy (TBS),2007,2012,1
+76,Brazil,Racing,Arcade,2007,2012,1
+76,Brazil,Racing,Card & Board Game,2007,2012,1
+76,Brazil,Racing,Fighting,2007,2012,1
+76,Brazil,Racing,Indie,2007,2012,1
+76,Brazil,Racing,Turn-based strategy (TBS),2007,2012,1
+100,Bulgaria,Real Time Strategy (RTS),Adventure,2002,2007,1
+100,Bulgaria,Real Time Strategy (RTS),Simulator,2002,2007,1
+100,Bulgaria,Strategy,Adventure,2002,2007,1
+100,Bulgaria,Strategy,Simulator,2002,2007,1
+100,Bulgaria,Adventure,Role-playing (RPG),2007,2012,1
+100,Bulgaria,Adventure,Turn-based strategy (TBS),2007,2012,1
+100,Bulgaria,Simulator,Role-playing (RPG),2007,2012,1
+100,Bulgaria,Simulator,Turn-based strategy (TBS),2007,2012,1
+100,Bulgaria,Role-playing (RPG),Indie,2012,2017,1
+100,Bulgaria,Role-playing (RPG),Puzzle,2012,2017,1
+100,Bulgaria,Role-playing (RPG),Tactical,2012,2017,1
+100,Bulgaria,Turn-based strategy (TBS),Indie,2012,2017,1
+100,Bulgaria,Turn-based strategy (TBS),Puzzle,2012,2017,1
+100,Bulgaria,Turn-based strategy (TBS),Tactical,2012,2017,1
+112,Belarus,Arcade,Strategy,2002,2007,1
+112,Belarus,Strategy,Indie,2007,2012,1
+112,Belarus,Strategy,Simulator,2007,2012,1
+112,Belarus,Indie,Puzzle,2012,2017,1
+112,Belarus,Indie,Role-playing (RPG),2012,2017,1
+112,Belarus,Indie,Shooter,2012,2017,1
+112,Belarus,Simulator,Puzzle,2012,2017,1
+112,Belarus,Simulator,Role-playing (RPG),2012,2017,1
+112,Belarus,Simulator,Shooter,2012,2017,1
+124,Canada,Arcade,Adventure,1987,1992,1
+124,Canada,Arcade,Pinball,1987,1992,1
+124,Canada,Racing,Adventure,1987,1992,1
+124,Canada,Racing,Pinball,1987,1992,1
+124,Canada,Simulator,Adventure,1987,1992,1
+124,Canada,Simulator,Pinball,1987,1992,1
+124,Canada,Sport,Adventure,1987,1992,1
+124,Canada,Sport,Pinball,1987,1992,1
+124,Canada,Adventure,Hack and slash/Beat 'em up,1992,1997,1
+124,Canada,Adventure,Platform,1992,1997,1
+124,Canada,Adventure,Point-and-click,1992,1997,1
+124,Canada,Adventure,Quiz/Trivia,1992,1997,1
+124,Canada,Adventure,Real Time Strategy (RTS),1992,1997,1
+124,Canada,Pinball,Hack and slash/Beat 'em up,1992,1997,1
+124,Canada,Pinball,Platform,1992,1997,1
+124,Canada,Pinball,Point-and-click,1992,1997,1
+124,Canada,Pinball,Quiz/Trivia,1992,1997,1
+124,Canada,Pinball,Real Time Strategy (RTS),1992,1997,1
+124,Canada,Hack and slash/Beat 'em up,Indie,1997,2002,1
+124,Canada,Hack and slash/Beat 'em up,Strategy,1997,2002,1
+124,Canada,Hack and slash/Beat 'em up,Tactical,1997,2002,1
+124,Canada,Hack and slash/Beat 'em up,Turn-based strategy (TBS),1997,2002,1
+124,Canada,Platform,Indie,1997,2002,1
+124,Canada,Platform,Strategy,1997,2002,1
+124,Canada,Platform,Tactical,1997,2002,1
+124,Canada,Platform,Turn-based strategy (TBS),1997,2002,1
+124,Canada,Point-and-click,Indie,1997,2002,1
+124,Canada,Point-and-click,Strategy,1997,2002,1
+124,Canada,Point-and-click,Tactical,1997,2002,1
+124,Canada,Point-and-click,Turn-based strategy (TBS),1997,2002,1
+124,Canada,Quiz/Trivia,Indie,1997,2002,1
+124,Canada,Quiz/Trivia,Strategy,1997,2002,1
+124,Canada,Quiz/Trivia,Tactical,1997,2002,1
+124,Canada,Quiz/Trivia,Turn-based strategy (TBS),1997,2002,1
+124,Canada,Real Time Strategy (RTS),Indie,1997,2002,1
+124,Canada,Real Time Strategy (RTS),Strategy,1997,2002,1
+124,Canada,Real Time Strategy (RTS),Tactical,1997,2002,1
+124,Canada,Real Time Strategy (RTS),Turn-based strategy (TBS),1997,2002,1
+124,Canada,Indie,Role-playing (RPG),2002,2007,1
+124,Canada,Indie,Shooter,2002,2007,1
+124,Canada,Strategy,Role-playing (RPG),2002,2007,1
+124,Canada,Strategy,Shooter,2002,2007,1
+124,Canada,Tactical,Role-playing (RPG),2002,2007,1
+124,Canada,Tactical,Shooter,2002,2007,1
+124,Canada,Turn-based strategy (TBS),Role-playing (RPG),2002,2007,1
+124,Canada,Turn-based strategy (TBS),Shooter,2002,2007,1
+124,Canada,Role-playing (RPG),Fighting,2007,2017,2
+124,Canada,Shooter,Fighting,2007,2017,2
+152,Chile,Arcade,Indie,2002,2007,1
+152,Chile,Arcade,Sport,2002,2007,1
+152,Chile,Shooter,Indie,2002,2007,1
+152,Chile,Shooter,Sport,2002,2007,1
+152,Chile,Indie,Adventure,2007,2012,1
+152,Chile,Indie,Platform,2007,2012,1
+152,Chile,Sport,Adventure,2007,2012,1
+152,Chile,Sport,Platform,2007,2012,1
+152,Chile,Adventure,Point-and-click,2012,2017,1
+152,Chile,Adventure,Puzzle,2012,2017,1
+152,Chile,Adventure,Strategy,2012,2017,1
+152,Chile,Platform,Point-and-click,2012,2017,1
+152,Chile,Platform,Puzzle,2012,2017,1
+152,Chile,Platform,Strategy,2012,2017,1
+152,Chile,Point-and-click,Role-playing (RPG),2017,2022,1
+152,Chile,Puzzle,Role-playing (RPG),2017,2022,1
+152,Chile,Strategy,Role-playing (RPG),2017,2022,1
+156,China,Platform,Arcade,1997,2002,1
+156,China,Platform,Card & Board Game,1997,2002,1
+156,China,Platform,Puzzle,1997,2002,1
+156,China,Shooter,Arcade,1997,2002,1
+156,China,Shooter,Card & Board Game,1997,2002,1
+156,China,Shooter,Puzzle,1997,2002,1
+156,China,Arcade,Sport,2002,2007,1
+156,China,Card & Board Game,Sport,2002,2007,1
+156,China,Puzzle,Sport,2002,2007,1
+156,China,Sport,Hack and slash/Beat 'em up,2007,2012,1
+156,China,Sport,MOBA,2007,2012,1
+156,China,Sport,Role-playing (RPG),2007,2012,1
+156,China,Sport,Tactical,2007,2012,1
+156,China,Hack and slash/Beat 'em up,Indie,2012,2017,1
+156,China,Hack and slash/Beat 'em up,Music,2012,2017,1
+156,China,Hack and slash/Beat 'em up,Real Time Strategy (RTS),2012,2017,1
+156,China,Hack and slash/Beat 'em up,Strategy,2012,2017,1
+156,China,MOBA,Indie,2012,2017,1
+156,China,MOBA,Music,2012,2017,1
+156,China,MOBA,Real Time Strategy (RTS),2012,2017,1
+156,China,MOBA,Strategy,2012,2017,1
+156,China,Role-playing (RPG),Indie,2012,2017,1
+156,China,Role-playing (RPG),Music,2012,2017,1
+156,China,Role-playing (RPG),Real Time Strategy (RTS),2012,2017,1
+156,China,Role-playing (RPG),Strategy,2012,2017,1
+156,China,Tactical,Indie,2012,2017,1
+156,China,Tactical,Music,2012,2017,1
+156,China,Tactical,Real Time Strategy (RTS),2012,2017,1
+156,China,Tactical,Strategy,2012,2017,1
+156,China,Indie,Adventure,2017,2022,1
+156,China,Indie,Fighting,2017,2022,1
+156,China,Indie,Simulator,2017,2022,1
+156,China,Indie,Turn-based strategy (TBS),2017,2022,1
+156,China,Music,Adventure,2017,2022,1
+156,China,Music,Fighting,2017,2022,1
+156,China,Music,Simulator,2017,2022,1
+156,China,Music,Turn-based strategy (TBS),2017,2022,1
+156,China,Real Time Strategy (RTS),Adventure,2017,2022,1
+156,China,Real Time Strategy (RTS),Fighting,2017,2022,1
+156,China,Real Time Strategy (RTS),Simulator,2017,2022,1
+156,China,Real Time Strategy (RTS),Turn-based strategy (TBS),2017,2022,1
+156,China,Strategy,Adventure,2017,2022,1
+156,China,Strategy,Fighting,2017,2022,1
+156,China,Strategy,Simulator,2017,2022,1
+156,China,Strategy,Turn-based strategy (TBS),2017,2022,1
+158,Taiwan,Puzzle,Arcade,1987,1992,1
+158,Taiwan,Puzzle,Card & Board Game,1987,1992,1
+158,Taiwan,Puzzle,Fighting,1987,1992,1
+158,Taiwan,Puzzle,Hack and slash/Beat 'em up,1987,1992,1
+158,Taiwan,Puzzle,Platform,1987,1992,1
+158,Taiwan,Arcade,Role-playing (RPG),1992,1997,1
+158,Taiwan,Arcade,Turn-based strategy (TBS),1992,1997,1
+158,Taiwan,Card & Board Game,Role-playing (RPG),1992,1997,1
+158,Taiwan,Card & Board Game,Turn-based strategy (TBS),1992,1997,1
+158,Taiwan,Fighting,Role-playing (RPG),1992,1997,1
+158,Taiwan,Fighting,Turn-based strategy (TBS),1992,1997,1
+158,Taiwan,Hack and slash/Beat 'em up,Role-playing (RPG),1992,1997,1
+158,Taiwan,Hack and slash/Beat 'em up,Turn-based strategy (TBS),1992,1997,1
+158,Taiwan,Platform,Role-playing (RPG),1992,1997,1
+158,Taiwan,Platform,Turn-based strategy (TBS),1992,1997,1
+158,Taiwan,Role-playing (RPG),Strategy,1997,2002,1
+158,Taiwan,Turn-based strategy (TBS),Strategy,1997,2002,1
+158,Taiwan,Strategy,Adventure,2002,2007,1
+158,Taiwan,Adventure,Music,2007,2012,1
+158,Taiwan,Music,Real Time Strategy (RTS),2012,2022,2
+170,Colombia,Adventure,Arcade,2017,2022,1
+170,Colombia,Adventure,Platform,2017,2022,1
+170,Colombia,Indie,Arcade,2017,2022,1
+170,Colombia,Indie,Platform,2017,2022,1
+170,Colombia,Strategy,Arcade,2017,2022,1
+170,Colombia,Strategy,Platform,2017,2022,1
+188,Costa Rica,Indie,Arcade,2017,2022,1
+188,Costa Rica,Indie,Puzzle,2017,2022,1
+188,Costa Rica,Indie,Simulator,2017,2022,1
+191,Croatia,Shooter,Adventure,2002,2007,1
+191,Croatia,Shooter,Indie,2002,2007,1
+191,Croatia,Adventure,Point-and-click,2007,2012,1
+191,Croatia,Adventure,Puzzle,2007,2012,1
+191,Croatia,Adventure,Racing,2007,2012,1
+191,Croatia,Adventure,Simulator,2007,2012,1
+191,Croatia,Adventure,Strategy,2007,2012,1
+191,Croatia,Indie,Point-and-click,2007,2012,1
+191,Croatia,Indie,Puzzle,2007,2012,1
+191,Croatia,Indie,Racing,2007,2012,1
+191,Croatia,Indie,Simulator,2007,2012,1
+191,Croatia,Indie,Strategy,2007,2012,1
+191,Croatia,Point-and-click,Role-playing (RPG),2012,2017,1
+191,Croatia,Point-and-click,Tactical,2012,2017,1
+191,Croatia,Puzzle,Role-playing (RPG),2012,2017,1
+191,Croatia,Puzzle,Tactical,2012,2017,1
+191,Croatia,Racing,Role-playing (RPG),2012,2017,1
+191,Croatia,Racing,Tactical,2012,2017,1
+191,Croatia,Simulator,Role-playing (RPG),2012,2017,1
+191,Croatia,Simulator,Tactical,2012,2017,1
+191,Croatia,Strategy,Role-playing (RPG),2012,2017,1
+191,Croatia,Strategy,Tactical,2012,2017,1
+196,Cyprus,Strategy,Arcade,2002,2007,1
+196,Cyprus,Strategy,Real Time Strategy (RTS),2002,2007,1
+196,Cyprus,Strategy,Simulator,2002,2007,1
+196,Cyprus,Turn-based strategy (TBS),Arcade,2002,2007,1
+196,Cyprus,Turn-based strategy (TBS),Real Time Strategy (RTS),2002,2007,1
+196,Cyprus,Turn-based strategy (TBS),Simulator,2002,2007,1
+196,Cyprus,Arcade,Shooter,2007,2012,1
+196,Cyprus,Arcade,Tactical,2007,2012,1
+196,Cyprus,Real Time Strategy (RTS),Shooter,2007,2012,1
+196,Cyprus,Real Time Strategy (RTS),Tactical,2007,2012,1
+196,Cyprus,Simulator,Shooter,2007,2012,1
+196,Cyprus,Simulator,Tactical,2007,2012,1
+196,Cyprus,Shooter,Adventure,2012,2017,1
+196,Cyprus,Shooter,Point-and-click,2012,2017,1
+196,Cyprus,Shooter,Puzzle,2012,2017,1
+196,Cyprus,Shooter,Role-playing (RPG),2012,2017,1
+196,Cyprus,Tactical,Adventure,2012,2017,1
+196,Cyprus,Tactical,Point-and-click,2012,2017,1
+196,Cyprus,Tactical,Puzzle,2012,2017,1
+196,Cyprus,Tactical,Role-playing (RPG),2012,2017,1
+196,Cyprus,Adventure,Card & Board Game,2017,2022,1
+196,Cyprus,Point-and-click,Card & Board Game,2017,2022,1
+196,Cyprus,Puzzle,Card & Board Game,2017,2022,1
+196,Cyprus,Role-playing (RPG),Card & Board Game,2017,2022,1
+203,Czechia,Puzzle,Adventure,1987,1992,1
+203,Czechia,Adventure,Point-and-click,1992,1997,1
+203,Czechia,Adventure,Real Time Strategy (RTS),1992,1997,1
+203,Czechia,Adventure,Shooter,1992,1997,1
+203,Czechia,Adventure,Strategy,1992,1997,1
+203,Czechia,Adventure,Tactical,1992,1997,1
+203,Czechia,Point-and-click,Indie,1997,2002,1
+203,Czechia,Point-and-click,Racing,1997,2002,1
+203,Czechia,Point-and-click,Simulator,1997,2002,1
+203,Czechia,Point-and-click,Turn-based strategy (TBS),1997,2002,1
+203,Czechia,Real Time Strategy (RTS),Indie,1997,2002,1
+203,Czechia,Real Time Strategy (RTS),Racing,1997,2002,1
+203,Czechia,Real Time Strategy (RTS),Simulator,1997,2002,1
+203,Czechia,Real Time Strategy (RTS),Turn-based strategy (TBS),1997,2002,1
+203,Czechia,Shooter,Indie,1997,2002,1
+203,Czechia,Shooter,Racing,1997,2002,1
+203,Czechia,Shooter,Simulator,1997,2002,1
+203,Czechia,Shooter,Turn-based strategy (TBS),1997,2002,1
+203,Czechia,Strategy,Indie,1997,2002,1
+203,Czechia,Strategy,Racing,1997,2002,1
+203,Czechia,Strategy,Simulator,1997,2002,1
+203,Czechia,Strategy,Turn-based strategy (TBS),1997,2002,1
+203,Czechia,Tactical,Indie,1997,2002,1
+203,Czechia,Tactical,Racing,1997,2002,1
+203,Czechia,Tactical,Simulator,1997,2002,1
+203,Czechia,Tactical,Turn-based strategy (TBS),1997,2002,1
+203,Czechia,Indie,Music,2002,2017,3
+203,Czechia,Racing,Music,2002,2017,3
+203,Czechia,Simulator,Music,2002,2017,3
+203,Czechia,Turn-based strategy (TBS),Music,2002,2017,3
+208,Denmark,Point-and-click,Adventure,1992,1997,1
+208,Denmark,Point-and-click,Quiz/Trivia,1992,1997,1
+208,Denmark,Point-and-click,Shooter,1992,1997,1
+208,Denmark,Adventure,Simulator,1997,2002,1
+208,Denmark,Quiz/Trivia,Simulator,1997,2002,1
+208,Denmark,Shooter,Simulator,1997,2002,1
+208,Denmark,Simulator,Hack and slash/Beat 'em up,2002,2007,1
+208,Denmark,Simulator,Indie,2002,2007,1
+208,Denmark,Simulator,Platform,2002,2007,1
+208,Denmark,Hack and slash/Beat 'em up,Arcade,2007,2012,1
+208,Denmark,Hack and slash/Beat 'em up,Role-playing (RPG),2007,2012,1
+208,Denmark,Hack and slash/Beat 'em up,Strategy,2007,2012,1
+208,Denmark,Hack and slash/Beat 'em up,Tactical,2007,2012,1
+208,Denmark,Indie,Arcade,2007,2012,1
+208,Denmark,Indie,Role-playing (RPG),2007,2012,1
+208,Denmark,Indie,Strategy,2007,2012,1
+208,Denmark,Indie,Tactical,2007,2012,1
+208,Denmark,Platform,Arcade,2007,2012,1
+208,Denmark,Platform,Role-playing (RPG),2007,2012,1
+208,Denmark,Platform,Strategy,2007,2012,1
+208,Denmark,Platform,Tactical,2007,2012,1
+208,Denmark,Arcade,Card & Board Game,2012,2017,1
+208,Denmark,Arcade,Music,2012,2017,1
+208,Denmark,Arcade,Puzzle,2012,2017,1
+208,Denmark,Arcade,Real Time Strategy (RTS),2012,2017,1
+208,Denmark,Role-playing (RPG),Card & Board Game,2012,2017,1
+208,Denmark,Role-playing (RPG),Music,2012,2017,1
+208,Denmark,Role-playing (RPG),Puzzle,2012,2017,1
+208,Denmark,Role-playing (RPG),Real Time Strategy (RTS),2012,2017,1
+208,Denmark,Strategy,Card & Board Game,2012,2017,1
+208,Denmark,Strategy,Music,2012,2017,1
+208,Denmark,Strategy,Puzzle,2012,2017,1
+208,Denmark,Strategy,Real Time Strategy (RTS),2012,2017,1
+208,Denmark,Tactical,Card & Board Game,2012,2017,1
+208,Denmark,Tactical,Music,2012,2017,1
+208,Denmark,Tactical,Puzzle,2012,2017,1
+208,Denmark,Tactical,Real Time Strategy (RTS),2012,2017,1
+233,Estonia,Adventure,Strategy,2017,2022,1
+233,Estonia,Indie,Strategy,2017,2022,1
+233,Estonia,Point-and-click,Strategy,2017,2022,1
+233,Estonia,Puzzle,Strategy,2017,2022,1
+233,Estonia,Role-playing (RPG),Strategy,2017,2022,1
+233,Estonia,Simulator,Strategy,2017,2022,1
+233,Estonia,Visual Novel,Strategy,2017,2022,1
+246,Finland,Arcade,Indie,1992,1997,1
+246,Finland,Arcade,Shooter,1992,1997,1
+246,Finland,Arcade,Sport,1992,1997,1
+246,Finland,Indie,Puzzle,1997,2002,1
+246,Finland,Indie,Racing,1997,2002,1
+246,Finland,Indie,Turn-based strategy (TBS),1997,2002,1
+246,Finland,Shooter,Puzzle,1997,2002,1
+246,Finland,Shooter,Racing,1997,2002,1
+246,Finland,Shooter,Turn-based strategy (TBS),1997,2002,1
+246,Finland,Sport,Puzzle,1997,2002,1
+246,Finland,Sport,Racing,1997,2002,1
+246,Finland,Sport,Turn-based strategy (TBS),1997,2002,1
+246,Finland,Puzzle,Platform,2002,2007,1
+246,Finland,Puzzle,Real Time Strategy (RTS),2002,2007,1
+246,Finland,Puzzle,Strategy,2002,2007,1
+246,Finland,Racing,Platform,2002,2007,1
+246,Finland,Racing,Real Time Strategy (RTS),2002,2007,1
+246,Finland,Racing,Strategy,2002,2007,1
+246,Finland,Turn-based strategy (TBS),Platform,2002,2007,1
+246,Finland,Turn-based strategy (TBS),Real Time Strategy (RTS),2002,2007,1
+246,Finland,Turn-based strategy (TBS),Strategy,2002,2007,1
+246,Finland,Platform,Simulator,2007,2012,1
+246,Finland,Platform,Tactical,2007,2012,1
+246,Finland,Real Time Strategy (RTS),Simulator,2007,2012,1
+246,Finland,Real Time Strategy (RTS),Tactical,2007,2012,1
+246,Finland,Strategy,Simulator,2007,2012,1
+246,Finland,Strategy,Tactical,2007,2012,1
+246,Finland,Simulator,Adventure,2012,2022,2
+246,Finland,Simulator,MOBA,2012,2022,2
+246,Finland,Simulator,Point-and-click,2012,2022,2
+246,Finland,Tactical,Adventure,2012,2022,2
+246,Finland,Tactical,MOBA,2012,2022,2
+246,Finland,Tactical,Point-and-click,2012,2022,2
+250,France,Adventure,Arcade,1982,1987,1
+250,France,Adventure,Point-and-click,1982,1987,1
+250,France,Adventure,Racing,1982,1987,1
+250,France,Adventure,Simulator,1982,1987,1
+250,France,Adventure,Strategy,1982,1987,1
+250,France,Puzzle,Arcade,1982,1987,1
+250,France,Puzzle,Point-and-click,1982,1987,1
+250,France,Puzzle,Racing,1982,1987,1
+250,France,Puzzle,Simulator,1982,1987,1
+250,France,Puzzle,Strategy,1982,1987,1
+250,France,Arcade,Platform,1987,1992,1
+250,France,Point-and-click,Platform,1987,1992,1
+250,France,Racing,Platform,1987,1992,1
+250,France,Simulator,Platform,1987,1992,1
+250,France,Strategy,Platform,1987,1992,1
+250,France,Platform,Hack and slash/Beat 'em up,1992,1997,1
+250,France,Platform,Real Time Strategy (RTS),1992,1997,1
+250,France,Hack and slash/Beat 'em up,Sport,1997,2002,1
+250,France,Real Time Strategy (RTS),Sport,1997,2002,1
+250,France,Sport,Card & Board Game,2002,2007,1
+250,France,Sport,Turn-based strategy (TBS),2002,2007,1
+250,France,Card & Board Game,Music,2007,2012,1
+250,France,Card & Board Game,Quiz/Trivia,2007,2012,1
+250,France,Turn-based strategy (TBS),Music,2007,2012,1
+250,France,Turn-based strategy (TBS),Quiz/Trivia,2007,2012,1
+250,France,Music,Fighting,2012,2017,1
+250,France,Music,Tactical,2012,2017,1
+250,France,Quiz/Trivia,Fighting,2012,2017,1
+250,France,Quiz/Trivia,Tactical,2012,2017,1
+250,France,Fighting,Indie,2017,2022,1
+250,France,Fighting,MOBA,2017,2022,1
+250,France,Tactical,Indie,2017,2022,1
+250,France,Tactical,MOBA,2017,2022,1
+268,Georgia,Indie,Simulator,2017,2022,1
+268,Georgia,Shooter,Simulator,2017,2022,1
+276,Germany,Platform,Adventure,1987,1992,1
+276,Germany,Platform,Point-and-click,1987,1992,1
+276,Germany,Platform,Racing,1987,1992,1
+276,Germany,Platform,Real Time Strategy (RTS),1987,1992,1
+276,Germany,Platform,Shooter,1987,1992,1
+276,Germany,Platform,Simulator,1987,1992,1
+276,Germany,Platform,Tactical,1987,1992,1
+276,Germany,Platform,Turn-based strategy (TBS),1987,1992,1
+276,Germany,Puzzle,Adventure,1987,1992,1
+276,Germany,Puzzle,Point-and-click,1987,1992,1
+276,Germany,Puzzle,Racing,1987,1992,1
+276,Germany,Puzzle,Real Time Strategy (RTS),1987,1992,1
+276,Germany,Puzzle,Shooter,1987,1992,1
+276,Germany,Puzzle,Simulator,1987,1992,1
+276,Germany,Puzzle,Tactical,1987,1992,1
+276,Germany,Puzzle,Turn-based strategy (TBS),1987,1992,1
+276,Germany,Strategy,Adventure,1987,1992,1
+276,Germany,Strategy,Point-and-click,1987,1992,1
+276,Germany,Strategy,Racing,1987,1992,1
+276,Germany,Strategy,Real Time Strategy (RTS),1987,1992,1
+276,Germany,Strategy,Shooter,1987,1992,1
+276,Germany,Strategy,Simulator,1987,1992,1
+276,Germany,Strategy,Tactical,1987,1992,1
+276,Germany,Strategy,Turn-based strategy (TBS),1987,1992,1
+276,Germany,Adventure,Arcade,1992,1997,1
+276,Germany,Point-and-click,Arcade,1992,1997,1
+276,Germany,Racing,Arcade,1992,1997,1
+276,Germany,Real Time Strategy (RTS),Arcade,1992,1997,1
+276,Germany,Shooter,Arcade,1992,1997,1
+276,Germany,Simulator,Arcade,1992,1997,1
+276,Germany,Tactical,Arcade,1992,1997,1
+276,Germany,Turn-based strategy (TBS),Arcade,1992,1997,1
+276,Germany,Arcade,Role-playing (RPG),1997,2002,1
+276,Germany,Role-playing (RPG),Card & Board Game,2002,2007,1
+276,Germany,Role-playing (RPG),Indie,2002,2007,1
+276,Germany,Role-playing (RPG),Sport,2002,2007,1
+276,Germany,Card & Board Game,Quiz/Trivia,2007,2017,2
+276,Germany,Indie,Quiz/Trivia,2007,2017,2
+276,Germany,Sport,Quiz/Trivia,2007,2017,2
+300,Greece,Arcade,Adventure,2002,2017,3
+300,Greece,Arcade,Puzzle,2002,2017,3
+300,Greece,Arcade,Role-playing (RPG),2002,2017,3
+300,Greece,Indie,Adventure,2002,2017,3
+300,Greece,Indie,Puzzle,2002,2017,3
+300,Greece,Indie,Role-playing (RPG),2002,2017,3
+300,Greece,Shooter,Adventure,2002,2017,3
+300,Greece,Shooter,Puzzle,2002,2017,3
+300,Greece,Shooter,Role-playing (RPG),2002,2017,3
+300,Greece,Adventure,Platform,2017,2022,1
+300,Greece,Adventure,Point-and-click,2017,2022,1
+300,Greece,Adventure,Simulator,2017,2022,1
+300,Greece,Adventure,Visual Novel,2017,2022,1
+300,Greece,Puzzle,Platform,2017,2022,1
+300,Greece,Puzzle,Point-and-click,2017,2022,1
+300,Greece,Puzzle,Simulator,2017,2022,1
+300,Greece,Puzzle,Visual Novel,2017,2022,1
+300,Greece,Role-playing (RPG),Platform,2017,2022,1
+300,Greece,Role-playing (RPG),Point-and-click,2017,2022,1
+300,Greece,Role-playing (RPG),Simulator,2017,2022,1
+300,Greece,Role-playing (RPG),Visual Novel,2017,2022,1
+344,Hong Kong,Arcade,Sport,1977,1982,1
+344,Hong Kong,Sport,Adventure,1982,2002,4
+344,Hong Kong,Sport,Platform,1982,2002,4
+344,Hong Kong,Adventure,Role-playing (RPG),2002,2007,1
+344,Hong Kong,Platform,Role-playing (RPG),2002,2007,1
+344,Hong Kong,Role-playing (RPG),Indie,2007,2012,1
+344,Hong Kong,Role-playing (RPG),Puzzle,2007,2012,1
+344,Hong Kong,Role-playing (RPG),Simulator,2007,2012,1
+344,Hong Kong,Role-playing (RPG),Strategy,2007,2012,1
+344,Hong Kong,Indie,Shooter,2012,2017,1
+344,Hong Kong,Puzzle,Shooter,2012,2017,1
+344,Hong Kong,Simulator,Shooter,2012,2017,1
+344,Hong Kong,Strategy,Shooter,2012,2017,1
+344,Hong Kong,Shooter,Card & Board Game,2017,2022,1
+344,Hong Kong,Shooter,Hack and slash/Beat 'em up,2017,2022,1
+348,Hungary,Adventure,Shooter,1992,1997,1
+348,Hungary,Puzzle,Shooter,1992,1997,1
+348,Hungary,Shooter,Real Time Strategy (RTS),1997,2002,1
+348,Hungary,Shooter,Strategy,1997,2002,1
+348,Hungary,Real Time Strategy (RTS),Arcade,2002,2007,1
+348,Hungary,Real Time Strategy (RTS),Pinball,2002,2007,1
+348,Hungary,Real Time Strategy (RTS),Racing,2002,2007,1
+348,Hungary,Real Time Strategy (RTS),Role-playing (RPG),2002,2007,1
+348,Hungary,Strategy,Arcade,2002,2007,1
+348,Hungary,Strategy,Pinball,2002,2007,1
+348,Hungary,Strategy,Racing,2002,2007,1
+348,Hungary,Strategy,Role-playing (RPG),2002,2007,1
+348,Hungary,Arcade,Indie,2007,2012,1
+348,Hungary,Arcade,Simulator,2007,2012,1
+348,Hungary,Arcade,Turn-based strategy (TBS),2007,2012,1
+348,Hungary,Pinball,Indie,2007,2012,1
+348,Hungary,Pinball,Simulator,2007,2012,1
+348,Hungary,Pinball,Turn-based strategy (TBS),2007,2012,1
+348,Hungary,Racing,Indie,2007,2012,1
+348,Hungary,Racing,Simulator,2007,2012,1
+348,Hungary,Racing,Turn-based strategy (TBS),2007,2012,1
+348,Hungary,Role-playing (RPG),Indie,2007,2012,1
+348,Hungary,Role-playing (RPG),Simulator,2007,2012,1
+348,Hungary,Role-playing (RPG),Turn-based strategy (TBS),2007,2012,1
+348,Hungary,Indie,Point-and-click,2012,2017,1
+348,Hungary,Simulator,Point-and-click,2012,2017,1
+348,Hungary,Turn-based strategy (TBS),Point-and-click,2012,2017,1
+352,Iceland,Role-playing (RPG),Indie,2002,2012,2
+352,Iceland,Simulator,Indie,2002,2012,2
+352,Iceland,Strategy,Indie,2002,2012,2
+352,Iceland,Indie,Arcade,2012,2022,2
+352,Iceland,Indie,Platform,2012,2022,2
+352,Iceland,Indie,Shooter,2012,2022,2
+356,India,Adventure,Platform,2002,2007,1
+356,India,Adventure,Strategy,2002,2007,1
+356,India,Platform,Card & Board Game,2007,2012,1
+356,India,Platform,Indie,2007,2012,1
+356,India,Platform,Puzzle,2007,2012,1
+356,India,Platform,Simulator,2007,2012,1
+356,India,Platform,Sport,2007,2012,1
+356,India,Strategy,Card & Board Game,2007,2012,1
+356,India,Strategy,Indie,2007,2012,1
+356,India,Strategy,Puzzle,2007,2012,1
+356,India,Strategy,Simulator,2007,2012,1
+356,India,Strategy,Sport,2007,2012,1
+356,India,Card & Board Game,Fighting,2012,2017,1
+356,India,Indie,Fighting,2012,2017,1
+356,India,Puzzle,Fighting,2012,2017,1
+356,India,Simulator,Fighting,2012,2017,1
+356,India,Sport,Fighting,2012,2017,1
+356,India,Fighting,Shooter,2017,2022,1
+360,Indonesia,Indie,Adventure,2007,2012,1
+360,Indonesia,Indie,Role-playing (RPG),2007,2012,1
+360,Indonesia,Simulator,Adventure,2007,2012,1
+360,Indonesia,Simulator,Role-playing (RPG),2007,2012,1
+360,Indonesia,Strategy,Adventure,2007,2012,1
+360,Indonesia,Strategy,Role-playing (RPG),2007,2012,1
+360,Indonesia,Tactical,Adventure,2007,2012,1
+360,Indonesia,Tactical,Role-playing (RPG),2007,2012,1
+360,Indonesia,Adventure,Platform,2012,2017,1
+360,Indonesia,Adventure,Point-and-click,2012,2017,1
+360,Indonesia,Adventure,Visual Novel,2012,2017,1
+360,Indonesia,Role-playing (RPG),Platform,2012,2017,1
+360,Indonesia,Role-playing (RPG),Point-and-click,2012,2017,1
+360,Indonesia,Role-playing (RPG),Visual Novel,2012,2017,1
+360,Indonesia,Platform,Card & Board Game,2017,2022,1
+360,Indonesia,Platform,Hack and slash/Beat 'em up,2017,2022,1
+360,Indonesia,Platform,Puzzle,2017,2022,1
+360,Indonesia,Point-and-click,Card & Board Game,2017,2022,1
+360,Indonesia,Point-and-click,Hack and slash/Beat 'em up,2017,2022,1
+360,Indonesia,Point-and-click,Puzzle,2017,2022,1
+360,Indonesia,Visual Novel,Card & Board Game,2017,2022,1
+360,Indonesia,Visual Novel,Hack and slash/Beat 'em up,2017,2022,1
+360,Indonesia,Visual Novel,Puzzle,2017,2022,1
+364,Iran,Shooter,Adventure,2012,2017,1
+364,Iran,Shooter,Indie,2012,2017,1
+364,Iran,Shooter,Puzzle,2012,2017,1
+372,Ireland,Adventure,Indie,2007,2012,1
+372,Ireland,Adventure,Music,2007,2012,1
+372,Ireland,Adventure,Point-and-click,2007,2012,1
+372,Ireland,Adventure,Shooter,2007,2012,1
+372,Ireland,Adventure,Simulator,2007,2012,1
+372,Ireland,Puzzle,Indie,2007,2012,1
+372,Ireland,Puzzle,Music,2007,2012,1
+372,Ireland,Puzzle,Point-and-click,2007,2012,1
+372,Ireland,Puzzle,Shooter,2007,2012,1
+372,Ireland,Puzzle,Simulator,2007,2012,1
+372,Ireland,Indie,Strategy,2012,2017,1
+372,Ireland,Music,Strategy,2012,2017,1
+372,Ireland,Point-and-click,Strategy,2012,2017,1
+372,Ireland,Shooter,Strategy,2012,2017,1
+372,Ireland,Simulator,Strategy,2012,2017,1
+372,Ireland,Strategy,Tactical,2017,2022,1
+376,Israel,Point-and-click,Adventure,1992,1997,1
+376,Israel,Puzzle,Adventure,1992,1997,1
+376,Israel,Adventure,Indie,1997,2007,2
+376,Israel,Indie,Arcade,2007,2012,1
+376,Israel,Arcade,Platform,2012,2017,1
+376,Israel,Arcade,Shooter,2012,2017,1
+376,Israel,Arcade,Strategy,2012,2017,1
+376,Israel,Arcade,Turn-based strategy (TBS),2012,2017,1
+376,Israel,Platform,Role-playing (RPG),2017,2022,1
+376,Israel,Platform,Simulator,2017,2022,1
+376,Israel,Shooter,Role-playing (RPG),2017,2022,1
+376,Israel,Shooter,Simulator,2017,2022,1
+376,Israel,Strategy,Role-playing (RPG),2017,2022,1
+376,Israel,Strategy,Simulator,2017,2022,1
+376,Israel,Turn-based strategy (TBS),Role-playing (RPG),2017,2022,1
+376,Israel,Turn-based strategy (TBS),Simulator,2017,2022,1
+380,Italy,Simulator,Adventure,1987,1992,1
+380,Italy,Simulator,Arcade,1987,1992,1
+380,Italy,Sport,Adventure,1987,1992,1
+380,Italy,Sport,Arcade,1987,1992,1
+380,Italy,Adventure,Platform,1992,1997,1
+380,Italy,Adventure,Racing,1992,1997,1
+380,Italy,Arcade,Platform,1992,1997,1
+380,Italy,Arcade,Racing,1992,1997,1
+380,Italy,Platform,Indie,1997,2002,1
+380,Italy,Platform,Shooter,1997,2002,1
+380,Italy,Racing,Indie,1997,2002,1
+380,Italy,Racing,Shooter,1997,2002,1
+380,Italy,Indie,Point-and-click,2002,2017,3
+380,Italy,Indie,Puzzle,2002,2017,3
+380,Italy,Shooter,Point-and-click,2002,2017,3
+380,Italy,Shooter,Puzzle,2002,2017,3
+380,Italy,Point-and-click,Quiz/Trivia,2017,2022,1
+380,Italy,Puzzle,Quiz/Trivia,2017,2022,1
+388,Jamaica,Indie,Puzzle,2017,2022,1
+392,Japan,Arcade,Pinball,1972,1977,1
+392,Japan,Arcade,Platform,1972,1977,1
+392,Japan,Arcade,Puzzle,1972,1977,1
+392,Japan,Racing,Pinball,1972,1977,1
+392,Japan,Racing,Platform,1972,1977,1
+392,Japan,Racing,Puzzle,1972,1977,1
+392,Japan,Shooter,Pinball,1972,1977,1
+392,Japan,Shooter,Platform,1972,1977,1
+392,Japan,Shooter,Puzzle,1972,1977,1
+392,Japan,Pinball,Card & Board Game,1977,1982,1
+392,Japan,Pinball,Fighting,1977,1982,1
+392,Japan,Pinball,Hack and slash/Beat 'em up,1977,1982,1
+392,Japan,Pinball,Quiz/Trivia,1977,1982,1
+392,Japan,Pinball,Role-playing (RPG),1977,1982,1
+392,Japan,Pinball,Sport,1977,1982,1
+392,Japan,Pinball,Visual Novel,1977,1982,1
+392,Japan,Platform,Card & Board Game,1977,1982,1
+392,Japan,Platform,Fighting,1977,1982,1
+392,Japan,Platform,Hack and slash/Beat 'em up,1977,1982,1
+392,Japan,Platform,Quiz/Trivia,1977,1982,1
+392,Japan,Platform,Role-playing (RPG),1977,1982,1
+392,Japan,Platform,Sport,1977,1982,1
+392,Japan,Platform,Visual Novel,1977,1982,1
+392,Japan,Puzzle,Card & Board Game,1977,1982,1
+392,Japan,Puzzle,Fighting,1977,1982,1
+392,Japan,Puzzle,Hack and slash/Beat 'em up,1977,1982,1
+392,Japan,Puzzle,Quiz/Trivia,1977,1982,1
+392,Japan,Puzzle,Role-playing (RPG),1977,1982,1
+392,Japan,Puzzle,Sport,1977,1982,1
+392,Japan,Puzzle,Visual Novel,1977,1982,1
+392,Japan,Card & Board Game,Music,1982,1987,1
+392,Japan,Fighting,Music,1982,1987,1
+392,Japan,Hack and slash/Beat 'em up,Music,1982,1987,1
+392,Japan,Quiz/Trivia,Music,1982,1987,1
+392,Japan,Role-playing (RPG),Music,1982,1987,1
+392,Japan,Sport,Music,1982,1987,1
+392,Japan,Visual Novel,Music,1982,1987,1
+392,Japan,Music,Turn-based strategy (TBS),1987,1992,1
+392,Japan,Turn-based strategy (TBS),Tactical,1992,2007,3
+398,Kazakhstan,Adventure,Puzzle,2017,2022,1
+398,Kazakhstan,Adventure,Simulator,2017,2022,1
+398,Kazakhstan,Adventure,Sport,2017,2022,1
+398,Kazakhstan,Adventure,Strategy,2017,2022,1
+398,Kazakhstan,Arcade,Puzzle,2017,2022,1
+398,Kazakhstan,Arcade,Simulator,2017,2022,1
+398,Kazakhstan,Arcade,Sport,2017,2022,1
+398,Kazakhstan,Arcade,Strategy,2017,2022,1
+398,Kazakhstan,Indie,Puzzle,2017,2022,1
+398,Kazakhstan,Indie,Simulator,2017,2022,1
+398,Kazakhstan,Indie,Sport,2017,2022,1
+398,Kazakhstan,Indie,Strategy,2017,2022,1
+398,Kazakhstan,Platform,Puzzle,2017,2022,1
+398,Kazakhstan,Platform,Simulator,2017,2022,1
+398,Kazakhstan,Platform,Sport,2017,2022,1
+398,Kazakhstan,Platform,Strategy,2017,2022,1
+398,Kazakhstan,Shooter,Puzzle,2017,2022,1
+398,Kazakhstan,Shooter,Simulator,2017,2022,1
+398,Kazakhstan,Shooter,Sport,2017,2022,1
+398,Kazakhstan,Shooter,Strategy,2017,2022,1
+400,Jordan,Strategy,Adventure,2007,2022,3
+400,Jordan,Strategy,Indie,2007,2022,3
+408,North Korea,Arcade,Simulator,2012,2017,1
+408,North Korea,Role-playing (RPG),Simulator,2012,2017,1
+410,South Korea,Arcade,Platform,1982,1987,1
+410,South Korea,Arcade,Puzzle,1982,1987,1
+410,South Korea,Shooter,Platform,1982,1987,1
+410,South Korea,Shooter,Puzzle,1982,1987,1
+410,South Korea,Platform,Adventure,1987,1997,2
+410,South Korea,Platform,Role-playing (RPG),1987,1997,2
+410,South Korea,Platform,Sport,1987,1997,2
+410,South Korea,Platform,Strategy,1987,1997,2
+410,South Korea,Puzzle,Adventure,1987,1997,2
+410,South Korea,Puzzle,Role-playing (RPG),1987,1997,2
+410,South Korea,Puzzle,Sport,1987,1997,2
+410,South Korea,Puzzle,Strategy,1987,1997,2
+410,South Korea,Adventure,Hack and slash/Beat 'em up,1997,2002,1
+410,South Korea,Adventure,Real Time Strategy (RTS),1997,2002,1
+410,South Korea,Role-playing (RPG),Hack and slash/Beat 'em up,1997,2002,1
+410,South Korea,Role-playing (RPG),Real Time Strategy (RTS),1997,2002,1
+410,South Korea,Sport,Hack and slash/Beat 'em up,1997,2002,1
+410,South Korea,Sport,Real Time Strategy (RTS),1997,2002,1
+410,South Korea,Strategy,Hack and slash/Beat 'em up,1997,2002,1
+410,South Korea,Strategy,Real Time Strategy (RTS),1997,2002,1
+410,South Korea,Hack and slash/Beat 'em up,Music,2002,2007,1
+410,South Korea,Hack and slash/Beat 'em up,Simulator,2002,2007,1
+410,South Korea,Real Time Strategy (RTS),Music,2002,2007,1
+410,South Korea,Real Time Strategy (RTS),Simulator,2002,2007,1
+410,South Korea,Music,Card & Board Game,2007,2012,1
+410,South Korea,Music,Turn-based strategy (TBS),2007,2012,1
+410,South Korea,Simulator,Card & Board Game,2007,2012,1
+410,South Korea,Simulator,Turn-based strategy (TBS),2007,2012,1
+410,South Korea,Card & Board Game,MOBA,2012,2017,1
+410,South Korea,Card & Board Game,Tactical,2012,2017,1
+410,South Korea,Card & Board Game,Visual Novel,2012,2017,1
+410,South Korea,Turn-based strategy (TBS),MOBA,2012,2017,1
+410,South Korea,Turn-based strategy (TBS),Tactical,2012,2017,1
+410,South Korea,Turn-based strategy (TBS),Visual Novel,2012,2017,1
+428,Latvia,Platform,Adventure,2017,2022,1
+428,Latvia,Platform,Indie,2017,2022,1
+428,Latvia,Platform,Point-and-click,2017,2022,1
+428,Latvia,Platform,Puzzle,2017,2022,1
+428,Latvia,Shooter,Adventure,2017,2022,1
+428,Latvia,Shooter,Indie,2017,2022,1
+428,Latvia,Shooter,Point-and-click,2017,2022,1
+428,Latvia,Shooter,Puzzle,2017,2022,1
+428,Latvia,Strategy,Adventure,2017,2022,1
+428,Latvia,Strategy,Indie,2017,2022,1
+428,Latvia,Strategy,Point-and-click,2017,2022,1
+428,Latvia,Strategy,Puzzle,2017,2022,1
+440,Lithuania,Simulator,Adventure,2007,2012,1
+440,Lithuania,Sport,Adventure,2007,2012,1
+440,Lithuania,Strategy,Adventure,2007,2012,1
+440,Lithuania,Adventure,Arcade,2012,2017,1
+440,Lithuania,Adventure,Indie,2012,2017,1
+440,Lithuania,Adventure,Puzzle,2012,2017,1
+440,Lithuania,Adventure,Racing,2012,2017,1
+440,Lithuania,Arcade,Role-playing (RPG),2017,2022,1
+440,Lithuania,Arcade,Shooter,2017,2022,1
+440,Lithuania,Arcade,Tactical,2017,2022,1
+440,Lithuania,Indie,Role-playing (RPG),2017,2022,1
+440,Lithuania,Indie,Shooter,2017,2022,1
+440,Lithuania,Indie,Tactical,2017,2022,1
+440,Lithuania,Puzzle,Role-playing (RPG),2017,2022,1
+440,Lithuania,Puzzle,Shooter,2017,2022,1
+440,Lithuania,Puzzle,Tactical,2017,2022,1
+440,Lithuania,Racing,Role-playing (RPG),2017,2022,1
+440,Lithuania,Racing,Shooter,2017,2022,1
+440,Lithuania,Racing,Tactical,2017,2022,1
+442,Luxembourg,Strategy,Arcade,2012,2022,2
+442,Luxembourg,Strategy,Indie,2012,2022,2
+442,Luxembourg,Strategy,Platform,2012,2022,2
+442,Luxembourg,Strategy,Puzzle,2012,2022,2
+442,Luxembourg,Turn-based strategy (TBS),Arcade,2012,2022,2
+442,Luxembourg,Turn-based strategy (TBS),Indie,2012,2022,2
+442,Luxembourg,Turn-based strategy (TBS),Platform,2012,2022,2
+442,Luxembourg,Turn-based strategy (TBS),Puzzle,2012,2022,2
+458,Malaysia,Adventure,Simulator,2012,2017,1
+458,Malaysia,Adventure,Visual Novel,2012,2017,1
+458,Malaysia,Indie,Simulator,2012,2017,1
+458,Malaysia,Indie,Visual Novel,2012,2017,1
+458,Malaysia,Role-playing (RPG),Simulator,2012,2017,1
+458,Malaysia,Role-playing (RPG),Visual Novel,2012,2017,1
+458,Malaysia,Strategy,Simulator,2012,2017,1
+458,Malaysia,Strategy,Visual Novel,2012,2017,1
+458,Malaysia,Simulator,Arcade,2017,2022,1
+458,Malaysia,Simulator,Fighting,2017,2022,1
+458,Malaysia,Simulator,Puzzle,2017,2022,1
+458,Malaysia,Visual Novel,Arcade,2017,2022,1
+458,Malaysia,Visual Novel,Fighting,2017,2022,1
+458,Malaysia,Visual Novel,Puzzle,2017,2022,1
+484,Mexico,Arcade,Shooter,2012,2017,1
+484,Mexico,Arcade,Simulator,2012,2017,1
+484,Mexico,Arcade,Sport,2012,2017,1
+484,Mexico,Card & Board Game,Shooter,2012,2017,1
+484,Mexico,Card & Board Game,Simulator,2012,2017,1
+484,Mexico,Card & Board Game,Sport,2012,2017,1
+484,Mexico,Indie,Shooter,2012,2017,1
+484,Mexico,Indie,Simulator,2012,2017,1
+484,Mexico,Indie,Sport,2012,2017,1
+484,Mexico,Platform,Shooter,2012,2017,1
+484,Mexico,Platform,Simulator,2012,2017,1
+484,Mexico,Platform,Sport,2012,2017,1
+484,Mexico,Puzzle,Shooter,2012,2017,1
+484,Mexico,Puzzle,Simulator,2012,2017,1
+484,Mexico,Puzzle,Sport,2012,2017,1
+484,Mexico,Strategy,Shooter,2012,2017,1
+484,Mexico,Strategy,Simulator,2012,2017,1
+484,Mexico,Strategy,Sport,2012,2017,1
+484,Mexico,Shooter,Adventure,2017,2022,1
+484,Mexico,Shooter,Music,2017,2022,1
+484,Mexico,Shooter,Racing,2017,2022,1
+484,Mexico,Simulator,Adventure,2017,2022,1
+484,Mexico,Simulator,Music,2017,2022,1
+484,Mexico,Simulator,Racing,2017,2022,1
+484,Mexico,Sport,Adventure,2017,2022,1
+484,Mexico,Sport,Music,2017,2022,1
+484,Mexico,Sport,Racing,2017,2022,1
+498,Moldova,Adventure,Indie,2007,2017,2
+498,Moldova,Point-and-click,Indie,2007,2017,2
+498,Moldova,Puzzle,Indie,2007,2017,2
+498,Moldova,Indie,Racing,2017,2022,1
+498,Moldova,Indie,Simulator,2017,2022,1
+504,Morocco,Adventure,Arcade,2007,2022,3
+504,Morocco,Platform,Arcade,2007,2022,3
+528,Netherlands,Adventure,Card & Board Game,1987,1992,1
+528,Netherlands,Adventure,Platform,1987,1992,1
+528,Netherlands,Adventure,Puzzle,1987,1992,1
+528,Netherlands,Adventure,Strategy,1987,1992,1
+528,Netherlands,Role-playing (RPG),Card & Board Game,1987,1992,1
+528,Netherlands,Role-playing (RPG),Platform,1987,1992,1
+528,Netherlands,Role-playing (RPG),Puzzle,1987,1992,1
+528,Netherlands,Role-playing (RPG),Strategy,1987,1992,1
+528,Netherlands,Card & Board Game,Arcade,1992,1997,1
+528,Netherlands,Card & Board Game,Racing,1992,1997,1
+528,Netherlands,Card & Board Game,Shooter,1992,1997,1
+528,Netherlands,Card & Board Game,Sport,1992,1997,1
+528,Netherlands,Platform,Arcade,1992,1997,1
+528,Netherlands,Platform,Racing,1992,1997,1
+528,Netherlands,Platform,Shooter,1992,1997,1
+528,Netherlands,Platform,Sport,1992,1997,1
+528,Netherlands,Puzzle,Arcade,1992,1997,1
+528,Netherlands,Puzzle,Racing,1992,1997,1
+528,Netherlands,Puzzle,Shooter,1992,1997,1
+528,Netherlands,Puzzle,Sport,1992,1997,1
+528,Netherlands,Strategy,Arcade,1992,1997,1
+528,Netherlands,Strategy,Racing,1992,1997,1
+528,Netherlands,Strategy,Shooter,1992,1997,1
+528,Netherlands,Strategy,Sport,1992,1997,1
+528,Netherlands,Arcade,Simulator,1997,2002,1
+528,Netherlands,Racing,Simulator,1997,2002,1
+528,Netherlands,Shooter,Simulator,1997,2002,1
+528,Netherlands,Sport,Simulator,1997,2002,1
+528,Netherlands,Simulator,Hack and slash/Beat 'em up,2002,2007,1
+528,Netherlands,Simulator,Indie,2002,2007,1
+528,Netherlands,Simulator,Point-and-click,2002,2007,1
+528,Netherlands,Hack and slash/Beat 'em up,MOBA,2007,2012,1
+528,Netherlands,Hack and slash/Beat 'em up,Real Time Strategy (RTS),2007,2012,1
+528,Netherlands,Hack and slash/Beat 'em up,Turn-based strategy (TBS),2007,2012,1
+528,Netherlands,Indie,MOBA,2007,2012,1
+528,Netherlands,Indie,Real Time Strategy (RTS),2007,2012,1
+528,Netherlands,Indie,Turn-based strategy (TBS),2007,2012,1
+528,Netherlands,Point-and-click,MOBA,2007,2012,1
+528,Netherlands,Point-and-click,Real Time Strategy (RTS),2007,2012,1
+528,Netherlands,Point-and-click,Turn-based strategy (TBS),2007,2012,1
+528,Netherlands,MOBA,Tactical,2012,2022,2
+528,Netherlands,Real Time Strategy (RTS),Tactical,2012,2022,2
+528,Netherlands,Turn-based strategy (TBS),Tactical,2012,2022,2
+554,New Zealand,Arcade,Indie,2002,2007,1
+554,New Zealand,Arcade,Puzzle,2002,2007,1
+554,New Zealand,Arcade,Strategy,2002,2007,1
+554,New Zealand,Arcade,Tactical,2002,2007,1
+554,New Zealand,Racing,Indie,2002,2007,1
+554,New Zealand,Racing,Puzzle,2002,2007,1
+554,New Zealand,Racing,Strategy,2002,2007,1
+554,New Zealand,Racing,Tactical,2002,2007,1
+554,New Zealand,Sport,Indie,2002,2007,1
+554,New Zealand,Sport,Puzzle,2002,2007,1
+554,New Zealand,Sport,Strategy,2002,2007,1
+554,New Zealand,Sport,Tactical,2002,2007,1
+554,New Zealand,Indie,Simulator,2007,2012,1
+554,New Zealand,Puzzle,Simulator,2007,2012,1
+554,New Zealand,Strategy,Simulator,2007,2012,1
+554,New Zealand,Tactical,Simulator,2007,2012,1
+554,New Zealand,Simulator,Hack and slash/Beat 'em up,2012,2017,1
+554,New Zealand,Simulator,Real Time Strategy (RTS),2012,2017,1
+554,New Zealand,Simulator,Shooter,2012,2017,1
+554,New Zealand,Hack and slash/Beat 'em up,Adventure,2017,2022,1
+554,New Zealand,Hack and slash/Beat 'em up,Card & Board Game,2017,2022,1
+554,New Zealand,Hack and slash/Beat 'em up,Role-playing (RPG),2017,2022,1
+554,New Zealand,Real Time Strategy (RTS),Adventure,2017,2022,1
+554,New Zealand,Real Time Strategy (RTS),Card & Board Game,2017,2022,1
+554,New Zealand,Real Time Strategy (RTS),Role-playing (RPG),2017,2022,1
+554,New Zealand,Shooter,Adventure,2017,2022,1
+554,New Zealand,Shooter,Card & Board Game,2017,2022,1
+554,New Zealand,Shooter,Role-playing (RPG),2017,2022,1
+558,Nicaragua,Indie,Adventure,2017,2022,1
+578,Norway,Platform,Adventure,1992,1997,1
+578,Norway,Platform,Point-and-click,1992,1997,1
+578,Norway,Platform,Puzzle,1992,1997,1
+578,Norway,Platform,Racing,1992,1997,1
+578,Norway,Platform,Sport,1992,1997,1
+578,Norway,Adventure,Role-playing (RPG),1997,2002,1
+578,Norway,Point-and-click,Role-playing (RPG),1997,2002,1
+578,Norway,Puzzle,Role-playing (RPG),1997,2002,1
+578,Norway,Racing,Role-playing (RPG),1997,2002,1
+578,Norway,Sport,Role-playing (RPG),1997,2002,1
+578,Norway,Role-playing (RPG),Arcade,2002,2012,2
+578,Norway,Role-playing (RPG),Indie,2002,2012,2
+578,Norway,Arcade,Fighting,2012,2017,1
+578,Norway,Arcade,Strategy,2012,2017,1
+578,Norway,Indie,Fighting,2012,2017,1
+578,Norway,Indie,Strategy,2012,2017,1
+578,Norway,Fighting,Music,2017,2022,1
+578,Norway,Strategy,Music,2017,2022,1
+604,Peru,Adventure,Arcade,2017,2022,1
+604,Peru,Adventure,Racing,2017,2022,1
+604,Peru,Adventure,Shooter,2017,2022,1
+604,Peru,Adventure,Sport,2017,2022,1
+604,Peru,Indie,Arcade,2017,2022,1
+604,Peru,Indie,Racing,2017,2022,1
+604,Peru,Indie,Shooter,2017,2022,1
+604,Peru,Indie,Sport,2017,2022,1
+604,Peru,Point-and-click,Arcade,2017,2022,1
+604,Peru,Point-and-click,Racing,2017,2022,1
+604,Peru,Point-and-click,Shooter,2017,2022,1
+604,Peru,Point-and-click,Sport,2017,2022,1
+604,Peru,Puzzle,Arcade,2017,2022,1
+604,Peru,Puzzle,Racing,2017,2022,1
+604,Peru,Puzzle,Shooter,2017,2022,1
+604,Peru,Puzzle,Sport,2017,2022,1
+608,Philippines,Indie,Simulator,2007,2012,1
+608,Philippines,Indie,Strategy,2007,2012,1
+608,Philippines,Indie,Visual Novel,2007,2012,1
+608,Philippines,Puzzle,Simulator,2007,2012,1
+608,Philippines,Puzzle,Strategy,2007,2012,1
+608,Philippines,Puzzle,Visual Novel,2007,2012,1
+608,Philippines,Simulator,Adventure,2012,2017,1
+608,Philippines,Simulator,Arcade,2012,2017,1
+608,Philippines,Simulator,Role-playing (RPG),2012,2017,1
+608,Philippines,Simulator,Shooter,2012,2017,1
+608,Philippines,Strategy,Adventure,2012,2017,1
+608,Philippines,Strategy,Arcade,2012,2017,1
+608,Philippines,Strategy,Role-playing (RPG),2012,2017,1
+608,Philippines,Strategy,Shooter,2012,2017,1
+608,Philippines,Visual Novel,Adventure,2012,2017,1
+608,Philippines,Visual Novel,Arcade,2012,2017,1
+608,Philippines,Visual Novel,Role-playing (RPG),2012,2017,1
+608,Philippines,Visual Novel,Shooter,2012,2017,1
+616,Poland,Adventure,Puzzle,1992,1997,1
+616,Poland,Adventure,Racing,1992,1997,1
+616,Poland,Adventure,Real Time Strategy (RTS),1992,1997,1
+616,Poland,Adventure,Simulator,1992,1997,1
+616,Poland,Adventure,Strategy,1992,1997,1
+616,Poland,Point-and-click,Puzzle,1992,1997,1
+616,Poland,Point-and-click,Racing,1992,1997,1
+616,Poland,Point-and-click,Real Time Strategy (RTS),1992,1997,1
+616,Poland,Point-and-click,Simulator,1992,1997,1
+616,Poland,Point-and-click,Strategy,1992,1997,1
+616,Poland,Shooter,Puzzle,1992,1997,1
+616,Poland,Shooter,Racing,1992,1997,1
+616,Poland,Shooter,Real Time Strategy (RTS),1992,1997,1
+616,Poland,Shooter,Simulator,1992,1997,1
+616,Poland,Shooter,Strategy,1992,1997,1
+616,Poland,Puzzle,Arcade,1997,2002,1
+616,Poland,Puzzle,Indie,1997,2002,1
+616,Poland,Puzzle,Platform,1997,2002,1
+616,Poland,Puzzle,Quiz/Trivia,1997,2002,1
+616,Poland,Racing,Arcade,1997,2002,1
+616,Poland,Racing,Indie,1997,2002,1
+616,Poland,Racing,Platform,1997,2002,1
+616,Poland,Racing,Quiz/Trivia,1997,2002,1
+616,Poland,Real Time Strategy (RTS),Arcade,1997,2002,1
+616,Poland,Real Time Strategy (RTS),Indie,1997,2002,1
+616,Poland,Real Time Strategy (RTS),Platform,1997,2002,1
+616,Poland,Real Time Strategy (RTS),Quiz/Trivia,1997,2002,1
+616,Poland,Simulator,Arcade,1997,2002,1
+616,Poland,Simulator,Indie,1997,2002,1
+616,Poland,Simulator,Platform,1997,2002,1
+616,Poland,Simulator,Quiz/Trivia,1997,2002,1
+616,Poland,Strategy,Arcade,1997,2002,1
+616,Poland,Strategy,Indie,1997,2002,1
+616,Poland,Strategy,Platform,1997,2002,1
+616,Poland,Strategy,Quiz/Trivia,1997,2002,1
+616,Poland,Arcade,Tactical,2002,2012,2
+616,Poland,Indie,Tactical,2002,2012,2
+616,Poland,Platform,Tactical,2002,2012,2
+616,Poland,Quiz/Trivia,Tactical,2002,2012,2
+616,Poland,Tactical,Card & Board Game,2012,2017,1
+616,Poland,Card & Board Game,Sport,2017,2022,1
+616,Poland,Card & Board Game,Turn-based strategy (TBS),2017,2022,1
+620,Portugal,Adventure,Arcade,2012,2017,1
+620,Portugal,Adventure,Music,2012,2017,1
+620,Portugal,Adventure,Point-and-click,2012,2017,1
+620,Portugal,Adventure,Racing,2012,2017,1
+620,Portugal,Adventure,Simulator,2012,2017,1
+620,Portugal,Indie,Arcade,2012,2017,1
+620,Portugal,Indie,Music,2012,2017,1
+620,Portugal,Indie,Point-and-click,2012,2017,1
+620,Portugal,Indie,Racing,2012,2017,1
+620,Portugal,Indie,Simulator,2012,2017,1
+620,Portugal,Platform,Arcade,2012,2017,1
+620,Portugal,Platform,Music,2012,2017,1
+620,Portugal,Platform,Point-and-click,2012,2017,1
+620,Portugal,Platform,Racing,2012,2017,1
+620,Portugal,Platform,Simulator,2012,2017,1
+620,Portugal,Puzzle,Arcade,2012,2017,1
+620,Portugal,Puzzle,Music,2012,2017,1
+620,Portugal,Puzzle,Point-and-click,2012,2017,1
+620,Portugal,Puzzle,Racing,2012,2017,1
+620,Portugal,Puzzle,Simulator,2012,2017,1
+620,Portugal,Role-playing (RPG),Arcade,2012,2017,1
+620,Portugal,Role-playing (RPG),Music,2012,2017,1
+620,Portugal,Role-playing (RPG),Point-and-click,2012,2017,1
+620,Portugal,Role-playing (RPG),Racing,2012,2017,1
+620,Portugal,Role-playing (RPG),Simulator,2012,2017,1
+620,Portugal,Arcade,Strategy,2017,2022,1
+620,Portugal,Music,Strategy,2017,2022,1
+620,Portugal,Point-and-click,Strategy,2017,2022,1
+620,Portugal,Racing,Strategy,2017,2022,1
+620,Portugal,Simulator,Strategy,2017,2022,1
+642,Romania,Shooter,Strategy,2002,2007,1
+642,Romania,Simulator,Strategy,2002,2007,1
+642,Romania,Sport,Strategy,2002,2007,1
+642,Romania,Strategy,Indie,2007,2012,1
+642,Romania,Indie,Platform,2012,2017,1
+642,Romania,Indie,Point-and-click,2012,2017,1
+642,Romania,Indie,Puzzle,2012,2017,1
+642,Romania,Platform,Role-playing (RPG),2017,2022,1
+642,Romania,Platform,Tactical,2017,2022,1
+642,Romania,Point-and-click,Role-playing (RPG),2017,2022,1
+642,Romania,Point-and-click,Tactical,2017,2022,1
+642,Romania,Puzzle,Role-playing (RPG),2017,2022,1
+642,Romania,Puzzle,Tactical,2017,2022,1
+643,Russia,Puzzle,Adventure,1992,1997,1
+643,Russia,Puzzle,Point-and-click,1992,1997,1
+643,Russia,Puzzle,Racing,1992,1997,1
+643,Russia,Puzzle,Real Time Strategy (RTS),1992,1997,1
+643,Russia,Puzzle,Role-playing (RPG),1992,1997,1
+643,Russia,Puzzle,Shooter,1992,1997,1
+643,Russia,Puzzle,Simulator,1992,1997,1
+643,Russia,Puzzle,Strategy,1992,1997,1
+643,Russia,Adventure,Arcade,1997,2002,1
+643,Russia,Adventure,Quiz/Trivia,1997,2002,1
+643,Russia,Adventure,Tactical,1997,2002,1
+643,Russia,Adventure,Turn-based strategy (TBS),1997,2002,1
+643,Russia,Point-and-click,Arcade,1997,2002,1
+643,Russia,Point-and-click,Quiz/Trivia,1997,2002,1
+643,Russia,Point-and-click,Tactical,1997,2002,1
+643,Russia,Point-and-click,Turn-based strategy (TBS),1997,2002,1
+643,Russia,Racing,Arcade,1997,2002,1
+643,Russia,Racing,Quiz/Trivia,1997,2002,1
+643,Russia,Racing,Tactical,1997,2002,1
+643,Russia,Racing,Turn-based strategy (TBS),1997,2002,1
+643,Russia,Real Time Strategy (RTS),Arcade,1997,2002,1
+643,Russia,Real Time Strategy (RTS),Quiz/Trivia,1997,2002,1
+643,Russia,Real Time Strategy (RTS),Tactical,1997,2002,1
+643,Russia,Real Time Strategy (RTS),Turn-based strategy (TBS),1997,2002,1
+643,Russia,Role-playing (RPG),Arcade,1997,2002,1
+643,Russia,Role-playing (RPG),Quiz/Trivia,1997,2002,1
+643,Russia,Role-playing (RPG),Tactical,1997,2002,1
+643,Russia,Role-playing (RPG),Turn-based strategy (TBS),1997,2002,1
+643,Russia,Shooter,Arcade,1997,2002,1
+643,Russia,Shooter,Quiz/Trivia,1997,2002,1
+643,Russia,Shooter,Tactical,1997,2002,1
+643,Russia,Shooter,Turn-based strategy (TBS),1997,2002,1
+643,Russia,Simulator,Arcade,1997,2002,1
+643,Russia,Simulator,Quiz/Trivia,1997,2002,1
+643,Russia,Simulator,Tactical,1997,2002,1
+643,Russia,Simulator,Turn-based strategy (TBS),1997,2002,1
+643,Russia,Strategy,Arcade,1997,2002,1
+643,Russia,Strategy,Quiz/Trivia,1997,2002,1
+643,Russia,Strategy,Tactical,1997,2002,1
+643,Russia,Strategy,Turn-based strategy (TBS),1997,2002,1
+643,Russia,Arcade,Card & Board Game,2002,2012,2
+643,Russia,Arcade,Indie,2002,2012,2
+643,Russia,Quiz/Trivia,Card & Board Game,2002,2012,2
+643,Russia,Quiz/Trivia,Indie,2002,2012,2
+643,Russia,Tactical,Card & Board Game,2002,2012,2
+643,Russia,Tactical,Indie,2002,2012,2
+643,Russia,Turn-based strategy (TBS),Card & Board Game,2002,2012,2
+643,Russia,Turn-based strategy (TBS),Indie,2002,2012,2
+643,Russia,Card & Board Game,Music,2012,2017,1
+643,Russia,Indie,Music,2012,2017,1
+643,Russia,Music,Platform,2017,2022,1
+688,Serbia,Adventure,Indie,2007,2012,1
+688,Serbia,Adventure,Shooter,2007,2012,1
+688,Serbia,Point-and-click,Indie,2007,2012,1
+688,Serbia,Point-and-click,Shooter,2007,2012,1
+688,Serbia,Puzzle,Indie,2007,2012,1
+688,Serbia,Puzzle,Shooter,2007,2012,1
+688,Serbia,Indie,Arcade,2012,2022,2
+688,Serbia,Indie,Platform,2012,2022,2
+688,Serbia,Indie,Role-playing (RPG),2012,2022,2
+688,Serbia,Indie,Strategy,2012,2022,2
+688,Serbia,Shooter,Arcade,2012,2022,2
+688,Serbia,Shooter,Platform,2012,2022,2
+688,Serbia,Shooter,Role-playing (RPG),2012,2022,2
+688,Serbia,Shooter,Strategy,2012,2022,2
+702,Singapore,Racing,Adventure,2002,2007,1
+702,Singapore,Racing,Arcade,2002,2007,1
+702,Singapore,Racing,Fighting,2002,2007,1
+702,Singapore,Racing,Indie,2002,2007,1
+702,Singapore,Racing,Platform,2002,2007,1
+702,Singapore,Adventure,Hack and slash/Beat 'em up,2007,2012,1
+702,Singapore,Adventure,Role-playing (RPG),2007,2012,1
+702,Singapore,Adventure,Strategy,2007,2012,1
+702,Singapore,Arcade,Hack and slash/Beat 'em up,2007,2012,1
+702,Singapore,Arcade,Role-playing (RPG),2007,2012,1
+702,Singapore,Arcade,Strategy,2007,2012,1
+702,Singapore,Fighting,Hack and slash/Beat 'em up,2007,2012,1
+702,Singapore,Fighting,Role-playing (RPG),2007,2012,1
+702,Singapore,Fighting,Strategy,2007,2012,1
+702,Singapore,Indie,Hack and slash/Beat 'em up,2007,2012,1
+702,Singapore,Indie,Role-playing (RPG),2007,2012,1
+702,Singapore,Indie,Strategy,2007,2012,1
+702,Singapore,Platform,Hack and slash/Beat 'em up,2007,2012,1
+702,Singapore,Platform,Role-playing (RPG),2007,2012,1
+702,Singapore,Platform,Strategy,2007,2012,1
+702,Singapore,Hack and slash/Beat 'em up,Simulator,2012,2017,1
+702,Singapore,Role-playing (RPG),Simulator,2012,2017,1
+702,Singapore,Strategy,Simulator,2012,2017,1
+702,Singapore,Simulator,Tactical,2017,2022,1
+702,Singapore,Simulator,Turn-based strategy (TBS),2017,2022,1
+703,Slovakia,Shooter,Simulator,2002,2007,1
+703,Slovakia,Shooter,Sport,2002,2007,1
+703,Slovakia,Simulator,Arcade,2007,2012,1
+703,Slovakia,Simulator,Indie,2007,2012,1
+703,Slovakia,Simulator,Puzzle,2007,2012,1
+703,Slovakia,Simulator,Strategy,2007,2012,1
+703,Slovakia,Sport,Arcade,2007,2012,1
+703,Slovakia,Sport,Indie,2007,2012,1
+703,Slovakia,Sport,Puzzle,2007,2012,1
+703,Slovakia,Sport,Strategy,2007,2012,1
+703,Slovakia,Arcade,Hack and slash/Beat 'em up,2012,2017,1
+703,Slovakia,Arcade,Role-playing (RPG),2012,2017,1
+703,Slovakia,Indie,Hack and slash/Beat 'em up,2012,2017,1
+703,Slovakia,Indie,Role-playing (RPG),2012,2017,1
+703,Slovakia,Puzzle,Hack and slash/Beat 'em up,2012,2017,1
+703,Slovakia,Puzzle,Role-playing (RPG),2012,2017,1
+703,Slovakia,Strategy,Hack and slash/Beat 'em up,2012,2017,1
+703,Slovakia,Strategy,Role-playing (RPG),2012,2017,1
+703,Slovakia,Hack and slash/Beat 'em up,Adventure,2017,2022,1
+703,Slovakia,Hack and slash/Beat 'em up,Quiz/Trivia,2017,2022,1
+703,Slovakia,Role-playing (RPG),Adventure,2017,2022,1
+703,Slovakia,Role-playing (RPG),Quiz/Trivia,2017,2022,1
+704,Vietnam,Indie,Card & Board Game,2017,2022,1
+704,Vietnam,Indie,Puzzle,2017,2022,1
+704,Vietnam,Indie,Strategy,2017,2022,1
+704,Vietnam,Platform,Card & Board Game,2017,2022,1
+704,Vietnam,Platform,Puzzle,2017,2022,1
+704,Vietnam,Platform,Strategy,2017,2022,1
+704,Vietnam,Role-playing (RPG),Card & Board Game,2017,2022,1
+704,Vietnam,Role-playing (RPG),Puzzle,2017,2022,1
+704,Vietnam,Role-playing (RPG),Strategy,2017,2022,1
+704,Vietnam,Simulator,Card & Board Game,2017,2022,1
+704,Vietnam,Simulator,Puzzle,2017,2022,1
+704,Vietnam,Simulator,Strategy,2017,2022,1
+705,Slovenia,Simulator,Indie,2007,2012,1
+705,Slovenia,Simulator,Puzzle,2007,2012,1
+705,Slovenia,Indie,Adventure,2012,2017,1
+705,Slovenia,Indie,Platform,2012,2017,1
+705,Slovenia,Puzzle,Adventure,2012,2017,1
+705,Slovenia,Puzzle,Platform,2012,2017,1
+710,South Africa,Adventure,Arcade,2012,2017,1
+710,South Africa,Adventure,Simulator,2012,2017,1
+710,South Africa,Adventure,Sport,2012,2017,1
+710,South Africa,Adventure,Strategy,2012,2017,1
+710,South Africa,Indie,Arcade,2012,2017,1
+710,South Africa,Indie,Simulator,2012,2017,1
+710,South Africa,Indie,Sport,2012,2017,1
+710,South Africa,Indie,Strategy,2012,2017,1
+710,South Africa,Platform,Arcade,2012,2017,1
+710,South Africa,Platform,Simulator,2012,2017,1
+710,South Africa,Platform,Sport,2012,2017,1
+710,South Africa,Platform,Strategy,2012,2017,1
+710,South Africa,Shooter,Arcade,2012,2017,1
+710,South Africa,Shooter,Simulator,2012,2017,1
+710,South Africa,Shooter,Sport,2012,2017,1
+710,South Africa,Shooter,Strategy,2012,2017,1
+710,South Africa,Arcade,Hack and slash/Beat 'em up,2017,2022,1
+710,South Africa,Arcade,Point-and-click,2017,2022,1
+710,South Africa,Arcade,Puzzle,2017,2022,1
+710,South Africa,Simulator,Hack and slash/Beat 'em up,2017,2022,1
+710,South Africa,Simulator,Point-and-click,2017,2022,1
+710,South Africa,Simulator,Puzzle,2017,2022,1
+710,South Africa,Sport,Hack and slash/Beat 'em up,2017,2022,1
+710,South Africa,Sport,Point-and-click,2017,2022,1
+710,South Africa,Sport,Puzzle,2017,2022,1
+710,South Africa,Strategy,Hack and slash/Beat 'em up,2017,2022,1
+710,South Africa,Strategy,Point-and-click,2017,2022,1
+710,South Africa,Strategy,Puzzle,2017,2022,1
+724,Spain,Adventure,Arcade,1982,1987,1
+724,Spain,Adventure,Pinball,1982,1987,1
+724,Spain,Adventure,Racing,1982,1987,1
+724,Spain,Adventure,Shooter,1982,1987,1
+724,Spain,Adventure,Sport,1982,1987,1
+724,Spain,Platform,Arcade,1982,1987,1
+724,Spain,Platform,Pinball,1982,1987,1
+724,Spain,Platform,Racing,1982,1987,1
+724,Spain,Platform,Shooter,1982,1987,1
+724,Spain,Platform,Sport,1982,1987,1
+724,Spain,Arcade,Point-and-click,1987,1992,1
+724,Spain,Arcade,Simulator,1987,1992,1
+724,Spain,Pinball,Point-and-click,1987,1992,1
+724,Spain,Pinball,Simulator,1987,1992,1
+724,Spain,Racing,Point-and-click,1987,1992,1
+724,Spain,Racing,Simulator,1987,1992,1
+724,Spain,Shooter,Point-and-click,1987,1992,1
+724,Spain,Shooter,Simulator,1987,1992,1
+724,Spain,Sport,Point-and-click,1987,1992,1
+724,Spain,Sport,Simulator,1987,1992,1
+724,Spain,Point-and-click,Puzzle,1992,1997,1
+724,Spain,Simulator,Puzzle,1992,1997,1
+724,Spain,Puzzle,Strategy,1997,2002,1
+724,Spain,Strategy,Hack and slash/Beat 'em up,2002,2007,1
+724,Spain,Hack and slash/Beat 'em up,Indie,2007,2012,1
+724,Spain,Indie,Card & Board Game,2012,2017,1
+752,Sweden,Arcade,Adventure,1992,1997,1
+752,Sweden,Arcade,Indie,1992,1997,1
+752,Sweden,Arcade,Point-and-click,1992,1997,1
+752,Sweden,Arcade,Quiz/Trivia,1992,1997,1
+752,Sweden,Arcade,Racing,1992,1997,1
+752,Sweden,Arcade,Turn-based strategy (TBS),1992,1997,1
+752,Sweden,Pinball,Adventure,1992,1997,1
+752,Sweden,Pinball,Indie,1992,1997,1
+752,Sweden,Pinball,Point-and-click,1992,1997,1
+752,Sweden,Pinball,Quiz/Trivia,1992,1997,1
+752,Sweden,Pinball,Racing,1992,1997,1
+752,Sweden,Pinball,Turn-based strategy (TBS),1992,1997,1
+752,Sweden,Puzzle,Adventure,1992,1997,1
+752,Sweden,Puzzle,Indie,1992,1997,1
+752,Sweden,Puzzle,Point-and-click,1992,1997,1
+752,Sweden,Puzzle,Quiz/Trivia,1992,1997,1
+752,Sweden,Puzzle,Racing,1992,1997,1
+752,Sweden,Puzzle,Turn-based strategy (TBS),1992,1997,1
+752,Sweden,Simulator,Adventure,1992,1997,1
+752,Sweden,Simulator,Indie,1992,1997,1
+752,Sweden,Simulator,Point-and-click,1992,1997,1
+752,Sweden,Simulator,Quiz/Trivia,1992,1997,1
+752,Sweden,Simulator,Racing,1992,1997,1
+752,Sweden,Simulator,Turn-based strategy (TBS),1992,1997,1
+752,Sweden,Adventure,Platform,1997,2002,1
+752,Sweden,Adventure,Real Time Strategy (RTS),1997,2002,1
+752,Sweden,Adventure,Shooter,1997,2002,1
+752,Sweden,Adventure,Strategy,1997,2002,1
+752,Sweden,Indie,Platform,1997,2002,1
+752,Sweden,Indie,Real Time Strategy (RTS),1997,2002,1
+752,Sweden,Indie,Shooter,1997,2002,1
+752,Sweden,Indie,Strategy,1997,2002,1
+752,Sweden,Point-and-click,Platform,1997,2002,1
+752,Sweden,Point-and-click,Real Time Strategy (RTS),1997,2002,1
+752,Sweden,Point-and-click,Shooter,1997,2002,1
+752,Sweden,Point-and-click,Strategy,1997,2002,1
+752,Sweden,Quiz/Trivia,Platform,1997,2002,1
+752,Sweden,Quiz/Trivia,Real Time Strategy (RTS),1997,2002,1
+752,Sweden,Quiz/Trivia,Shooter,1997,2002,1
+752,Sweden,Quiz/Trivia,Strategy,1997,2002,1
+752,Sweden,Racing,Platform,1997,2002,1
+752,Sweden,Racing,Real Time Strategy (RTS),1997,2002,1
+752,Sweden,Racing,Shooter,1997,2002,1
+752,Sweden,Racing,Strategy,1997,2002,1
+752,Sweden,Turn-based strategy (TBS),Platform,1997,2002,1
+752,Sweden,Turn-based strategy (TBS),Real Time Strategy (RTS),1997,2002,1
+752,Sweden,Turn-based strategy (TBS),Shooter,1997,2002,1
+752,Sweden,Turn-based strategy (TBS),Strategy,1997,2002,1
+752,Sweden,Platform,Tactical,2002,2007,1
+752,Sweden,Real Time Strategy (RTS),Tactical,2002,2007,1
+752,Sweden,Shooter,Tactical,2002,2007,1
+752,Sweden,Strategy,Tactical,2002,2007,1
+752,Sweden,Tactical,MOBA,2007,2012,1
+752,Sweden,MOBA,Sport,2012,2017,1
+756,Switzerland,Arcade,Simulator,2002,2007,1
+756,Switzerland,Arcade,Sport,2002,2007,1
+756,Switzerland,Shooter,Simulator,2002,2007,1
+756,Switzerland,Shooter,Sport,2002,2007,1
+756,Switzerland,Simulator,Strategy,2007,2012,1
+756,Switzerland,Sport,Strategy,2007,2012,1
+756,Switzerland,Strategy,Fighting,2012,2017,1
+756,Switzerland,Strategy,Racing,2012,2017,1
+756,Switzerland,Fighting,Card & Board Game,2017,2022,1
+756,Switzerland,Fighting,Hack and slash/Beat 'em up,2017,2022,1
+756,Switzerland,Fighting,Platform,2017,2022,1
+756,Switzerland,Fighting,Point-and-click,2017,2022,1
+756,Switzerland,Fighting,Puzzle,2017,2022,1
+756,Switzerland,Fighting,Quiz/Trivia,2017,2022,1
+756,Switzerland,Racing,Card & Board Game,2017,2022,1
+756,Switzerland,Racing,Hack and slash/Beat 'em up,2017,2022,1
+756,Switzerland,Racing,Platform,2017,2022,1
+756,Switzerland,Racing,Point-and-click,2017,2022,1
+756,Switzerland,Racing,Puzzle,2017,2022,1
+756,Switzerland,Racing,Quiz/Trivia,2017,2022,1
+764,Thailand,Adventure,Arcade,2007,2012,1
+764,Thailand,Adventure,Strategy,2007,2012,1
+764,Thailand,Card & Board Game,Arcade,2007,2012,1
+764,Thailand,Card & Board Game,Strategy,2007,2012,1
+764,Thailand,Platform,Arcade,2007,2012,1
+764,Thailand,Platform,Strategy,2007,2012,1
+764,Thailand,Puzzle,Arcade,2007,2012,1
+764,Thailand,Puzzle,Strategy,2007,2012,1
+764,Thailand,Arcade,Indie,2012,2017,1
+764,Thailand,Arcade,Role-playing (RPG),2012,2017,1
+764,Thailand,Strategy,Indie,2012,2017,1
+764,Thailand,Strategy,Role-playing (RPG),2012,2017,1
+764,Thailand,Indie,Shooter,2017,2022,1
+764,Thailand,Indie,Turn-based strategy (TBS),2017,2022,1
+764,Thailand,Role-playing (RPG),Shooter,2017,2022,1
+764,Thailand,Role-playing (RPG),Turn-based strategy (TBS),2017,2022,1
+784,United Arab Emirates,Arcade,Adventure,2017,2022,1
+784,United Arab Emirates,Arcade,Platform,2017,2022,1
+784,United Arab Emirates,Arcade,Real Time Strategy (RTS),2017,2022,1
+784,United Arab Emirates,Arcade,Role-playing (RPG),2017,2022,1
+784,United Arab Emirates,Arcade,Shooter,2017,2022,1
+784,United Arab Emirates,Arcade,Simulator,2017,2022,1
+784,United Arab Emirates,Arcade,Strategy,2017,2022,1
+784,United Arab Emirates,Indie,Adventure,2017,2022,1
+784,United Arab Emirates,Indie,Platform,2017,2022,1
+784,United Arab Emirates,Indie,Real Time Strategy (RTS),2017,2022,1
+784,United Arab Emirates,Indie,Role-playing (RPG),2017,2022,1
+784,United Arab Emirates,Indie,Shooter,2017,2022,1
+784,United Arab Emirates,Indie,Simulator,2017,2022,1
+784,United Arab Emirates,Indie,Strategy,2017,2022,1
+792,Türkiye,Adventure,Puzzle,2007,2012,1
+792,Türkiye,Adventure,Strategy,2007,2012,1
+792,Türkiye,Indie,Puzzle,2007,2012,1
+792,Türkiye,Indie,Strategy,2007,2012,1
+792,Türkiye,Point-and-click,Puzzle,2007,2012,1
+792,Türkiye,Point-and-click,Strategy,2007,2012,1
+792,Türkiye,Role-playing (RPG),Puzzle,2007,2012,1
+792,Türkiye,Role-playing (RPG),Strategy,2007,2012,1
+792,Türkiye,Puzzle,Arcade,2012,2017,1
+792,Türkiye,Puzzle,Platform,2012,2017,1
+792,Türkiye,Puzzle,Racing,2012,2017,1
+792,Türkiye,Puzzle,Shooter,2012,2017,1
+792,Türkiye,Strategy,Arcade,2012,2017,1
+792,Türkiye,Strategy,Platform,2012,2017,1
+792,Türkiye,Strategy,Racing,2012,2017,1
+792,Türkiye,Strategy,Shooter,2012,2017,1
+792,Türkiye,Arcade,Card & Board Game,2017,2022,1
+792,Türkiye,Arcade,Real Time Strategy (RTS),2017,2022,1
+792,Türkiye,Arcade,Simulator,2017,2022,1
+792,Türkiye,Arcade,Tactical,2017,2022,1
+792,Türkiye,Platform,Card & Board Game,2017,2022,1
+792,Türkiye,Platform,Real Time Strategy (RTS),2017,2022,1
+792,Türkiye,Platform,Simulator,2017,2022,1
+792,Türkiye,Platform,Tactical,2017,2022,1
+792,Türkiye,Racing,Card & Board Game,2017,2022,1
+792,Türkiye,Racing,Real Time Strategy (RTS),2017,2022,1
+792,Türkiye,Racing,Simulator,2017,2022,1
+792,Türkiye,Racing,Tactical,2017,2022,1
+792,Türkiye,Shooter,Card & Board Game,2017,2022,1
+792,Türkiye,Shooter,Real Time Strategy (RTS),2017,2022,1
+792,Türkiye,Shooter,Simulator,2017,2022,1
+792,Türkiye,Shooter,Tactical,2017,2022,1
+804,Ukraine,Shooter,Adventure,1997,2002,1
+804,Ukraine,Shooter,Arcade,1997,2002,1
+804,Ukraine,Shooter,Point-and-click,1997,2002,1
+804,Ukraine,Shooter,Puzzle,1997,2002,1
+804,Ukraine,Shooter,Role-playing (RPG),1997,2002,1
+804,Ukraine,Shooter,Tactical,1997,2002,1
+804,Ukraine,Simulator,Adventure,1997,2002,1
+804,Ukraine,Simulator,Arcade,1997,2002,1
+804,Ukraine,Simulator,Point-and-click,1997,2002,1
+804,Ukraine,Simulator,Puzzle,1997,2002,1
+804,Ukraine,Simulator,Role-playing (RPG),1997,2002,1
+804,Ukraine,Simulator,Tactical,1997,2002,1
+804,Ukraine,Sport,Adventure,1997,2002,1
+804,Ukraine,Sport,Arcade,1997,2002,1
+804,Ukraine,Sport,Point-and-click,1997,2002,1
+804,Ukraine,Sport,Puzzle,1997,2002,1
+804,Ukraine,Sport,Role-playing (RPG),1997,2002,1
+804,Ukraine,Sport,Tactical,1997,2002,1
+804,Ukraine,Adventure,Real Time Strategy (RTS),2002,2007,1
+804,Ukraine,Adventure,Strategy,2002,2007,1
+804,Ukraine,Adventure,Turn-based strategy (TBS),2002,2007,1
+804,Ukraine,Arcade,Real Time Strategy (RTS),2002,2007,1
+804,Ukraine,Arcade,Strategy,2002,2007,1
+804,Ukraine,Arcade,Turn-based strategy (TBS),2002,2007,1
+804,Ukraine,Point-and-click,Real Time Strategy (RTS),2002,2007,1
+804,Ukraine,Point-and-click,Strategy,2002,2007,1
+804,Ukraine,Point-and-click,Turn-based strategy (TBS),2002,2007,1
+804,Ukraine,Puzzle,Real Time Strategy (RTS),2002,2007,1
+804,Ukraine,Puzzle,Strategy,2002,2007,1
+804,Ukraine,Puzzle,Turn-based strategy (TBS),2002,2007,1
+804,Ukraine,Role-playing (RPG),Real Time Strategy (RTS),2002,2007,1
+804,Ukraine,Role-playing (RPG),Strategy,2002,2007,1
+804,Ukraine,Role-playing (RPG),Turn-based strategy (TBS),2002,2007,1
+804,Ukraine,Tactical,Real Time Strategy (RTS),2002,2007,1
+804,Ukraine,Tactical,Strategy,2002,2007,1
+804,Ukraine,Tactical,Turn-based strategy (TBS),2002,2007,1
+804,Ukraine,Real Time Strategy (RTS),Indie,2007,2012,1
+804,Ukraine,Strategy,Indie,2007,2012,1
+804,Ukraine,Turn-based strategy (TBS),Indie,2007,2012,1
+818,Egypt,Adventure,Puzzle,2017,2022,1
+818,Egypt,Point-and-click,Puzzle,2017,2022,1
+818,Egypt,Strategy,Puzzle,2017,2022,1
+826,United Kingdom,Arcade,Adventure,1977,1982,1
+826,United Kingdom,Arcade,Platform,1977,1982,1
+826,United Kingdom,Arcade,Puzzle,1977,1982,1
+826,United Kingdom,Arcade,Shooter,1977,1982,1
+826,United Kingdom,Arcade,Simulator,1977,1982,1
+826,United Kingdom,Adventure,Pinball,1982,1987,1
+826,United Kingdom,Adventure,Quiz/Trivia,1982,1987,1
+826,United Kingdom,Adventure,Racing,1982,1987,1
+826,United Kingdom,Adventure,Real Time Strategy (RTS),1982,1987,1
+826,United Kingdom,Adventure,Strategy,1982,1987,1
+826,United Kingdom,Adventure,Tactical,1982,1987,1
+826,United Kingdom,Platform,Pinball,1982,1987,1
+826,United Kingdom,Platform,Quiz/Trivia,1982,1987,1
+826,United Kingdom,Platform,Racing,1982,1987,1
+826,United Kingdom,Platform,Real Time Strategy (RTS),1982,1987,1
+826,United Kingdom,Platform,Strategy,1982,1987,1
+826,United Kingdom,Platform,Tactical,1982,1987,1
+826,United Kingdom,Puzzle,Pinball,1982,1987,1
+826,United Kingdom,Puzzle,Quiz/Trivia,1982,1987,1
+826,United Kingdom,Puzzle,Racing,1982,1987,1
+826,United Kingdom,Puzzle,Real Time Strategy (RTS),1982,1987,1
+826,United Kingdom,Puzzle,Strategy,1982,1987,1
+826,United Kingdom,Puzzle,Tactical,1982,1987,1
+826,United Kingdom,Shooter,Pinball,1982,1987,1
+826,United Kingdom,Shooter,Quiz/Trivia,1982,1987,1
+826,United Kingdom,Shooter,Racing,1982,1987,1
+826,United Kingdom,Shooter,Real Time Strategy (RTS),1982,1987,1
+826,United Kingdom,Shooter,Strategy,1982,1987,1
+826,United Kingdom,Shooter,Tactical,1982,1987,1
+826,United Kingdom,Simulator,Pinball,1982,1987,1
+826,United Kingdom,Simulator,Quiz/Trivia,1982,1987,1
+826,United Kingdom,Simulator,Racing,1982,1987,1
+826,United Kingdom,Simulator,Real Time Strategy (RTS),1982,1987,1
+826,United Kingdom,Simulator,Strategy,1982,1987,1
+826,United Kingdom,Simulator,Tactical,1982,1987,1
+826,United Kingdom,Pinball,Hack and slash/Beat 'em up,1987,1992,1
+826,United Kingdom,Pinball,Sport,1987,1992,1
+826,United Kingdom,Quiz/Trivia,Hack and slash/Beat 'em up,1987,1992,1
+826,United Kingdom,Quiz/Trivia,Sport,1987,1992,1
+826,United Kingdom,Racing,Hack and slash/Beat 'em up,1987,1992,1
+826,United Kingdom,Racing,Sport,1987,1992,1
+826,United Kingdom,Real Time Strategy (RTS),Hack and slash/Beat 'em up,1987,1992,1
+826,United Kingdom,Real Time Strategy (RTS),Sport,1987,1992,1
+826,United Kingdom,Strategy,Hack and slash/Beat 'em up,1987,1992,1
+826,United Kingdom,Strategy,Sport,1987,1992,1
+826,United Kingdom,Tactical,Hack and slash/Beat 'em up,1987,1992,1
+826,United Kingdom,Tactical,Sport,1987,1992,1
+826,United Kingdom,Hack and slash/Beat 'em up,Indie,1992,1997,1
+826,United Kingdom,Sport,Indie,1992,1997,1
+826,United Kingdom,Indie,Music,1997,2002,1
+826,United Kingdom,Music,Turn-based strategy (TBS),2002,2007,1
+826,United Kingdom,Turn-based strategy (TBS),Card & Board Game,2007,2012,1
+840,United States,Adventure,Quiz/Trivia,1972,1977,1
+840,United States,Adventure,Racing,1972,1977,1
+840,United States,Adventure,Role-playing (RPG),1972,1977,1
+840,United States,Adventure,Tactical,1972,1977,1
+840,United States,Adventure,Turn-based strategy (TBS),1972,1977,1
+840,United States,Card & Board Game,Quiz/Trivia,1972,1977,1
+840,United States,Card & Board Game,Racing,1972,1977,1
+840,United States,Card & Board Game,Role-playing (RPG),1972,1977,1
+840,United States,Card & Board Game,Tactical,1972,1977,1
+840,United States,Card & Board Game,Turn-based strategy (TBS),1972,1977,1
+840,United States,Puzzle,Quiz/Trivia,1972,1977,1
+840,United States,Puzzle,Racing,1972,1977,1
+840,United States,Puzzle,Role-playing (RPG),1972,1977,1
+840,United States,Puzzle,Tactical,1972,1977,1
+840,United States,Puzzle,Turn-based strategy (TBS),1972,1977,1
+840,United States,Simulator,Quiz/Trivia,1972,1977,1
+840,United States,Simulator,Racing,1972,1977,1
+840,United States,Simulator,Role-playing (RPG),1972,1977,1
+840,United States,Simulator,Tactical,1972,1977,1
+840,United States,Simulator,Turn-based strategy (TBS),1972,1977,1
+840,United States,Sport,Quiz/Trivia,1972,1977,1
+840,United States,Sport,Racing,1972,1977,1
+840,United States,Sport,Role-playing (RPG),1972,1977,1
+840,United States,Sport,Tactical,1972,1977,1
+840,United States,Sport,Turn-based strategy (TBS),1972,1977,1
+840,United States,Strategy,Quiz/Trivia,1972,1977,1
+840,United States,Strategy,Racing,1972,1977,1
+840,United States,Strategy,Role-playing (RPG),1972,1977,1
+840,United States,Strategy,Tactical,1972,1977,1
+840,United States,Strategy,Turn-based strategy (TBS),1972,1977,1
+840,United States,Quiz/Trivia,Arcade,1977,1982,1
+840,United States,Quiz/Trivia,Point-and-click,1977,1982,1
+840,United States,Quiz/Trivia,Real Time Strategy (RTS),1977,1982,1
+840,United States,Racing,Arcade,1977,1982,1
+840,United States,Racing,Point-and-click,1977,1982,1
+840,United States,Racing,Real Time Strategy (RTS),1977,1982,1
+840,United States,Role-playing (RPG),Arcade,1977,1982,1
+840,United States,Role-playing (RPG),Point-and-click,1977,1982,1
+840,United States,Role-playing (RPG),Real Time Strategy (RTS),1977,1982,1
+840,United States,Tactical,Arcade,1977,1982,1
+840,United States,Tactical,Point-and-click,1977,1982,1
+840,United States,Tactical,Real Time Strategy (RTS),1977,1982,1
+840,United States,Turn-based strategy (TBS),Arcade,1977,1982,1
+840,United States,Turn-based strategy (TBS),Point-and-click,1977,1982,1
+840,United States,Turn-based strategy (TBS),Real Time Strategy (RTS),1977,1982,1
+840,United States,Arcade,Indie,1982,1987,1
+840,United States,Point-and-click,Indie,1982,1987,1
+840,United States,Real Time Strategy (RTS),Indie,1982,1987,1
+840,United States,Indie,Pinball,1987,1992,1
+840,United States,Indie,Shooter,1987,1992,1
+840,United States,Pinball,Hack and slash/Beat 'em up,1992,1997,1
+840,United States,Shooter,Hack and slash/Beat 'em up,1992,1997,1
+840,United States,Hack and slash/Beat 'em up,Platform,1997,2002,1
+840,United States,Platform,MOBA,2002,2007,1
+840,United States,MOBA,Fighting,2007,2012,1
+858,Uruguay,Platform,Arcade,2007,2012,1
+858,Uruguay,Platform,Indie,2007,2012,1
+858,Uruguay,Arcade,Strategy,2012,2017,1
+858,Uruguay,Indie,Strategy,2012,2017,1
+858,Uruguay,Strategy,Role-playing (RPG),2017,2022,1

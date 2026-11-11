@@ -1,0 +1,25 @@
+IGDB research dataset — automatic summary
+Study window: 1952–2025
+Unique games: 75,971
+Countries: 118
+Genres: 23
+Game-country-genre rows: 158,939
+Adoption rule: annual country-weighted count >= 3
+
+Most represented genres by distinct games:
+- Adventure: 24,461 games; 103 countries
+- Indie: 18,517 games; 109 countries
+- Simulator: 12,969 games; 86 countries
+- Role-playing (RPG): 12,702 games; 88 countries
+- Strategy: 11,306 games; 84 countries
+
+Genres reaching the most countries under the adoption rule:
+- Indie: 69 countries; first adoption year 1996
+- Adventure: 67 countries; first adoption year 1980
+- Simulator: 58 countries; first adoption year 1972
+- Strategy: 57 countries; first adoption year 1976
+- Puzzle: 54 countries; first adoption year 1976
+
+Interpretation warning:
+Country associations are not automatically measures of consumer adoption, sales, popularity, or causal influence.
+Confirm what the country field represents before using diffusion/adoption language in a paper.

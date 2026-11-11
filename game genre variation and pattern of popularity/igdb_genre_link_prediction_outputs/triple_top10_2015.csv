@@ -1,0 +1,11 @@
+rank,ranking_score,genre_a_id,genre_a,genre_b_id,genre_b,genre_c_id,genre_c,pair_support,triple_common_neighbor_sum,triple_adamic_adar_sum,triple_score,future_game_count,appeared_2016_2025
+1,363,5,Shooter,8,Platform,16,Turn-based strategy (TBS),3,63,20.83639240767252,363,2,True
+2,363,5,Shooter,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,3,63,20.83639240767252,363,0,False
+3,363,5,Shooter,16,Turn-based strategy (TBS),26,Quiz/Trivia,3,63,20.83639240767252,363,0,False
+4,363,8,Platform,16,Turn-based strategy (TBS),33,Arcade,3,63,20.83639240767252,363,3,True
+5,363,9,Puzzle,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,3,63,20.83639240767252,363,0,False
+6,363,12,Role-playing (RPG),25,Hack and slash/Beat 'em up,26,Quiz/Trivia,3,63,20.83639240767252,363,1,True
+7,363,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,26,Quiz/Trivia,3,63,20.83639240767252,363,0,False
+8,363,16,Turn-based strategy (TBS),25,Hack and slash/Beat 'em up,33,Arcade,3,63,20.83639240767252,363,0,False
+9,363,16,Turn-based strategy (TBS),26,Quiz/Trivia,33,Arcade,3,63,20.83639240767252,363,0,False
+10,363,25,Hack and slash/Beat 'em up,26,Quiz/Trivia,32,Indie,3,63,20.83639240767252,363,1,True

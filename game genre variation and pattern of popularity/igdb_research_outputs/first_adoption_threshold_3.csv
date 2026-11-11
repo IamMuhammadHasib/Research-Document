@@ -1,0 +1,763 @@
+genre,country,first_adoption_year
+Adventure,Argentina,2016
+Adventure,Armenia,2011
+Adventure,Australia,1986
+Adventure,Austria,2006
+Adventure,Belgium,2009
+Adventure,Brazil,1984
+Adventure,Bulgaria,2011
+Adventure,Canada,1993
+Adventure,Chile,2018
+Adventure,China,2008
+Adventure,Colombia,2024
+Adventure,Costa Rica,2025
+Adventure,Croatia,2014
+Adventure,Cyprus,2015
+Adventure,Czechia,1999
+Adventure,Denmark,2000
+Adventure,Egypt,2018
+Adventure,Estonia,2020
+Adventure,Finland,2006
+Adventure,France,1986
+Adventure,Germany,1996
+Adventure,Greece,2021
+Adventure,Hong Kong,2020
+Adventure,Hungary,1994
+Adventure,India,2015
+Adventure,Indonesia,2016
+Adventure,Iran,2019
+Adventure,Ireland,2009
+Adventure,Israel,2018
+Adventure,Italy,1993
+Adventure,Japan,1982
+Adventure,Kazakhstan,2018
+Adventure,Latvia,2021
+Adventure,Lithuania,2018
+Adventure,Malaysia,2018
+Adventure,Mexico,2015
+Adventure,Moldova,2024
+Adventure,Morocco,2025
+Adventure,Netherlands,1991
+Adventure,New Caledonia,2023
+Adventure,New Zealand,2007
+Adventure,Nigeria,2023
+Adventure,Norway,2014
+Adventure,Peru,2020
+Adventure,Philippines,2017
+Adventure,Poland,2003
+Adventure,Portugal,2014
+Adventure,Romania,2019
+Adventure,Russia,1998
+Adventure,Serbia,2014
+Adventure,Singapore,2010
+Adventure,Slovakia,2020
+Adventure,South Africa,2020
+Adventure,South Korea,1998
+Adventure,Spain,1984
+Adventure,Sweden,1997
+Adventure,Switzerland,2018
+Adventure,Taiwan,1997
+Adventure,Thailand,2025
+Adventure,Türkiye,2014
+Adventure,Ukraine,2005
+Adventure,United Arab Emirates,2024
+Adventure,United Kingdom,1982
+Adventure,United States,1980
+Adventure,Uruguay,2024
+Adventure,Venezuela,2014
+Adventure,Vietnam,2024
+Arcade,Argentina,2011
+Arcade,Australia,1988
+Arcade,Austria,2011
+Arcade,Belgium,2015
+Arcade,Brazil,2013
+Arcade,Canada,1987
+Arcade,Chile,2018
+Arcade,China,2002
+Arcade,Colombia,2024
+Arcade,Croatia,2025
+Arcade,Cyprus,2019
+Arcade,Czechia,2018
+Arcade,Denmark,2014
+Arcade,Finland,2003
+Arcade,France,1987
+Arcade,Germany,1987
+Arcade,Hong Kong,1981
+Arcade,Hungary,2023
+Arcade,Iceland,2023
+Arcade,Indonesia,2022
+Arcade,Italy,1993
+Arcade,Japan,1974
+Arcade,Kazakhstan,2019
+Arcade,Lithuania,2021
+Arcade,Mexico,2016
+Arcade,Morocco,2025
+Arcade,Netherlands,2009
+Arcade,New Zealand,2007
+Arcade,North Korea,2016
+Arcade,Norway,2016
+Arcade,Peru,2023
+Arcade,Poland,2002
+Arcade,Portugal,2018
+Arcade,Russia,2002
+Arcade,Serbia,2018
+Arcade,Singapore,2011
+Arcade,Slovakia,2023
+Arcade,South Africa,2020
+Arcade,South Korea,1990
+Arcade,Spain,1987
+Arcade,Sweden,2001
+Arcade,Switzerland,2019
+Arcade,Taiwan,1992
+Arcade,Thailand,2016
+Arcade,Türkiye,2019
+Arcade,Ukraine,2011
+Arcade,United Kingdom,1981
+Arcade,United States,1972
+Card & Board Game,Australia,2013
+Card & Board Game,Belgium,2017
+Card & Board Game,Brazil,2017
+Card & Board Game,Canada,2010
+Card & Board Game,China,2009
+Card & Board Game,Denmark,2019
+Card & Board Game,Finland,2016
+Card & Board Game,France,2008
+Card & Board Game,Germany,2009
+Card & Board Game,Indonesia,2024
+Card & Board Game,Italy,2025
+Card & Board Game,Japan,1983
+Card & Board Game,Mexico,2016
+Card & Board Game,Netherlands,1993
+Card & Board Game,Poland,2017
+Card & Board Game,Russia,2014
+Card & Board Game,South Korea,2023
+Card & Board Game,Spain,2021
+Card & Board Game,Sweden,2023
+Card & Board Game,Taiwan,1992
+Card & Board Game,Thailand,2025
+Card & Board Game,Türkiye,2025
+Card & Board Game,United Kingdom,1990
+Card & Board Game,United States,1979
+Fighting,Australia,1986
+Fighting,Brazil,2016
+Fighting,Canada,2005
+Fighting,China,2017
+Fighting,Finland,2018
+Fighting,France,2002
+Fighting,Germany,2017
+Fighting,Italy,2018
+Fighting,Japan,1984
+Fighting,Malaysia,2024
+Fighting,Netherlands,2020
+Fighting,Poland,2015
+Fighting,Singapore,2024
+Fighting,South Korea,2019
+Fighting,Spain,2017
+Fighting,Sweden,2009
+Fighting,Taiwan,1993
+Fighting,United Kingdom,1986
+Fighting,United States,1988
+Hack and slash/Beat 'em up,Australia,2017
+Hack and slash/Beat 'em up,Austria,2025
+Hack and slash/Beat 'em up,Brazil,2016
+Hack and slash/Beat 'em up,Canada,2003
+Hack and slash/Beat 'em up,China,2011
+Hack and slash/Beat 'em up,Denmark,2009
+Hack and slash/Beat 'em up,Finland,2021
+Hack and slash/Beat 'em up,France,2007
+Hack and slash/Beat 'em up,Germany,2014
+Hack and slash/Beat 'em up,Italy,2017
+Hack and slash/Beat 'em up,Japan,1984
+Hack and slash/Beat 'em up,Poland,2014
+Hack and slash/Beat 'em up,Russia,2023
+Hack and slash/Beat 'em up,Singapore,2025
+Hack and slash/Beat 'em up,South Korea,2019
+Hack and slash/Beat 'em up,Spain,1989
+Hack and slash/Beat 'em up,Sweden,2013
+Hack and slash/Beat 'em up,United Kingdom,1987
+Hack and slash/Beat 'em up,United States,1986
+Indie,Argentina,2016
+Indie,Armenia,2025
+Indie,Australia,2004
+Indie,Austria,2012
+Indie,Belarus,2016
+Indie,Belgium,2009
+Indie,Brazil,2013
+Indie,Bulgaria,2024
+Indie,Canada,2004
+Indie,Chile,2018
+Indie,China,2008
+Indie,Colombia,2018
+Indie,Croatia,2009
+Indie,Cyprus,2018
+Indie,Czechia,2007
+Indie,Denmark,2011
+Indie,Egypt,2024
+Indie,Estonia,2018
+Indie,Finland,2009
+Indie,France,2008
+Indie,Georgia,2017
+Indie,Germany,2007
+Indie,Greece,2018
+Indie,Hong Kong,2016
+Indie,Hungary,2013
+Indie,Iceland,2015
+Indie,India,2015
+Indie,Indonesia,2016
+Indie,Ireland,2014
+Indie,Israel,2018
+Indie,Italy,2010
+Indie,Japan,1996
+Indie,Kazakhstan,2017
+Indie,Latvia,2018
+Indie,Lithuania,2017
+Indie,Luxembourg,2024
+Indie,Malaysia,2014
+Indie,Mexico,2015
+Indie,Moldova,2024
+Indie,Netherlands,2008
+Indie,New Zealand,2007
+Indie,Nigeria,2023
+Indie,Norway,2013
+Indie,Pakistan,2024
+Indie,Peru,2022
+Indie,Philippines,2010
+Indie,Poland,2004
+Indie,Portugal,2014
+Indie,Romania,2017
+Indie,Russia,2009
+Indie,Saudi Arabia,2025
+Indie,Serbia,2014
+Indie,Singapore,2011
+Indie,Slovakia,2016
+Indie,South Africa,2014
+Indie,South Korea,2012
+Indie,Spain,2012
+Indie,Sweden,2006
+Indie,Switzerland,2018
+Indie,Taiwan,2017
+Indie,Thailand,2019
+Indie,Tunisia,2024
+Indie,Türkiye,2014
+Indie,Ukraine,2008
+Indie,United Arab Emirates,2023
+Indie,United Kingdom,2004
+Indie,United States,1996
+Indie,Uruguay,2023
+Indie,Vietnam,2021
+MOBA,Netherlands,2018
+MOBA,Sweden,2015
+MOBA,United States,2012
+Music,Argentina,2011
+Music,Brazil,2009
+Music,Canada,2007
+Music,China,2008
+Music,Czechia,2019
+Music,Finland,2025
+Music,France,2011
+Music,Germany,2018
+Music,Japan,1987
+Music,Poland,2023
+Music,Russia,2018
+Music,South Korea,2017
+Music,Spain,2022
+Music,Sweden,2013
+Music,United Kingdom,2003
+Music,United States,1997
+Pinball,Canada,1994
+Pinball,Hungary,2008
+Pinball,Japan,1979
+Pinball,Sweden,1994
+Pinball,United Kingdom,1998
+Pinball,United States,1993
+Platform,Argentina,2022
+Platform,Australia,1993
+Platform,Austria,2014
+Platform,Belgium,2018
+Platform,Brazil,1997
+Platform,Canada,1999
+Platform,China,1997
+Platform,Czechia,2015
+Platform,Denmark,2013
+Platform,Finland,2008
+Platform,France,1988
+Platform,Germany,1988
+Platform,Hong Kong,2021
+Platform,Italy,2000
+Platform,Japan,1981
+Platform,Kazakhstan,2018
+Platform,Latvia,2020
+Platform,Mexico,2016
+Platform,Netherlands,2013
+Platform,New Zealand,2022
+Platform,Norway,2014
+Platform,Poland,2005
+Platform,Portugal,2024
+Platform,Russia,2011
+Platform,Singapore,2011
+Platform,Slovakia,2023
+Platform,South Korea,2010
+Platform,Spain,1985
+Platform,Sweden,2001
+Platform,Switzerland,2022
+Platform,Taiwan,1992
+Platform,Türkiye,2019
+Platform,Ukraine,2018
+Platform,United Kingdom,1983
+Platform,United States,1982
+Point-and-click,Argentina,2016
+Point-and-click,Armenia,2011
+Point-and-click,Australia,2017
+Point-and-click,Belgium,2023
+Point-and-click,Brazil,2001
+Point-and-click,Canada,1998
+Point-and-click,China,2019
+Point-and-click,Croatia,2021
+Point-and-click,Cyprus,2019
+Point-and-click,Czechia,1999
+Point-and-click,Denmark,1997
+Point-and-click,Finland,2023
+Point-and-click,France,1987
+Point-and-click,Germany,1999
+Point-and-click,Greece,2024
+Point-and-click,Indonesia,2024
+Point-and-click,Ireland,2016
+Point-and-click,Israel,1996
+Point-and-click,Italy,2016
+Point-and-click,Japan,1986
+Point-and-click,Latvia,2023
+Point-and-click,Netherlands,2010
+Point-and-click,Norway,2023
+Point-and-click,Poland,2005
+Point-and-click,Portugal,2021
+Point-and-click,Romania,2019
+Point-and-click,Russia,2003
+Point-and-click,Serbia,2016
+Point-and-click,South Korea,2024
+Point-and-click,Spain,2014
+Point-and-click,Sweden,1997
+Point-and-click,Türkiye,2008
+Point-and-click,Ukraine,2008
+Point-and-click,United Kingdom,1992
+Point-and-click,United States,1985
+Puzzle,Argentina,2008
+Puzzle,Armenia,2011
+Puzzle,Australia,2004
+Puzzle,Austria,2014
+Puzzle,Belgium,2006
+Puzzle,Brazil,1997
+Puzzle,Canada,2000
+Puzzle,Chile,2025
+Puzzle,China,2005
+Puzzle,Croatia,2014
+Puzzle,Cyprus,2017
+Puzzle,Czechia,1998
+Puzzle,Denmark,2014
+Puzzle,Estonia,2020
+Puzzle,Finland,2005
+Puzzle,France,1986
+Puzzle,Germany,1989
+Puzzle,Greece,2019
+Puzzle,Hong Kong,2021
+Puzzle,Hungary,2015
+Puzzle,India,2016
+Puzzle,Indonesia,2022
+Puzzle,Ireland,2016
+Puzzle,Israel,2018
+Puzzle,Italy,2014
+Puzzle,Japan,1979
+Puzzle,Kazakhstan,2024
+Puzzle,Latvia,2023
+Puzzle,Lithuania,2021
+Puzzle,Mexico,2016
+Puzzle,Netherlands,2008
+Puzzle,New Zealand,2007
+Puzzle,Norway,2006
+Puzzle,Peru,2020
+Puzzle,Philippines,2010
+Puzzle,Poland,2001
+Puzzle,Portugal,2017
+Puzzle,Romania,2019
+Puzzle,Russia,2006
+Puzzle,Serbia,2016
+Puzzle,Singapore,2017
+Puzzle,Slovakia,2022
+Puzzle,South Africa,2023
+Puzzle,South Korea,2015
+Puzzle,Spain,1987
+Puzzle,Sweden,1996
+Puzzle,Switzerland,2022
+Puzzle,Taiwan,1991
+Puzzle,Thailand,2009
+Puzzle,Türkiye,2019
+Puzzle,Ukraine,2009
+Puzzle,United Kingdom,1983
+Puzzle,United States,1976
+Puzzle,Vietnam,2024
+Quiz/Trivia,Belgium,2024
+Quiz/Trivia,Brazil,2000
+Quiz/Trivia,Canada,2009
+Quiz/Trivia,France,2014
+Quiz/Trivia,Germany,2021
+Quiz/Trivia,Italy,2024
+Quiz/Trivia,Japan,1987
+Quiz/Trivia,Poland,2023
+Quiz/Trivia,Slovakia,2022
+Quiz/Trivia,United Kingdom,1988
+Quiz/Trivia,United States,1989
+Racing,Australia,2006
+Racing,Austria,2013
+Racing,Belgium,2003
+Racing,Brazil,2009
+Racing,Canada,1989
+Racing,China,2009
+Racing,Czechia,2005
+Racing,El Salvador,2021
+Racing,Finland,2007
+Racing,France,1987
+Racing,Germany,2005
+Racing,Italy,2000
+Racing,Japan,1975
+Racing,Netherlands,2001
+Racing,New Zealand,2019
+Racing,Norway,2021
+Racing,Pakistan,2023
+Racing,Poland,2003
+Racing,Russia,2006
+Racing,Singapore,2009
+Racing,South Korea,2023
+Racing,Spain,1988
+Racing,Sweden,1997
+Racing,Türkiye,2021
+Racing,Ukraine,2016
+Racing,United Kingdom,1986
+Racing,United States,1975
+Real Time Strategy (RTS),Australia,2017
+Real Time Strategy (RTS),Bulgaria,2005
+Real Time Strategy (RTS),Canada,2006
+Real Time Strategy (RTS),China,2019
+Real Time Strategy (RTS),Czechia,2001
+Real Time Strategy (RTS),Denmark,2019
+Real Time Strategy (RTS),Finland,2015
+Real Time Strategy (RTS),France,1999
+Real Time Strategy (RTS),Germany,1998
+Real Time Strategy (RTS),Hungary,2008
+Real Time Strategy (RTS),Japan,1988
+Real Time Strategy (RTS),Netherlands,2019
+Real Time Strategy (RTS),Poland,2019
+Real Time Strategy (RTS),Russia,2001
+Real Time Strategy (RTS),South Korea,2019
+Real Time Strategy (RTS),Spain,2025
+Real Time Strategy (RTS),Sweden,2008
+Real Time Strategy (RTS),Türkiye,2024
+Real Time Strategy (RTS),Ukraine,2009
+Real Time Strategy (RTS),United Kingdom,1989
+Real Time Strategy (RTS),United States,1984
+Role-playing (RPG),Argentina,2019
+Role-playing (RPG),Australia,2004
+Role-playing (RPG),Austria,2015
+Role-playing (RPG),Belgium,2017
+Role-playing (RPG),Brazil,2009
+Role-playing (RPG),Bulgaria,2014
+Role-playing (RPG),Canada,1999
+Role-playing (RPG),Chile,2024
+Role-playing (RPG),China,2007
+Role-playing (RPG),Croatia,2015
+Role-playing (RPG),Cyprus,2017
+Role-playing (RPG),Czechia,2007
+Role-playing (RPG),Denmark,2013
+Role-playing (RPG),Estonia,2021
+Role-playing (RPG),Finland,2014
+Role-playing (RPG),France,1994
+Role-playing (RPG),Germany,2001
+Role-playing (RPG),Greece,2023
+Role-playing (RPG),Hong Kong,2018
+Role-playing (RPG),Hungary,2011
+Role-playing (RPG),Iceland,2009
+Role-playing (RPG),India,2025
+Role-playing (RPG),Indonesia,2018
+Role-playing (RPG),Ireland,2015
+Role-playing (RPG),Israel,2018
+Role-playing (RPG),Italy,2014
+Role-playing (RPG),Japan,1983
+Role-playing (RPG),Lithuania,2024
+Role-playing (RPG),Malaysia,2014
+Role-playing (RPG),Mexico,2023
+Role-playing (RPG),Netherlands,2015
+Role-playing (RPG),New Zealand,2018
+Role-playing (RPG),North Korea,2016
+Role-playing (RPG),Norway,2017
+Role-playing (RPG),Poland,2008
+Role-playing (RPG),Portugal,2021
+Role-playing (RPG),Romania,2022
+Role-playing (RPG),Russia,2003
+Role-playing (RPG),Serbia,2020
+Role-playing (RPG),Singapore,2015
+Role-playing (RPG),Slovakia,2017
+Role-playing (RPG),South Korea,1998
+Role-playing (RPG),Spain,2013
+Role-playing (RPG),Sweden,2002
+Role-playing (RPG),Switzerland,2023
+Role-playing (RPG),Taiwan,2000
+Role-playing (RPG),Türkiye,2020
+Role-playing (RPG),Ukraine,2008
+Role-playing (RPG),United Arab Emirates,2025
+Role-playing (RPG),United Kingdom,1990
+Role-playing (RPG),United States,1979
+Role-playing (RPG),Uruguay,2024
+Role-playing (RPG),Vietnam,2024
+Shooter,Australia,1991
+Shooter,Belgium,2020
+Shooter,Brazil,1984
+Shooter,Canada,1996
+Shooter,Chile,2025
+Shooter,China,2001
+Shooter,Croatia,2011
+Shooter,Cyprus,2017
+Shooter,Czechia,2002
+Shooter,Denmark,2007
+Shooter,Finland,2002
+Shooter,France,1987
+Shooter,Germany,1995
+Shooter,Hong Kong,2019
+Shooter,Hungary,2023
+Shooter,India,2022
+Shooter,Ireland,2024
+Shooter,Italy,2003
+Shooter,Japan,1974
+Shooter,Kazakhstan,2021
+Shooter,Latvia,2020
+Shooter,Malta,2020
+Shooter,Mexico,2017
+Shooter,Netherlands,2004
+Shooter,New Zealand,2019
+Shooter,Norway,2015
+Shooter,Poland,2003
+Shooter,Portugal,2018
+Shooter,Romania,2003
+Shooter,Russia,2004
+Shooter,Serbia,2014
+Shooter,Singapore,2023
+Shooter,Slovakia,2008
+Shooter,South Korea,2007
+Shooter,Spain,1987
+Shooter,Sweden,2003
+Shooter,Switzerland,2004
+Shooter,Taiwan,1990
+Shooter,Türkiye,2020
+Shooter,Ukraine,2009
+Shooter,United Kingdom,1982
+Shooter,United States,1972
+Simulator,American Samoa,2022
+Simulator,Argentina,2023
+Simulator,Australia,2007
+Simulator,Austria,2012
+Simulator,Bangladesh,2023
+Simulator,Belarus,2016
+Simulator,Belgium,2015
+Simulator,Brazil,2003
+Simulator,Bulgaria,2010
+Simulator,Canada,1989
+Simulator,China,2006
+Simulator,Croatia,2014
+Simulator,Cyprus,2011
+Simulator,Czechia,2002
+Simulator,Denmark,2003
+Simulator,Estonia,2019
+Simulator,Finland,2011
+Simulator,France,1989
+Simulator,Germany,1996
+Simulator,Greece,2023
+Simulator,Hong Kong,2019
+Simulator,Hungary,2011
+Simulator,Iceland,2009
+Simulator,India,2018
+Simulator,Indonesia,2018
+Simulator,Ireland,2018
+Simulator,Italy,2000
+Simulator,Japan,1983
+Simulator,Kazakhstan,2024
+Simulator,Lithuania,2010
+Simulator,Malaysia,2018
+Simulator,Mexico,2016
+Simulator,Moldova,2023
+Simulator,Netherlands,2006
+Simulator,New Zealand,2016
+Simulator,Norway,2018
+Simulator,Pakistan,2023
+Simulator,Philippines,2019
+Simulator,Poland,2002
+Simulator,Portugal,2017
+Simulator,Romania,2006
+Simulator,Russia,2001
+Simulator,Serbia,2023
+Simulator,Singapore,2015
+Simulator,Slovakia,2011
+Simulator,Slovenia,2022
+Simulator,South Africa,2019
+Simulator,South Korea,2011
+Simulator,Spain,1996
+Simulator,Sweden,2000
+Simulator,Switzerland,2011
+Simulator,Taiwan,2022
+Simulator,Türkiye,2020
+Simulator,Ukraine,2015
+Simulator,United Arab Emirates,2024
+Simulator,United Kingdom,1984
+Simulator,United States,1972
+Simulator,Vietnam,2021
+Sport,Australia,1991
+Sport,Austria,2009
+Sport,Belgium,2020
+Sport,Brazil,2009
+Sport,Canada,1989
+Sport,Chile,2007
+Sport,China,2005
+Sport,Czechia,2023
+Sport,Denmark,2019
+Sport,Finland,1999
+Sport,France,1991
+Sport,Germany,2004
+Sport,India,2018
+Sport,Italy,2000
+Sport,Japan,1973
+Sport,Mexico,2017
+Sport,Netherlands,2014
+Sport,Poland,2011
+Sport,Romania,2006
+Sport,Russia,2017
+Sport,Slovakia,2011
+Sport,South Korea,2012
+Sport,Spain,1988
+Sport,Sweden,2013
+Sport,Türkiye,2024
+Sport,United Kingdom,1984
+Sport,United States,1972
+Strategy,Argentina,2016
+Strategy,Australia,1994
+Strategy,Austria,2013
+Strategy,Bangladesh,2023
+Strategy,Belarus,2022
+Strategy,Belgium,2015
+Strategy,Brazil,1984
+Strategy,Bulgaria,2008
+Strategy,Canada,2000
+Strategy,Chile,2024
+Strategy,China,2014
+Strategy,Croatia,2014
+Strategy,Cyprus,2015
+Strategy,Czechia,2001
+Strategy,Denmark,2013
+Strategy,Estonia,2025
+Strategy,Finland,2007
+Strategy,France,1988
+Strategy,Germany,1991
+Strategy,Greece,2024
+Strategy,Hong Kong,2012
+Strategy,Hungary,2010
+Strategy,Iceland,2009
+Strategy,India,2020
+Strategy,Indonesia,2010
+Strategy,Ireland,2016
+Strategy,Israel,2018
+Strategy,Italy,2016
+Strategy,Japan,1981
+Strategy,Jordan,2011
+Strategy,Kazakhstan,2025
+Strategy,Lithuania,2023
+Strategy,Mexico,2016
+Strategy,Netherlands,2009
+Strategy,New Zealand,2017
+Strategy,Norway,2019
+Strategy,Poland,2003
+Strategy,Portugal,2020
+Strategy,Romania,2024
+Strategy,Russia,1999
+Strategy,Serbia,2025
+Strategy,Singapore,2016
+Strategy,Slovakia,2016
+Strategy,South Africa,2019
+Strategy,South Korea,2001
+Strategy,Spain,2013
+Strategy,Sweden,2000
+Strategy,Switzerland,2024
+Strategy,Taiwan,2007
+Strategy,Thailand,2016
+Strategy,Türkiye,2020
+Strategy,Ukraine,2008
+Strategy,United Arab Emirates,2025
+Strategy,United Kingdom,1983
+Strategy,United States,1976
+Strategy,Uruguay,2024
+Strategy,Vietnam,2024
+Tactical,Australia,2021
+Tactical,Belgium,2016
+Tactical,Brazil,2020
+Tactical,Canada,2005
+Tactical,China,2019
+Tactical,Cyprus,2019
+Tactical,Czechia,2002
+Tactical,Denmark,2013
+Tactical,Finland,2015
+Tactical,France,2012
+Tactical,Germany,2011
+Tactical,Indonesia,2024
+Tactical,Japan,1987
+Tactical,Netherlands,2021
+Tactical,Poland,2015
+Tactical,Russia,2005
+Tactical,Singapore,2023
+Tactical,South Korea,2019
+Tactical,Spain,2024
+Tactical,Sweden,2015
+Tactical,Türkiye,2024
+Tactical,Ukraine,2025
+Tactical,United Kingdom,1986
+Tactical,United States,1983
+Turn-based strategy (TBS),Australia,2016
+Turn-based strategy (TBS),Belgium,2015
+Turn-based strategy (TBS),Brazil,2022
+Turn-based strategy (TBS),Bulgaria,2013
+Turn-based strategy (TBS),Canada,2003
+Turn-based strategy (TBS),China,2023
+Turn-based strategy (TBS),Cyprus,2023
+Turn-based strategy (TBS),Czechia,2021
+Turn-based strategy (TBS),Finland,2016
+Turn-based strategy (TBS),France,2009
+Turn-based strategy (TBS),Germany,2010
+Turn-based strategy (TBS),Italy,2019
+Turn-based strategy (TBS),Japan,1987
+Turn-based strategy (TBS),Luxembourg,2016
+Turn-based strategy (TBS),Netherlands,2014
+Turn-based strategy (TBS),Poland,2015
+Turn-based strategy (TBS),Russia,2007
+Turn-based strategy (TBS),Singapore,2023
+Turn-based strategy (TBS),South Korea,2014
+Turn-based strategy (TBS),Spain,2014
+Turn-based strategy (TBS),Sweden,2016
+Turn-based strategy (TBS),Türkiye,2025
+Turn-based strategy (TBS),United Kingdom,1991
+Turn-based strategy (TBS),United States,1980
+Visual Novel,Argentina,2021
+Visual Novel,Australia,2020
+Visual Novel,Brazil,2020
+Visual Novel,Canada,2017
+Visual Novel,Chile,2023
+Visual Novel,China,2017
+Visual Novel,Estonia,2025
+Visual Novel,France,2014
+Visual Novel,Germany,2016
+Visual Novel,Indonesia,2020
+Visual Novel,Italy,2014
+Visual Novel,Japan,1983
+Visual Novel,Malaysia,2021
+Visual Novel,Mexico,2021
+Visual Novel,Poland,2020
+Visual Novel,Russia,2014
+Visual Novel,Slovakia,2025
+Visual Novel,South Korea,2018
+Visual Novel,Spain,2018
+Visual Novel,Sweden,2022
+Visual Novel,Ukraine,2017
+Visual Novel,United Kingdom,2015
+Visual Novel,United States,2010
